@@ -1,1 +1,1 @@
-# Using-COT-for-Open-domain-table-text-QA-
+# TTQA-RS- A break-down prompting approach for Multi-hop Table-Text Question Answering with Reasoning and Summarization
