@@ -18,15 +18,15 @@ Run full model or full model without summary:
 
 ##OTTQA:
    
-    Raw data:
-        OTTQA: [OTTQA GitHub](https://github.com/wenhuchen/OTT-QA)
+Raw data:
+    OTTQA: [OTTQA GitHub](https://github.com/wenhuchen/OTT-QA)
     
-    Experiment setup:
-        We only used the dev set for the experiment.
-        We used Hybrider as the retriever: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
+Experiment setup:
+    We only used the dev set for the experiment.
+    We used Hybrider as the retriever: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
 
-    Decomposed questions:
-        Similar to HybridQA, we have QTTQA/question_dev.json
+Decomposed questions:
+    Similar to HybridQA, we have QTTQA/question_dev.json
 
-    Run full model or full model without summary:
-        This is applied to the dev set.
+Run full model or full model without summary:
+    This is applied to the dev set.
