@@ -4,7 +4,7 @@
 HybridQA:
 
     Get traced data:
-        For HybridQA, we used the text retriever from HybridQA: HybridQA GitHub
+        For HybridQA, we used the text retriever from HybridQA: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
         We used the table retriever from S3HQA: S3HQA GitHub
 
     Run summary, subanswers, and entity types:
