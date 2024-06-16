@@ -54,7 +54,7 @@ OTTQA: [OTTQA GitHub](https://github.com/wenhuchen/OTT-QA)
     
 ### Experiment setup:
 We only used the dev set for the experiment.
-We used Hybrider as the retriever: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
+We used HybridQA's retriever to retrieve the wiki links of dev set: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
 
 ### Run Summary, Subanswers, and Entity Types:
 
