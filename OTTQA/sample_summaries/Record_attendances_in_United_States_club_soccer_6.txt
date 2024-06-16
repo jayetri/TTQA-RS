@@ -1,0 +1,31 @@
+Prompt:
+
+
+Read the table and text regarding "Record attendances in United States club soccer" and create a summary.
+
+Year | Attendance | Teams | Competition | Venue & Location
+2014 | 109,318 | Manchester United vs. Real Madrid | 2014 ICC | Michigan Stadium , Ann Arbor , Michigan
+2016 | 105,826 | Chelsea vs. Real Madrid | 2016 ICC | Michigan Stadium , Ann Arbor , Michigan
+2018 | 101,254 | Liverpool vs. Manchester United | 2018 ICC | Michigan Stadium , Ann Arbor , Michigan
+2017 | 93,098 | Manchester City vs. Real Madrid | 2017 ICC | Los Angeles Memorial Coliseum , Los Angeles , California
+2016 | 86,641 | Real Madrid vs. Paris Saint-Germain | 2016 ICC | Ohio Stadium , Columbus , Ohio
+2011 | 81,807 | Manchester United vs. Barcelona | 2011 WFC | FedExField , Landover , Maryland
+2009 | 81,807 | Chelsea vs. Internazionale | 2009 WFC | Rose Bowl , Pasadena , California
+2015 | 78,914 | Chelsea vs. Barcelona | 2015 ICC | FedExField , Landover , Maryland
+2009 | 71,203 | Chelsea vs. Milan | 2009 WFC | M & T Bank Stadium , Baltimore
+2011 | 70,780 | Guadalajara vs Barcelona | 2011 WFC | Sun Life Stadium , Miami Gardens , Florida
+2014 | 69,364 | Milan vs Liverpool | 2014 ICC | Bank of America Stadium , Charlotte , North Carolina
+2015 | 68,416 | Barcelona vs. Manchester United | 2015 ICC | Levi 's Stadium , Santa Clara , California
+2013 | 67,273 | Real Madrid vs. Chelsea | 2013 ICC | Sun Life Stadium , Miami Gardens , Florida
+2014 | 62,583 | Real Madrid vs. Internazionale | 2014 ICC | California Memorial Stadium , Berkeley , California
+2015 | 61,351 | Manchester United vs. Paris Saint-Germain | 2015 ICC | Soldier Field , Chicago
+2014 | 61,238 | Manchester United vs. Internazionale | 2014 ICC | FedExField , Landover , Maryland
+2015 | 61,224 | Paris Saint-Germain vs. Chelsea | 2015 ICC | Bank of America Stadium , Charlotte , North Carolina
+1980 | 60,384 | Manchester City vs. Roma | 1980 TACC | Giants Stadium , East Rutherford , New Jersey
+2019 | 60,143 | Bayern Munich vs. Real Madrid | 2019 ICC | NRG Stadium , Houston
+2011 | 60,087 | Barcelona vs. América | 2011 WFC | Cowboys Stadium , Arlington , Texas
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the record attendances in United States club soccer matches from 1980 to 2019. The top attendance record is 109,318, set in 2014 at the Michigan Stadium in Ann Arbor, Michigan, during a match between Manchester United and Real Madrid. The majority of the top attendance records were set during the International Champions Cup (ICC), with a few exceptions from the World Football Challenge (WFC) and the Transatlantic Cup Championship (TACC). Most

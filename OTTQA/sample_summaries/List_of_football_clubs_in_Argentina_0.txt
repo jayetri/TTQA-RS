@@ -1,0 +1,34 @@
+Prompt:
+
+
+Read the table and text regarding "List of football clubs in Argentina" and create a summary.
+
+Club | City | Province | Stadium
+Aldosivi ( Mar del Plata ) | Mar del Plata | Buenos Aires | José María Minella
+Argentinos Juniors | Buenos Aires | ( autonomous city ) | Diego Armando Maradona
+Atlético Tucumán ( Tucumán ) | San Miguel de Tucumán | Tucumán | Estadio Monumental José Fierro
+Banfield | Banfield | Buenos Aires | Florencio Sola
+Belgrano ( Córdoba ) | Córdoba | Córdoba | Gigante de Alberdi
+Talleres ( Córdoba ) | Córdoba | Córdoba | Estadio Mario Alberto Kempes
+Boca Juniors | Buenos Aires | ( autonomous city ) | Alberto J. Armando ( La Bombonera )
+Colón ( Santa Fe ) | Santa Fe | Santa Fe | Estadio Brigadier General Estanislao López
+Defensa y Justicia | Florencio Varela | Buenos Aires | Norberto Tito Tomaghello
+Estudiantes ( La Plata ) | La Plata | Buenos Aires | Estadio Único de La Plata
+Gimnasia y Esgrima ( La Plata ) | La Plata | Buenos Aires | Juan Carmelo Zerillo
+Godoy Cruz ( Mendoza ) | Godoy Cruz | Mendoza | Malvinas Argentinas
+Huracán | Buenos Aires | ( autonomous city ) | Tomás Adolfo Ducó
+Independiente | Avellaneda | Buenos Aires | Libertadores de América
+Lanús | Lanús | Buenos Aires | Ciudad de Lanús - Néstor Díaz Pérez
+Newell 's Old Boys ( Rosario ) | Rosario | Santa Fe | Marcelo Bielsa
+Patronato ( Paraná ) | Paraná | Entre Ríos | Presbítero Bartolomé Grella
+Racing Club | Avellaneda | Buenos Aires | Presidente Juan Domingo Perón
+River Plate | Buenos Aires | ( autonomous city ) | Monumental Antonio V. Liberti
+Rosario Central ( Rosario ) | Rosario | Santa Fe | Gigante de Arroyito
+
+Text
+Estadio Ciudad de Lanús - Néstor Díaz Pérez , also known as La Fortaleza ( The Fortress ) , is a multi-use stadium in Lanús , Argentina . It is currently used primarily for football matches and is the home ground of Club Atlético Lanús . The stadium holds 47,027 people and was built in 1929 . In September 2010 , the club started construction on a roof for the local stand , which has since been completed . Several other works were completed in 2014 , these additions consisting in a new changing rooms , a press conference room , an official club shop , a highly competitive gym , a café for club members and a secondary school behind the stadium .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists 20 football clubs in Argentina, including their cities, provinces, and stadiums. The clubs are located in major cities like Buenos Aires, Cordoba, and Rosario, with some clubs having stadiums that can hold up to 47,000 people. The text provides additional information about the Estadio Ciudad de Lanús - Néstor Díaz Pérez, which is the home stadium of Club Atlético Lanús and has undergone renovations and expansions since 2010.

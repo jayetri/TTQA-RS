@@ -1,0 +1,31 @@
+Prompt:
+
+
+Read the table and text regarding "2008 Major League Baseball draft" and create a summary.
+
+Player | MLB Team | Position | NLB Team ( s )
+Neale 'Bobo ' Henderson | Los Angeles Angels of Anaheim | Shortstop | Kansas City Monarchs
+Hubert Simmons | Baltimore Orioles | Pitcher / Outfielder | Baltimore Elite Giants
+Jim 'Fireball ' Colzie | Boston Red Sox | Pitcher | Indianapolis Clowns Atlanta Black Crackers
+Hank Presswood | Chicago White Sox | Shortstop / Third baseman | Cleveland Buckeyes Kansas City Monarchs
+Otha Li ' l Catch Bailey | Cleveland Indians | Catcher | Birmingham Black Barons Chattanooga Choo-Choos Cleveland Buckeyes Houston/New Orleans Eagles
+Cecil Kaiser | Detroit Tigers | Pitcher / First baseman / Outfielder | Homestead Grays Pittsburgh Crawfords
+Ulysses Hollimon | Kansas City Royals | Pitcher | Birmingham Black Barons Baltimore Elite Giants
+Bill 'Lefty ' Bell | Minnesota Twins | Pitcher | Birmingham Black Barons Kansas City Monarchs
+Emilio 'Millito ' Navarro | New York Yankees | Shortstop / Second baseman / Third baseman | Cuban Stars
+Irvin Castille | Oakland Athletics | Shortstop | Birmingham Black Barons
+John 'Mule ' Miles | Seattle Mariners | Third baseman / Outfielder | Chicago American Giants
+Walter Lee Gibbons | Tampa Bay Rays | Pitcher | Philadelphia Stars New York Black Yankees Indianapolis Clowns
+Charley Pride | Texas Rangers | Pitcher | Birmingham Black Barons Memphis Red Sox
+Harold Gould | Toronto Blue Jays | Pitcher | Philadelphia Stars
+Bob Mitchell | Arizona Diamondbacks | Pitcher | Kansas City Monarchs
+James 'Red ' Moore | Atlanta Braves | First baseman | Atlanta Black Crackers Baltimore Elite Giants Newark Eagles
+Walt Owens | Chicago Cubs | Pitcher / First baseman | Detroit Stars
+Charlie Davis | Cincinnati Reds | Pitcher | Memphis Red Sox
+Mack 'The Knife ' Pride | Colorado Rockies | Pitcher | Memphis Red Sox Kansas City Monarchs
+Enrique Maroto | Florida Marlins | Pitcher | Kansas City Monarchs
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2008 Major League Baseball draft does not exist in the given table and text. Instead, the table shows a list of Negro league baseball players who were drafted into the MLB (Major League Baseball) as part of a special tribute to the Negro Leagues in 2008. The list includes players from various Negro league teams, including the Kansas City Monarchs, Baltimore Elite Giants, and Birmingham Black Barons, who were drafted into MLB teams such as the Los Angeles Angels of Anaheim,

@@ -1,0 +1,36 @@
+Prompt:
+
+
+Read the table and text regarding "World record progression 100 metres butterfly" and create a summary.
+
+Time | Swimmer | Date | Place
+58.77 | Angela Kennedy | February 18 , 1995 | Gelsenkirchen , Germany
+58.68 | Liu Limin | December 2 , 1995 | Rio de Janeiro , Brazil
+58.29 | Misty Hyman | December 1 , 1996 | Sainte-Foy , Quebec
+58.24 | Ayari Aoyama | March 28 , 1997 | Tokyo , Japan
+57.79 | Jenny Thompson | April 19 , 1997 | Gothenburg , Sweden
+56.90 | Jenny Thompson | December 1 , 1998 | College Station , United States
+56.80 | Jenny Thompson | February 12 , 2000 | Paris , France
+56.56 | Jenny Thompson | March 18 , 2000 | Athens , Greece
+56.55 | Martina Moravcová | January 26 , 2002 | Berlin , Germany
+56.34 | Natalie Coughlin | November 22 , 2002 | East Meadow , United States
+55.95 | Libby Lenton | August 28 , 2006 | Hobart , Australia
+55.89 | Felicity Galvez | April 13 , 2008 | Manchester United Kingdom
+55.74 | Libby Trickett | April 26 , 2008 | Canberra , Australia
+55.68 | Jessicah Schipper | August 12 , 2009 | Hobart , Australia
+55.46 | Felicity Galvez | November 11 , 2009 | Stockholm , Sweden
+55.05 | Diane Bui Duyet | December 12 , 2009 | Istanbul , Turkey
+54.61 | Sarah Sjöström | December 7 , 2014 | Doha , Qatar
+
+Text
+Angela Kennedy ( born 28 February 1976 ) is an Australian former butterfly swimmer of the 1990s , who won a silver medal in the 4×100-metre medley relay at the 1996 Summer Olympics in Atlanta , Georgia .
+Liu Limin ( Chinese : 劉 黎敏 ; born March 27 , 1976 ) is a former swimmer from China who won the silver medal in the 100 m butterfly at the 1996 Summer Olympics in Atlanta , Georgia . She attended college at the University of Nevada , Reno in the United States . She was inducted into the university 's athletic hall of fame in 2010 . Limin Liu won three NCAA individual championships during her career , winning the 200 m butterfly at the NCAA Championships in 1999 and the 100 m and 200 m fly in 2000 . She holds school and Big West Conference records in the 100 m and 200 m fly . A three-time All-American , Liu was named the Big West Swimmer of the Year in 2000 .
+Misty Dawn Marie Hyman ( born March 23 , 1979 ) is an American former competition swimmer , Olympic gold medalist , and former world record-holder . Hyman won the gold medal in the women 's 200-meter butterfly at the 2000 Summer Olympics in Sydney . In March 1996 , she just missed making the U.S. Olympic team for the 1996 Games , finishing third and fourth at the U.S. Olympic Trials in the 100- and 200-meter butterfly events . Hyman competed as a member of the U.S. Finswimming Team at the 8th World Championship held in Hungary during August 1996 . At the 2000 Summer Olympics in Sydney , Australia , Hyman was only expected to contend for silver in women 's 200-meter butterfly on the night of September 20 , 2000 , as Australian Susie O'Neill was expected to repeat her title ( O'Neill had been undefeated in the 200-meter butterfly for the previous 3-4 years ; and was swimming in her home country ) . Hyman was so shocked that she looked at the scoreboard three times just to make sure that she had won . Hyman 's victory was largely credited to her expert use of the very difficult fish kick on turns . Also in 2000 , Hyman was ranked 35th in the world in the 50-meter butterfly , twelfth in the 100-meter butterfly , and second in the 200-meter butterfly .
+Martina Moravcová ( born 16 January 1976 in Piešťany , Trnava , Czechoslovakia ) is a medley , butterfly and freestyle swimmer from Slovakia . She made her international swimming debut in 1991 for Czechoslovakia , and has gone on to compete in five consecutive Summer Olympics ( 1992-2008 ) . She is a two-time Olympic silver medalist , both achieved at the 2000 Summer Olympics in Sydney , Australia . In the 100-meter butterfly , she finished second to Inge de Bruijn , and in the 200-meter freestyle , she finished eight one-hundredths of a second to home favorite Susie O'Neill .
+Natalie Anne Coughlin Hall ( born August 23 , 1982 ) is an American competition swimmer and twelve-time Olympic medalist . While attending the University of California , Berkeley , she became the first woman ever to swim the 100-meter backstroke ( long course ) in less than one minute - ten days before her 20th birthday in 2002 . At the 2008 Summer Olympics , she became the first U.S. female athlete in modern Olympic history to win six medals in one Olympiad , and the first woman ever to win a 100-meter backstroke gold in two consecutive Olympics . At the 2012 Summer Olympics , she earned a bronze medal in the 4×100-meter freestyle relay . Her total of twelve Olympic medals ties her with Jenny Thompson and Dara Torres for the most all-time medals by a female swimmer . Coughlin 's success has earned her the World Swimmer of the Year Award once and American Swimmer of the Year Award three times . She has won a total of sixty medals in major international competition , twenty-five gold , twenty-two silver , and thirteen bronze spanning the Olympics , the World , the Pan Pacific Championships , and the Pan American Games .
+Diane Bui Duyet , sometimes spelled Bui-Duyet , ( born 22 December 1979 in Nouméa , New Caledonia ) is a French/New Caledonian swimmer . Due to the New Caledonia 's status as an overseas territory of France , Bui Duyet competes for New Caledonia in regional ( Pacific ) competitions and for France in continental and above competitions ( similar to Malia Metella 's situation with French Guiana ) . At the 2007 and 2011 Pacific Games , Bui Duyet swam on several relay teams together with Lara Grangeon , who also represents both France and New Caledonia . Bui Duyet was the world record holder in the women 's short course ( 25 meter pool ) 100 meter butterfly with a time of 55.05 seconds . She set the record in the semi-finals of the 2009 European Short Course Swimming Championships in Istanbul , Turkey . She went on to get a silver medal in the finals with a time of 55.93 seconds . In April 2009 , she set the French record in the long-course 50m butterfly ( 26.10 ) , following up on her December 2008 setting of the European record in the short-course ( 25m ) 100 fly ( 56.50 ) . She also held the French record in the short-course 50 fly ( 25.56 ) .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the world record progression in the 100 meters butterfly swimming event from 1995 to 2014.

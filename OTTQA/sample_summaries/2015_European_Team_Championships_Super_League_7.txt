@@ -1,0 +1,26 @@
+Prompt:
+
+
+Read the table and text regarding "2015 European Team Championships Super League" and create a summary.
+
+Rank | Name | Nationality | Time | Points
+1 | Krystian Zalewski | Poland | 8:37.51 | 12
+2 | Nikolay Chavkin | Russia | 8:39.39 | 11
+3 | Yuri Floriani | Italy | 8:40.47 | 10
+4 | Martin Grau | Germany | 8:42.58 | 9
+5 | Janne Ukonmaanaho | Finland | 8:43.67 | 8
+6 | Fernando Carro | Spain | 8:44.46 | 7
+7 | Vadym Slobodenyuk | Ukraine | 8:44.93 | 6
+8 | Daniel Lundgren | Sweden | 8:46.73 | 5
+9 | Yoann Kowal | France | 8:51.85 | 4
+10 | Zak Seddon | Great Britain | 8:56.57 | 3
+11 | Illia Slavinski | Belarus | 8:59.09 | 2
+12 | Snorre Holtan Løken | Norway | 9:03.07 | 1
+
+Text
+Martin Christian Grau ( born 26 March 1992 ) is a German track and field athlete who specialises in the 3000 metres steeplechase . He holds a personal best of 8:24.29 minutes for the event , set in 2014 . He was the gold medallist at the 2015 Summer Universiade .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the ranking of athletes in the 3000 meters steeplechase at the 2015 European Team Championships Super League. The winner was Krystian Zalewski of Poland with a time of 8:37.51 minutes. He was followed by Nikolay Chavkin of Russia and Yuri Floriani of Italy. Martin Grau of Germany finished 4th with a time of 8:42.58 minutes. The text provides additional information about Martin

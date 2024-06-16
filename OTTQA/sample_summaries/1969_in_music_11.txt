@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "1969 in music" and create a summary.
+
+Day | Album | Artist | Notes
+5 | Let It Bleed | The Rolling Stones | -
+18 | Diana Ross Presents The Jackson 5 | The Jackson 5 | -
+20 | Concerto for Group and Orchestra | Deep Purple & the Royal Philharmonic Orchestra | Live
+29 | Grand Funk | Grand Funk Railroad | -
+29 | Okie from Muskogee | Merle Haggard and the Strangers | -
+- | Blue Cheer | Blue Cheer | -
+- | Ceremony | Spooky Tooth and Pierre Henry | -
+- | Liege & Lief | Fairport Convention | -
+- | Out Here | Love | -
+
+Text
+Fairport Convention are a British folk rock band , formed in 1967 by Richard Thompson ( guitar , vocals ) , Simon Nicol ( guitar , vocals ) , Ashley Hutchings ( bass guitar ) , and Shaun Frater ( drums , percussion ) , with Frater replaced by Martin Lamble after their first gig . They started out heavily influenced by American folk rock and singer-songwriter material , with a setlist dominated by Bob Dylan and Joni Mitchell songs and a sound that earned them the nickname 'the British Jefferson Airplane ' . Vocalists Judy Dyble and Iain Matthews joined them before the recording of their self-titled debut in 1968 ; afterwards , Dyble was replaced by Sandy Denny , with Matthews leaving during the recording of their third album . Denny began steering the group towards traditional British music for their next two albums , What We Did on Our Holidays and Unhalfbricking ( both 1969 ) ; the latter featured fiddler Dave Swarb Swarbrick , most notably on the song A Sailor 's Life , which laid the groundwork for British folk rock by being the first time a traditional British song was combined with a rock beat . However , shortly before the album 's release , a crash on the M1 killed Lamble and Thompson 's then-girlfriend , Jeannie Franklyn ; this resulted in the group retiring most of their prior material and turning entirely towards British folk music for their seminal album Liege & Lief , released the same year , with this style being the band 's focus ever since . For this album Swarbrick joined full-time alongside Dave Mattacks on drums . Both Denny and Hutchings left before the year 's end ; the latter replaced by Dave Pegg , who has remained the group 's sole consistent member to this day ; and Thompson would leave after the recording of 1970 's Full House . The 1970s saw numerous lineup changes around the core of Swarbrick and Pegg - Nicol being absent for the middle of the decade - and declining fortunes as folk music fell out of mainstream favour . Denny , whose partner Trevor Lucas had been a guitarist in the group since 1972 , returned for the pop-orientated Rising for the Moon album in 1975 in a final bid to crack America ; this effort failed , and after three more albums minus Denny or Lucas , the group disbanded in 1979 . They played a farewell concert in the village of Cropredy , Oxfordshire , where they had held small concerts since 1976 , and this marked the beginning of the Cropredy Festival ( since 2005 known as Fairport 's Cropredy Convention ) which has become the largest folk festival in Britain , with annual attendances of 20,000 . The band was reformed by Nicol , Pegg , and Mattacks in 1985 , joined by Maartin Allcock ( guitar , vocals ) and Ric Sanders ( fiddle , keyboards ) , and they have remained active since . Allcock was replaced by Chris Leslie in 1996 , and Gerry Conway replaced Mattacks in 1998 , with this lineup remaining unchanged since and marking the longest-lasting of the group 's history .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: 1969 was a historic year in music with various notable album releases. On the 5th, The Rolling Stones released "Let It Bleed." The Jackson 5 debuted on the 18th with "Diana Ross Presents The Jackson 5." Deep Purple and the Royal Philharmonic Orchestra released "Concerto for Group and Orchestra" on the 20th, marking a live performance. Several other albums were released that year, including "Grand Funk" by Grand Funk Railroad,

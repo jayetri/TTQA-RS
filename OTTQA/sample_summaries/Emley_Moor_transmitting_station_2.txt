@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "Emley Moor transmitting station" and create a summary.
+
+frequency | UHF | kW | operator | system
+570.000 MHz | 33 | 174 | COM4 ( SDN ) | DVB-T
+594.000 MHz | 36 | 174 | COM5 ( ARQ A ) | DVB-T
+618.000 MHz | 39 | 5 | LTVmux | DVB-T
+634.000 MHz | 41 | 174 | PSB3 ( BBC B ) | DVB-T2
+658.000 MHz | 44 | 174 | PSB2 ( D3 & 4 ) | DVB-T
+682.000 MHz | 47 | 174 | PSB1 ( BBC A ) | DVB-T
+690.000 MHz | 48 | 174 | COM6 ( ARQ B ) | DVB-T
+746.000 MHz | 55 | 54.8 | COM7 ( ARQ C ) | DVB-T2
+754.000 MHz | 56 | 47 | COM8 ( ARQ D ) | DVB-T2
+
+Text
+S4C Digital Networks ( SDN ) is a company that operates one of the six multiplexes of channels on digital terrestrial television in the United Kingdom . It is now wholly owned by ITV plc .
+Digital 3 & 4 is a consortium consisting of ITV plc , STV Group plc and the Channel Four Television Corporation , which operates a multiplex broadcasting from a number of transmitter sites in the United Kingdom , carrying television and radio channels , together with interactive services , from both ITV and Channel 4 . Unlike other multiplexes , the regional ITV broadcaster has control over which services are to be broadcast on their allotted amount of the capacity , leading to small regional differences across the country .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Emley Moor transmitting station is operated by several companies. There are 9 frequencies ( UHF ) listed from 570 MHz to 754 MHz with various operators ( ITV, BBC, and others ) utilizing this frequency range for digital terrestrial television broadcasting in the United Kingdom. The operators listed include COM4 ( SDN ), COM5 ( ARQ A ), LTVmux, PSB3 ( BBC B ), PSB2 ( D3 & 4 ), PSB

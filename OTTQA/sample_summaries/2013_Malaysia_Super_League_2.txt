@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "2013 Malaysia Super League" and create a summary.
+
+Club | Visa 1 | Visa 2 | Visa 3 | Visa 4
+ATM | Bruno Martelotto | Marlon Alex James | NA | NA
+Johor Darul Takzim | Andrezinho | Leonel Núñez | NA | NA
+Felda United | Nsumbu Mazuwa | Leonel Saint-Preux | NA | NA
+Kelantan | Obinna Nwaneri | Dickson Nwakaeme | Lek Kcira | Dimitri Petratos
+Negeri Sembilan | William Modibo | Fabio Leandro Barbosa | NA | NA
+Pahang | Damion Stewart | Matías Conti | NA | NA
+T-Team | George Boateng | Damir Ibrić | NA | NA
+Perak | Rafael Silva | Paulo Rangel | NA | NA
+PKNS | Patrick Wleh | Roman Chmelo | NA | NA
+Selangor | Forkey Doe | Adam Griffiths | Michal Kubala | Peter Chrappan
+LionsXII | NA | NA | NA | NA
+Terengganu | Effa Owona | Vincent Bikana | NA | NA
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2013 Malaysia Super League lists the imported players for each club. The clubs mentioned are ATM, Johor Darul Takzim, Felda United, Kelantan, Negeri Sembilan, Pahang, T-Team, Perak, PKNS, Selangor, LionsXII, and Terengganu. The table shows the names of the imported players for each club, with a maximum of four imports allowed per club.

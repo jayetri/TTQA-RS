@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "Gloucester 2" and create a summary.
+
+Team | Ground | Town/Village | Previous season
+Aretians | Little Stoke Park | Little Stoke , Bristol | 5th
+Ashley Down Old Boys | Lockleaze Combination Ground | Lockleaze , Bristol | 7th
+Bristol Aeroplane Company | BAWA Sportsground | Filton , Bristol | 9th
+Broad Plain | Bristol South End | Southmead , Bristol | 10th
+Cotham Park | Beggar Bush Lane | Failand , Somerset | 8th
+Kingswood | Grimsbury Road Playing Fields | Warmley , Kingswood , Gloucestershire | Relegated from Gloucester 1 ( 11th )
+Minchinhampton | Hollybush Ground | Minchinhampton , Gloucestershire | Promoted from Gloucester 3 ( runners up )
+Old Colstonians | Colton 's School | Stapleton , Bristol | Relegated from Gloucester 1 ( 12th )
+Ross-on-Wye | Abbotts Close | Ross-on-Wye , Herefordshire | 3rd
+Smiths | Prince of Wales Stadium | Cheltenham , Gloucestershire | Promoted from Gloucester 3 ( champions )
+Spartans | Lansdown Road | Gloucester , Gloucestershire | 4th
+Westbury-on-Severn | Parish Playing Field | Westbury-on-Severn , Gloucestershire | 6th
+
+Text
+Gloucester 1 is an English rugby union league which sits at the ninth level of league rugby union in England for teams based primarily in the county of Gloucestershire but also on occasion teams from Bristol . Promoted clubs move into Gloucester Premier and relegated clubs drop into Gloucester 2 . Each year clubs in this division also take part in the RFU Junior Vase - a level 9-12 national competition .
+Gloucester 1 is an English rugby union league which sits at the ninth level of league rugby union in England for teams based primarily in the county of Gloucestershire but also on occasion teams from Bristol . Promoted clubs move into Gloucester Premier and relegated clubs drop into Gloucester 2 . Each year clubs in this division also take part in the RFU Junior Vase - a level 9-12 national competition .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays the teams in the Gloucester 2 league, an English rugby union league at the 10th level of rugby in England. There are 12 teams competing in this league, from various locations in Gloucestershire, Bristol, and Herefordshire. They include clubs previously promoted from Gloucester 3 and relegated from Gloucester 1. The teams in this league participate in the RFU Junior Vase, a national competition open to level 9-12 rugby teams.

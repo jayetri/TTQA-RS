@@ -1,0 +1,28 @@
+Prompt:
+
+
+Read the table and text regarding "Zrenjanin" and create a summary.
+
+Ethnic group | Population | %
+Serbs | 91,579 | 74.24%
+Hungarians | 12,350 | 10.01%
+Roma | 3,410 | 2.76%
+Romanians | 2,161 | 1.75%
+Slovaks | 2,062 | 1.67%
+Yugoslavs | 592 | 0.48%
+Croats | 527 | 0.43%
+Macedonians | 412 | 0.33%
+Montenegrins | 280 | 0.23%
+Bulgarians | 184 | 0.15%
+Germans | 139 | 0.11%
+Albanians | 110 | 0.09%
+Others | 9,556 | 7.75%
+Total | 123,362 | 
+
+Text
+According to the 2011 census , Slovaks ( ) in Serbia number 52,750 , constituting 0.7% of the country 's population . They mainly live in Vojvodina ( 50,321 ) , where they constitute the third largest ethnic group after Serbs and Hungarians . Like other ethnic Slovaks , they speak the Slovak language , but most of them are Protestant ( Evangelical-Augsburg Church , a Lutheran Protestant denomination ) by faith and not Roman Catholic like most Slovaks in Slovakia .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the ethnic breakdown of Zrenjanin, a city in Serbia, with Serbs being the majority (74.24%). Hungarians, Roma, Romanians, and Slovaks are among the other ethnic groups represented in the city. According to the 2011 census, Slovaks in Serbia number around 53,000, mainly residing in Vojvodina, where they form the third-largest ethnic group. They speak Slovak and are primarily Protestant, unlike most Slovaks in Slovakia

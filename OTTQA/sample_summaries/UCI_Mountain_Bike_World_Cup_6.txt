@@ -1,0 +1,36 @@
+Prompt:
+
+
+Read the table and text regarding "UCI Mountain Bike World Cup" and create a summary.
+
+Season | Winner | Runner-up | Third
+1993 | Jürgen Beneke | John Tomac | Stefano Migliorini
+1994 | François Gachet | Jürgen Beneke | Nicolas Vouilloz
+1995 | Nicolas Vouilloz | Mike King | Myles Rockwell
+1996 | Nicolas Vouilloz | Marcus Klausmann | Thomas Misser
+1997 | Corrado Herin | Jürgen Beneke | Thomas Misser
+1998 | Nicolas Vouilloz | David Vazquez Lopez | Cédric Gracia
+1999 | Nicolas Vouilloz | Steve Peat | Gerwin Peters
+2000 | Nicolas Vouilloz | Steve Peat | David Vazquez Lopez
+2001 | Greg Minnaar | Nicolas Vouilloz | Mickael Pascal
+2002 | Steve Peat | Cédric Gracia | Chris Kovarik
+2003 | Nathan Rennie | Cédric Gracia | Mickael Pascal
+2004 | Steve Peat | Sam Hill | Nathan Rennie
+2005 | Greg Minnaar | Sam Hill | Nathan Rennie
+2006 | Steve Peat | Sam Hill | Greg Minnaar
+2007 | Sam Hill | Matti Lehikoinen | Steve Peat
+2008 | Greg Minnaar | Sam Hill | Gee Atherton
+2009 | Sam Hill | Greg Minnaar | Steve Peat
+2010 | Gee Atherton | Greg Minnaar | Aaron Gwin
+2011 | Aaron Gwin | Greg Minnaar | Gee Atherton
+2012 | Aaron Gwin | Greg Minnaar | Gee Atherton
+
+Text
+Nathan Rennie ( born 13 May 1981 ) is an Australian professional downhill mountain bike racer . He started riding at the age of 5 . He was junior downhill world champion in 1999 and won the bronze medal in the elite category at the 2006 world championships . In the UCI Mountain Bike World Cup , Rennie won the downhill category overall in 2003 and came third in 2004 and 2005 . In 2008 , he was Australian national downhill champion .
+Nathan Rennie ( born 13 May 1981 ) is an Australian professional downhill mountain bike racer . He started riding at the age of 5 . He was junior downhill world champion in 1999 and won the bronze medal in the elite category at the 2006 world championships . In the UCI Mountain Bike World Cup , Rennie won the downhill category overall in 2003 and came third in 2004 and 2005 . In 2008 , he was Australian national downhill champion .
+Nathan Rennie ( born 13 May 1981 ) is an Australian professional downhill mountain bike racer . He started riding at the age of 5 . He was junior downhill world champion in 1999 and won the bronze medal in the elite category at the 2006 world championships . In the UCI Mountain Bike World Cup , Rennie won the downhill category overall in 2003 and came third in 2004 and 2005 . In 2008 , he was Australian national downhill champion .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the winners of the UCI Mountain Bike World Cup between 1993 and 2012. Nicolas Vouilloz won the most titles with 4 wins, followed by Steve Peat and Greg Minnaar with 3 wins each. The text describes Nathan Rennie, an Australian professional downhill mountain bike racer who won the downhill category in 2003 and came third in 2004 and 2005.

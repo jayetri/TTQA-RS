@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "2011 Sun Belt Conference football season" and create a summary.
+
+Date | Time | Visiting team | Home team | Site | TV | Result | Attendance
+September 1 | 7:00 PM | North Texas | Florida International | FIU Stadium • Miami | ESPN3 | FIU 41-16 | 17,568
+September 1 | 8:15 PM | Kentucky | Western Kentucky | LP Field • Nashville , Tennessee | ESPNU | L 3-14 | 24,599
+September 3 | 11:00 AM | Middle Tennessee | Purdue | Ross-Ade Stadium • West Lafayette , Indiana | BTN | L 24-27 | 42,110
+September 3 | 2:30 PM | Arkansas State | Illinois | Memorial Stadium • Champaign , Illinois | BTN | L 15-33 | 45,154
+September 3 | 2:30 PM | Louisiana-Monroe | # 5 Florida State | Bobby Bowden Field at Doak Campbell Stadium • Tallahassee , Florida | ESPNU | L 0-34 | 72,226
+September 3 | 2:30 PM | Troy | Clemson | Memorial Stadium • Clemson , South Carolina | ESPN3 | L 19-43 | 74,135
+September 3 | 6:00 PM | Louisiana-Lafayette | # 8 Oklahoma State | Boone Pickens Stadium • Stillwater , Oklahoma | FSN | L 34-61 | 55,382
+September 3 | 7:00 PM | Florida Atlantic | # 23 Florida | Ben Hill Griffin Stadium • Gainesville , Florida | ESPNU | L 3-41 | 88,708
+
+Text
+West Lafayette ( /ˌlɑːfiːˈɛt , ˌlæf-/ ) is a city in Wabash Township , Tippecanoe County , Indiana , United States , about 65 miles ( 105 km ) northwest of the state capital of Indianapolis and 103 miles ( 166 km ) southeast of Chicago . West Lafayette is directly across the Wabash River from its sister city , Lafayette . As of the 2010 census , its population was 29,596 . It is the most densely populated city in Indiana and is home to Purdue University .
+The Big Ten Network ( BTN ) is an American sports network based in Chicago , Illinois . The channel is dedicated to coverage of collegiate sports sanctioned by the Big Ten Conference , including live and recorded event telecasts , news , analysis programs , and other content focusing on the conference 's member schools . It is a joint venture between Fox Sports and the Big Ten , with Fox Corporation as 51% stakeholder and operating partner , and the Big Ten Conference owning a 49% stake . It is headquartered in the former Montgomery Ward & Co . Catalog House building at 600 West Chicago Avenue in Chicago . Big Ten Network is carried by most major television providers and as of 2014 , had an estimated 60 million U.S. subscribers - a number had been boosted by the addition of Rutgers University and the University of Maryland to the conference . Big Ten Network was the second U.S. sports network to be devoted to a single college sports conference , having been preceded by the MountainWest Sports Network one year prior to its launch . BTN was later followed by rival cable channels by the Pac-12 , SEC and ACC with a similar array of programming .
+Champaign ( English : /ˌʃæmˈpeɪn/ ) is a city in Champaign County , Illinois , United States . The city is 135 miles ( 217 km ) south of Chicago , 124 miles ( 200 km ) west of Indianapolis , Indiana , and 178 mi ( 286 km ) northeast of St. Louis , Missouri . The United States Census Bureau estimates the city was home to 87,432 people as of July 1 , 2017 . Champaign is the tenth-most populous city in Illinois , and the state 's fourth-most populous city outside the Chicago metropolitan area . It is included in the Champaign-Urbana metropolitan area . Champaign is notable for sharing the campus of the University of Illinois at Urbana-Champaign with its sister city of Urbana . Champaign is also home to Parkland College which serves about 18,000 students during the academic year . Due to the university and a number of well known technology startup companies , it is often referred to as the hub , or a significant landmark , of the Silicon Prairie . Champaign houses offices for the Fortune 500 companies Abbott , Archer Daniels Midland ( ADM ) , Caterpillar , John Deere , Dow Chemical Company , IBM , and State Farm .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the 2011 Sun Belt Conference football season, which is a collection of college football games played on September 1 and 3, 2011. The games involved teams from the Sun Belt Conference, including North Texas, Florida International, Western Kentucky, Middle Tennessee, Arkansas State, Louisiana-Monroe, Troy, Louisiana-Lafayette, and Florida Atlantic. The teams played against teams from other conferences, including the Southeastern Conference, Big Ten Conference, and Big 12

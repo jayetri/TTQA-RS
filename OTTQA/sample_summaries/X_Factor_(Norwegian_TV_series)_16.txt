@@ -1,0 +1,22 @@
+Prompt:
+
+
+Read the table and text regarding "X Factor (Norwegian TV series)" and create a summary.
+
+Act | Order | Song | Film | Result
+Ole Gustav Johnsen | 1 | As Time Goes By | Casablanca | Eliminated
+Post 4 | 2 | Everybody 's Changing | One Tree Hill | Safe
+Eivind Nyberg Sagli | 3 | A Thousand Miles | White Chicks | Bottom two
+Hans Bollandsås | 4 | Footloose | Footloose | Safe
+Annsofi Pettersen | 5 | Proud Mary | What 's Love Got to Do with It | Safe
+Atle Pettersen | 6 | We All Die Young | Rock Star | Safe
+Marthe Valle | 7 | Both Sides , Now | Love Actually | Safe
+Mo | 8 | You 're the One That I Want | Grease | Safe
+
+Text
+Grease is a 1978 American musical romantic comedy film based on the 1971 musical of the same name by Jim Jacobs and Warren Casey . Written by Bronte Woodard and directed by Randal Kleiser in his theatrical feature film debut , the film depicts the lives of greaser Danny Zuko and Australian transfer student Sandy Olsson who develop an attraction for each other . The film stars John Travolta as Danny , Olivia Newton-John as Sandy , and Stockard Channing as Betty Rizzo , the leader of the Pink Ladies . Released on June 16 , 1978 , Grease was successful both critically and commercially becoming the highest-grossing musical film ever at the time . Its ended 1978 as the second-best selling album of the year in the United States , behind the of the 1977 blockbuster Saturday Night Fever ( which also starred Travolta ) and earned the film its lone Oscar nomination for Hopelessly Devoted to You ( which lost the Academy Award for Best Original Song to Donna Summer 's Last Dance from Thank God It 's Friday at the 51st Academy Awards ) . A sequel , Grease 2 , was released in 1982 , starring Maxwell Caulfield and Michelle Pfeiffer as a newer class of greasers . Few of the original cast members reprised their roles .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the songs performed by contestants on the Norwegian TV series "X Factor". Mo performed the song "You're the One That I Want" from the movie Grease. The text provides information about the 1978 musical film Grease, including its plot, cast, and success.

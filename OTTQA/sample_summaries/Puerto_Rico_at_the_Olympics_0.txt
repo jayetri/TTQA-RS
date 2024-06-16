@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "Puerto Rico at the Olympics" and create a summary.
+
+Medal | Name | Games | Sport | Event
+Bronze | Juan Venegas | 1948 London | Boxing | Men 's bantamweight
+Bronze | Orlando Maldonado | 1976 Montreal | Boxing | Men 's light flyweight
+Silver | Luis Ortiz | 1984 Los Angeles | Boxing | Men 's lightweight
+Bronze | Arístides González | 1984 Los Angeles | Boxing | Men 's middleweight
+Bronze | Aníbal Acevedo | 1992 Barcelona | Boxing | Men 's welterweight
+Bronze | Daniel Santos | 1996 Atlanta | Boxing | Men 's welterweight
+Silver | Jaime Espinal | 2012 London | Wrestling | Men 's freestyle 84 kg
+Bronze | Javier Culson | 2012 London | Athletics | Men 's 400 metres hurdles
+Gold | Monica Puig | 2016 Rio de Janeiro | Tennis | Women 's singles
+
+Text
+Daniel Santos Peña ( born October 10 , 1975 ) is a former professional boxer who competed from 1996 to 2009 . As an amateur Santos represented Puerto Rico in international events , including the 1990 and 1992 Junior World Championships , Pan American Boxing Tournament , Goodwill Games , 1995 Pan American Games and the 1996 Summer Olympics , where he won a bronze medal in the Welterweight Division . Santos debuted as a professional in 1996 . Santos won the World Boxing Organization Welterweight championship on May 6 , 2000 . On March 16 , 2002 he vacated the welterweight division 's championship in order to compete against Yori Boy Campas for the vacant World Boxing Organization Light middleweight championship . Santos defended this championship on four occasions , against Mehrdud Takaloo ( in a fight where he won the World Boxing Union Light middleweight championship ) , Fulgencio Zúñiga , Michael Lerma and Antonio Margarito before losing it to Sergiy Dzindziruk by unanimous decision in a fight that took place on December 3 , 2005 . On July 11 , 2008 , Santos won his third professional championship , knocking out Joachim Alcine in six rounds to win the World Boxing Association 's light middleweight title .
+Boxing at the 1996 Summer Olympics took place in the Alexander Memorial Coliseum in Atlanta . The boxing schedule began on 20 July and ended on 4 August . Twelve boxing events were contested , with the participation of 355 athletes from 97 countries . There was significant controversy surrounding judging of the fight between Floyd Mayweather of the US and Serafim Todorov of Bulgaria , with Todorov winning the semi-final bout which , according to many observers , was won by Mayweather .
+The Welterweight class in the boxing at the 1996 Summer Olympics competition was the fifth-heavyest class at the 1996 Summer Olympics in Atlanta , Georgia . Welterweights were limited to those boxers weighing more than 67 kilograms . The competition in the Alexander Memorial Coliseum started on 1996-07-20 and ended on 1996-08-04 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Puerto Rico has won a total of eight medals at the Olympics, with six bronze medals, one silver medal, and one gold medal.

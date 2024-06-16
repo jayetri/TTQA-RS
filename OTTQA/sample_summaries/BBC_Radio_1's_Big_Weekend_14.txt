@@ -1,0 +1,22 @@
+Prompt:
+
+
+Read the table and text regarding "BBC Radio 1's Big Weekend" and create a summary.
+
+Main Stage | In New Music We Trust Stage | Outdoor Stage | BBC Introducing Stage
+The Kooks | The Raconteurs | Zane Lowe | Golden Silvers
+The Enemy | The Zutons | Pendulum ( DJ Set ) | Twisted Wheel
+Nelly ( ft. Kelly Rowland ) | The Wombats | Justice ( DJ Set ) | Ebony Bones
+Goldfrapp | Hot Chip | Vernon Kay vs Pete Tong | Outl4w
+The Pigeon Detectives | Gallows | Dave Pearce | Chipmunk
+Newton Faulkner | Pendulum | Basshunter | Kate Goes
+OneRepublic | Justice | Rob Da Bank | Tom Williams & The Boat
+Adele | Black Kids | Kutski | Wing
+
+Text
+Hot Chip are an English synth-pop band formed in London in 2000 . The group consists of multi-instrumentalists Alexis Taylor , Joe Goddard , Al Doyle , Owen Clarke , and Felix Martin . They are occasionally supplemented by Rob Smoughton and Sarah Jones for live performances and studio recordings . The group primarily produces music in the synth-pop and alternative dance genres , drawing influences from house and disco . Hot Chip began as a bedroom recording project for Taylor and Goddard , who met while students at Elliott School , Putney ; their earliest lineup included Smoughton as their drummer . After completing two EPs , Mexico ( 2001 ) and San Frandisco ( 2002 ) , the group released their debut album , Coming on Strong ( 2004 ) and added Doyle , Clarke , and Martin to their lineup . The band 's second album , The Warning ( 2006 ) , was nominated for the Mercury Prize . Their follow-up , Made in the Dark ( 2008 ) , included the single Ready for the Floor , which was nominated for the Grammy Award for Best Dance Recording . The band have subsequently released the albums One Life Stand ( 2010 ) , In Our Heads ( 2012 ) , Why Make Sense ? ( 2015 ) , and A Bath Full of Ecstasy ( 2019 ) . Outside of Hot Chip , the band members , individually and in partnership with each other , are active in other musical acts and occasionally perform DJ sets .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The summarization focuses on BBC Radio 1's Big Weekend with the main focus on the schedule of different stages, specifically highlighting the British synth-pop band Hot Chip, which was set to perform at the festival. The table illustrates the performers across four stages, featuring both established and new artists. The text provides information about Hot Chip's history, formation, and music style, demonstrating the band's success and critically acclaimed albums.

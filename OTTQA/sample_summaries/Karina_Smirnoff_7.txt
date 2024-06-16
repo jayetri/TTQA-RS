@@ -1,0 +1,22 @@
+Prompt:
+
+
+Read the table and text regarding "Karina Smirnoff" and create a summary.
+
+Week | Dance ( s ) /Song ( s ) | Carrie Ann | Len / Baz | Bruno | Result
+1 | Cha-Cha-Cha / Beggin ' Viennese Waltz /I Am Your Man | 7 Awarded | 8 10 | 7 Points | Safe
+2 | Quickstep / The Muppet Show Theme Song | 9 | 9* | 9 | Safe
+3 | Rumba / Spotlight | 8 | 6 | 7 | Safe
+4 | Lambada / Dr . Beat | 6 | 6 | 6 | Bottom Two
+5 | Argentine Tango /Epoca | 8 | 8 | 8 | Bottom Two
+6 | Waltz / Three Times a Lady Mambo Marathon/Ran Kan Kan | 8 Awarded | 9 8 | 8 Points | Safe
+7 | Jive / We 're Not Gon na Take It Paso Doble / I Hate Myself for Loving You | 9 8 | 10 8 | 10 8 | Bottom Two
+8 Quarter Finals | Foxtrot / Lucky 90 's Samba / Two Princes | 7 9 | 8 9 | 8 9 | Eliminated
+
+Text
+The quickstep is a light-hearted dance of the standard ballroom dances . The movement of the dance is fast and powerfully flowing and sprinkled with syncopations . The upbeat melodies that quickstep is danced to make it suitable for both formal and informal events . Quickstep was developed in the 1920s in New York City and was first danced by Caribbean and African dancers . Its origins are in combination of slow foxtrot combined with the Charleston , a dance which was one of the precursors to what today is called swing dancing .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the performances of Karina Smirnoff in a dance competition. In week 1, she performed the Cha-Cha-Cha and Viennese Waltz, earning 7, 8, and 7 points respectively. In the following weeks, she performed various dances, including Quickstep, Rumba, Lambada, Argentine Tango, Waltz, Jive, and Paso Doble. She was eliminated in the quarterfinals after performing the Foxtrot and

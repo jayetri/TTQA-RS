@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "Jordin Sparks discography" and create a summary.
+
+Title | Year | Other artist ( s ) | Album
+Count on You | 2010 | Big Time Rush | BTR
+You Got ta Want It | 2011 | N/A | Official Gameday Music of the NFL
+Chocolate Brown Eyes | 2013 | Salaam Remi | One in the Chamber
+Vertigo | 2013 | Jason Derulo | Tattoos
+Vertigo | 2014 | Jason Derulo | Talk Dirty
+Playing With Fire | 2015 | Thomas Rhett | Tangled Up
+Too Late for Love | 2016 | DJ Antoine | Provocateur
+Water Guns | 2016 | Todrick Hall | Straight Outta Oz
+Chasing | 2017 | Danny Gokey | Rise
+
+Text
+Straight Outta Oz is the second solo studio album and original musical written and produced by American singer-songwriter and YouTube celebrity Todrick Hall with music produced by Jeeve Ducornet and wiidope , released on 23 June 2016 . Featured artists include Nicole Scherzinger , Jordin Sparks , Perez Hilton , Joseph Gordon-Levitt , Amber Riley , Raven Symoné and Tamar Braxton . It is based on the Wizard of Oz whilst being a semi-autobiographical account of his rise to fame in Los Angeles ( Oz ) .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists 8 songs that feature Jordin Sparks, including collaborations with Big Time Rush, Jason Derulo, Thomas Rhett, DJ Antoine, and Todrick Hall, among others. The songs are part of different albums, including BTR, Tattoos, Tangled Up, Provocateur, Straight Outta Oz, and Rise. The text mentions that Straight Outta Oz is an album by Todrick Hall, featuring Jordin Sparks, Nicole Scherzinger, and others, based

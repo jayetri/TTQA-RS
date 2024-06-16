@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "Idol Puerto Rico (season 2)" and create a summary.
+
+Order | Contestant | Song ( original artist if applicable ) | Result
+1 | Alex Rosado | Momentos ( Noel Schajris ) | Safe
+2 | Alpha Berríos | Daría ( La 5ª Estación ) | Safe
+3 | Génesis Ramírez | Que te pedí ( La Lupe ) | Safe
+4 | Abimelec Torres | Te llamé ( Cristian Castro ) | Safe
+5 | Kelly Romero | Dos eternidades ( Ednita Nazario ) | Safe
+6 | Roberto Escobar | Fuego de noche , Nieve de día ( Ricky Martin ) | Safe
+7 | Juan Carlos Avilés | Desnúdate , mujer ( David Bisbal ) | Safe
+8 | Celimar López | Ahora soy mala ( Olga Tañon ) | Eliminated
+9 | Michael Rivera | Perdóname ( Luis Fonsi ) | Bottom 3
+10 | Fabiola Ramos | Buenos amigos ( Selena ) | Safe
+11 | Gremal Maldonado | Simplemente amigos ( Ana Gabriel ) | Bottom 3
+
+Text
+Lupe Victoria Yolí Raymond ( 23 December 1936 - 29 February 1992 ) , better known as La Lupe , was a Cuban singer of boleros , guarachas and Latin soul , known for her energetic , sometimes controversial performances . Following the release of her first album in 1961 , La Lupe moved from Havana to New York and signed with Tico Records , which marked the beginning of a prolific and successful career in the 1960s and 1970s . She retired in the 1980s due to religious reasons .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the results of the second season of "Idol Puerto Rico" featuring 11 contestants singing various songs. Celimar López was eliminated, while Michael Rivera and Gremal Maldonado were in the bottom 3. The remaining contestants, including Alex Rosado, Alpha Berríos, and others, were declared safe. The text provides biographical information about La Lupe, a Cuban singer known for her energetic performances, who had a successful career in the

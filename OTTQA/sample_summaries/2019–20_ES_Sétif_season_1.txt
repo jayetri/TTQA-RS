@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "2019–20 ES Sétif season" and create a summary.
+
+Date | Pos | Player | from club | Transfer fee
+20 June 2019 | FW | Oussama Tebbi | MC Alger | Free transfer
+20 June 2019 | FW | Mohamed Souibaâh | MC Alger | Free transfer
+20 June 2019 | DF | Abdelghani Khiat | NA Hussein Dey | Free transfer
+10 July 2019 | MF | Hocine Laribi | NA Hussein Dey | Free transfer
+10 July 2019 | DF | Abdelhak Debbari | MO Béjaïa | Free transfer
+16 July 2019 | MF | Malick Touré | MO Béjaïa | Free transfer
+25 July 2019 | GK | Sofiane Khedairia | USM Bel Abbès | Free transfer
+26 July 2019 | DF | Ibrahim Bekakchi | JS Saoura | Free transfer
+26 December 2019 | DF | Mohamed Benyahia | Unattached | Free transfer
+
+Text
+Jeunesse Sportive de la Saoura ( Arabic : الشبيبة الرياضية للساورة ) , known simply as JS Saoura or JSS for short , is an Algerian football club based in the town of Méridja in the Béchar Province . They take their name from the Saoura valley of southwestern Algeria . The club was founded in 2008 and its colours are green and yellow . Their home stadium , Stade 20 Août 1955 , has a capacity of 20,000 spectators . The club is currently playing in the Algerian Ligue Professionnelle 1 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays the new players who joined ES Sétif during the 2019-20 season. They were signed as free transfers from other Algerian clubs, including MC Alger, NA Hussein Dey, MO Béjaïa, USM Bel Abbès, and JS Saoura. The text describes JS Saoura, a different Algerian football club, based in Méridja, Béchar Province, and provides information about its history, colors, stadium, and

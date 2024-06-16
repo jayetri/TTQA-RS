@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "2019 Shute Shield season" and create a summary.
+
+Club | Location | Home Ground | Nickname | First Season | Premier­ships
+Eastern Suburbs | Upper Eastern Suburbs | Woollahra Oval , Rose Bay | The Beasties | 1900 | 9
+Eastwood | The Hills | T G Millner Field , Marsfield | The Woodies | 1947 | 6
+Gordon | Upper North Shore | chatswood Oval , Chatswood | Highlanders | 1936 | 8
+Manly | Lower Northern Beaches | Manly Oval , Manly | The Marlins | 1906 | 7
+Northern Suburbs | Lower North Shore | North Sydney Oval , North Sydney | The Shoreman , Norths , The Red and Blacks | 1900 | 7
+Parramatta | Parramatta | Granville Park , Merrylands | Two Blues | 1934 | 3
+Randwick | Lower Eastern Suburbs | Coogee Oval , Coogee | Galloping Greens , The Wicks | 1914 | 32
+Southern Districts | St. George and The Shire | Forshaw Park , Sylvania Waters | The Rebels | 1989 | 0
+Sydney University | Camperdown | University Oval No . 2 , Camperdown | The Students | 1900 | 40
+Warringah | Upper Northern Beaches | Pittwater Park , Warriewood | The Rats , Ratties | 1971 | 1
+West Harbour | Inner West | Concord Oval , Concord | Pirates | 1900 | 2
+
+Text
+Randwick District Rugby Union Football Club , also known as the Galloping Greens , is an Australian rugby union club which competes in the Sydney premier grade rugby union competition . The club was formed in 1882 and since then has won 32 first grade premierships and six Australian club championships . It is one of the traditional powerhouses of the Shute Shield competition , winning 14 titles from 1978 to 1996 . Randwick 's colours are myrtle green and the club 's home ground is Coogee Oval . In the 1980s the club produced many Wallabies , including the Ella brothers . Its history has seen many of Australia 's best players represent the club , including the likes of George Gregan and David Campese . In all , 93 Randwick players have pulled on a Wallaby jersey , and nine have had the honour of captaining their country . [ citation needed ]
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2019 Shute Shield season features 11 clubs in the competition.

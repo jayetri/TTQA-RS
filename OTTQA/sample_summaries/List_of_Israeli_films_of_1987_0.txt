@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "List of Israeli films of 1987" and create a summary.
+
+Premiere | Title | Director | Cast | Genre
+? | Late Summer Blues ( Hebrew : .mw-parser-output .script-hebrew , .mw-parser-output .script-Hebr { font-size:1.15em ; font-family : SBL Hebrew , SBL BibLit , Frank Ruehl CLM , Taamey Frank CLM , Ezra SIL , Ezra SIL SR , Keter Aram Tsova , Taamey Ashkenaz , Taamey David CLM , Keter YG , Shofar , David CLM , Hadasim CLM , Simple CLM , Nachlieli , Cardo , Alef , Noto Serif Hebrew , Noto Sans Hebrew , David Libre , David , Times New Roman , Gisha , Arial , FreeSerif , FreeSans } בלוז לחופש הגדול ) | Renen Schorr | Yoav Tzafir , Shahar Segal , Dor Zweigenboim , Noa Goldberg | Drama , Romance
+? | Lemon Popsicle VII ( Hebrew : אסקימו לימון 7 - אהבה צעירה ) | Walter Bannert | Yftach Katzur , Zachi Noy , Jonathan Sagall | Comedy
+? | Himmo Melech Yerushalaim ( Hebrew : חימו מלך ירושלים , lit . Himmo , King of Jerusalem ) | Amos Guttman | Alona Kimhi | Drama
+? | Ha-Muvtal Batito ( Hebrew : המובטל בטיטו , lit . Batito Is Unemployed ) | Ze'ev Revach | Ze'ev Revach | Comedy
+? | Deadline ( Hebrew : עד לאזור לחימה ) | Nathaniel Gutman | Christopher Walken | Drama
+? | Beauty and the Beast | Eugene Marner | John Savage , Rebecca De Mornay | Family , Fantasy , Musical
+? | Nipagesh Bachof ( Hebrew : נפגש בחוף , lit . We 'll meet at the beach ) | Yehuda Barkan and Yigal Shilon |  | Comedy
+? | Ha-Tov , HaRa , VeHaLo-Nora ( Hebrew : הטוב , הרע , והלא נורע , lit . Good , the Bad , and the Not So Bad ) | Assi Dayan |  | Drana
+? | Abba Ganuv ( Hebrew : אבא גנוב , lit . Superb dad ) | Jacob Goldwasser | Yehuda Barkan , Alona Kimhi , Ben Tzion | Drama , Comedy
+? | I Do n't Give a Damn ( Hebrew : לא שם זין ) | Shmuel Imberman | Ika Zohar , Anat Waxman , Shmuel Vilozni | Drama
+? | Photo Roman ( Hebrew : פוטו רומן ) | Assi Dayan and Tal Ron | Alon Aboutboul | Drama
+
+Text
+John Savage ( born John Smeallie Youngs on August 25 , 1949 ) is an American actor , best known for his roles in the films The Deer Hunter ( 1978 ) , The Onion Field ( 1979 ) , Hair ( 1979 ) and Salvador ( 1986 ) . He is also known for his role as Donald Lydecker in the TV series Dark Angel .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists 11 Israeli films released in 1987, including dramas, comedies, and a family fantasy musical. The films feature various actors, including Yoav Tzafir, Shahar Segal, John Savage, and Ze'ev Revach. The text provides additional information about John Savage, an American actor who appeared in one of the films listed in the table.

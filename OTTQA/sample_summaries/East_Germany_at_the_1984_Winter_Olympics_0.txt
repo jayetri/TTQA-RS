@@ -1,0 +1,37 @@
+Prompt:
+
+
+Read the table and text regarding "East Germany at the 1984 Winter Olympics" and create a summary.
+
+Medal | Name | Sport | Event
+Gold | Wolfgang Hoppe Dietmar Schauerhammer | Bobsleigh | Two-man
+Gold | Wolfgang Hoppe Roland Wetzig Dietmar Schauerhammer Andreas Kirchner | Bobsleigh | Four-man
+Gold | Katarina Witt | Figure skating | Women 's singles
+Gold | Steffi Walter-Martin | Luge | Women 's individual
+Gold | Jens Weißflog | Ski jumping | Men 's normal hill
+Gold | Christa Luding-Rothenburger | Speed skating | Women 's 500m
+Gold | Karin Kania-Enke | Speed skating | Women 's 1000m
+Gold | Karin Kania-Enke | Speed skating | Women 's 1500m
+Gold | Andrea Ehrig-Schöne-Mitscherlich | Speed skating | Women 's 3000m
+Silver | Frank-Peter Roetsch | Biathlon | Men 's 20 km
+Silver | Bernhard Lehmann Bogdan Musiol | Bobsleigh | Two-man
+Silver | Bernhard Lehmann Bogdan Musiol Ingo Voge Eberhard Weise | Bobsleigh | Four-man
+Silver | Bettina Schmidt | Luge | Women 's individual
+Silver | Jens Weißflog | Ski jumping | Men 's large hill
+Silver | Karin Kania-Enke | Speed skating | Women 's 500m
+Silver | Andrea Ehrig-Schöne-Mitscherlich | Speed skating | Women 's 1000m
+Silver | Andrea Ehrig-Schöne-Mitscherlich | Speed skating | Women 's 1500m
+Silver | Karin Kania-Enke | Speed skating | Women 's 3000m
+Bronze | Matthias Jacob | Biathlon | Men 's 10 km Sprint
+Bronze | Jörg Hoffmann Jochen Pietzsch | Luge | Men 's doubles
+
+Text
+Karin Enke-Richter ( née Enke , formerly Busch and Kania , born 20 June 1961 ) is a former speed skater , one of the most dominant of the 1980s . She is a three-time Olympic gold medallist , winning the 500 metres in 1980 , the 1000 metres in 1984 and the 1500 metres in 1984 . She won a total of eight Olympic medals .
+Karin Enke-Richter ( née Enke , formerly Busch and Kania , born 20 June 1961 ) is a former speed skater , one of the most dominant of the 1980s . She is a three-time Olympic gold medallist , winning the 500 metres in 1980 , the 1000 metres in 1984 and the 1500 metres in 1984 . She won a total of eight Olympic medals .
+Karin Enke-Richter ( née Enke , formerly Busch and Kania , born 20 June 1961 ) is a former speed skater , one of the most dominant of the 1980s . She is a three-time Olympic gold medallist , winning the 500 metres in 1980 , the 1000 metres in 1984 and the 1500 metres in 1984 . She won a total of eight Olympic medals .
+Karin Enke-Richter ( née Enke , formerly Busch and Kania , born 20 June 1961 ) is a former speed skater , one of the most dominant of the 1980s . She is a three-time Olympic gold medallist , winning the 500 metres in 1980 , the 1000 metres in 1984 and the 1500 metres in 1984 . She won a total of eight Olympic medals .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: East Germany won 9 gold medals in the 1984 Winter Olympics. The sports in which they won medals were bobsleigh, figure skating, luge, ski jumping, and speed skating. They also won 9 silver medals and 2 bronze medals. Karin Enke-Richter, a speed skater, won 3 gold medals and a total of 8 Olympic medals during the 1980s.

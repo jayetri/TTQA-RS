@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "Common Wealth Party election results" and create a summary.
+
+By-election | Candidate | Votes | % | Position
+1943 Ashford by-election | Catherine Williamson | 4,192 | 30.3 | 2
+1943 Midlothian and Peebles Northern by-election | Tom Wintringham | 10,751 | 48.1 | 2
+1943 Portsmouth North by-election | Thomas Sargant | 4,545 | 40.3 | 2
+1943 Watford by-election | Raymond Blackburn | 11,838 | 46.1 | 2
+1943 Eddisbury by-election | John Loverseed | 8,023 | 43.7 | 1
+1943 Daventry by-election | Dennis Webb | 6,591 | 33.4 | 2
+1943 The Hartlepools by-election | Elaine Burton | 3,634 | 17.4 | 2
+1943 Newark by-election | Edward Moeran | 3,189 | 13.9 | 3
+1943 Birmingham Aston by-election | Gilbert Hall | 1,886 | 21.6 | 2
+1944 Skipton by-election | Hugh Lawson | 12,222 | 44.9 | 1
+1944 Manchester Rusholme by-election | Harold W. Blomerley | 6,870 | 42.1 | 2
+1945 Chelmsford by-election | Ernest Millington | 24,548 | 57.5 | 1
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Common Wealth Party participated in several by-elections between 1943 and 1945. In these elections, the party won two seats, with candidates John Loverseed and Ernest Millington emerging victorious. The party secured an average vote share of around 35%. Notably, the party performed well in several other by-elections, with candidates securing more than 40% of the votes in four instances. Despite not winning all the elections, the party's performance demonstrated its growing influence in British politics

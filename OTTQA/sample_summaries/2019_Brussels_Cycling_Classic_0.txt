@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "2019 Brussels Cycling Classic" and create a summary.
+
+Rank | Rider | Team | Time
+1 | Caleb Ewan ( AUS ) | Lotto-Soudal | 4h 25 ' 35
+2 | Pascal Ackermann ( GER ) | Bora-Hansgrohe | + 0
+3 | Jasper Philipsen ( BEL ) | UAE Team Emirates | + 0
+4 | Davide Ballerini ( ITA ) | Astana | + 0
+5 | Jasper Stuyven ( BEL ) | Trek-Segafredo | + 0
+6 | Arnaud Démare ( FRA ) | Groupama-FDJ | + 0
+7 | Alexander Kristoff ( NOR ) | UAE Team Emirates | + 0
+8 | Amaury Capiot ( BEL ) | Sport Vlaanderen-Baloise | + 0
+9 | Baptiste Planckaert ( BEL ) | Wallonie Bruxelles | + 0
+10 | Kaden Groves ( AUS ) | Mitchelton-Scott | + 0
+
+Text
+Baptiste Planckaert ( born 28 September 1988 in Kortrijk ) is a Belgian cyclist , who currently rides for UCI Professional Continental team . In May 2018 , he was named in the startlist for the Giro d'Italia , where he finished 116th overall . He is the brother of fellow racing cyclists Edward Planckaert and Emiel Planckaert .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays the result of the 2019 Brussels Cycling Classic, which saw Caleb Ewan of Lotto-Soudal win with a time of 4h 25'35. The top 10 positions were filled by riders from eight different teams, with Belgium having the most riders represented. The text is a brief biography of Baptiste Planckaert, a Belgian cyclist who finished 9th in the race and rides for Wallonie Bruxelles.

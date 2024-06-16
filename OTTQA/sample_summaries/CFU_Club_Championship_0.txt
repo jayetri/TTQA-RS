@@ -1,0 +1,35 @@
+Prompt:
+
+
+Read the table and text regarding "Caribbean Club Championship" and create a summary.
+
+Team | Winners | Runners-up | Years Won | Years Runner-up
+W Connection | 3 | 6 | 2002 , 2006 , 2009 | 2000 , 2001 , 2003 , 2012 , 2015 , 2016
+Joe Public | 2 | 2 | 1998 , 2000 | 2007 , 2010
+Puerto Rico Islanders | 2 | 1 | 2010 , 2011 | 2009
+Portmore United | 2 | 0 | 2005 , 2019 | 
+Central | 2 | 0 | 2015 , 2016 | 
+Harbour View | 2 | 0 | 2004 , 2007 | 
+San Juan Jabloteh | 1 | 2 | 2003 | 2006 , 2017
+Caledonia AIA | 1 | 1 | 2012 | 1998
+Atlético Pantoja | 1 | 0 | 2018 | 
+Cibao | 1 | 0 | 2017 | 
+Defence Force | 1 | 0 | 2001 | 
+United Petrotrin | 1 | 0 | 1997 | 
+Arnett Gardens | 0 | 2 |  | 2002 , 2018
+Waterhouse | 0 | 1 |  | 2019
+Tempête | 0 | 1 |  | 2011
+Robinhood | 0 | 1 |  | 2005
+Tivoli Gardens | 0 | 1 |  | 2004
+Seba United | 0 | 1 |  | 1997
+
+Text
+Harbour View Football Club is a Jamaican football club based in Kingston that currently plays in the Red Stripe Premier League . Harbour View is nicknamed the Stars of the East or Easters and play their home games at Harbour View Stadium .
+The Arnett Gardens Football Club is a Jamaican football club based in Kingston , which currently plays in the National Premier League . The team is based in the Arnett Gardens community of South Saint Andrew , Jamaica , and plays in the Anthony Spaulding Sports Complex .
+The Waterhouse Football Club is a football team based in Kingston , that competes in the Jamaican National Premier League . Their home stadium is Waterhouse Stadium .
+Tivoli Gardens Football Club is a Jamaican football club , based in Kingston . They currently play in the Jamaican National Premier League and their home stadium is the Railway Oval .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Caribbean Club Championship is a football competition in which teams from the Caribbean region participate. From the table, we can see that W Connection has won the championship the most with 3 titles, followed by Joe Public, Puerto Rico Islanders, Portmore United, Central, and Harbour View, each with 2 titles. The teams with the most runner-up positions are W Connection with 6 and Joe Public with 2. The teams from Jamaica, such as Harbour View, Arnett Gardens, Waterhouse

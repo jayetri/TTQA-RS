@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "2016 Conference USA football season" and create a summary.
+
+Team | Head coach | Years at school | Overall record | Record at school | CUSA record
+Charlotte | Brad Lambert | 4 | 12-22 | 12-22 | 0-8
+FIU | Ron Turner | 4 | 55-82 | 10-26 | 7-17
+Florida Atlantic | Charlie Partridge | 3 | 6-18 | 6-18 | 5-11
+Louisiana Tech | Skip Holtz | 4 | 110-88 | 22-17 | 16-8
+Marshall | Doc Holliday | 7 | 50-28 | 50-28 | 33-15
+Middle Tennessee | Rick Stockstill | 11 | 64-61 | 64-61 | 17-7
+North Texas | Seth Littrell | 1 | 0-0 | 0-0 | 0-0
+Old Dominion | Bobby Wilder | 8 | 57-27 | 57-27 | 7-9
+Rice | David Bailiff | 10 | 74-75 | 53-60 | 37-35
+Southern Miss | Jay Hopson | 1 | 32-17 | 0-0 | 0-0
+UTEP | Sean Kugler | 4 | 14-23 | 14-23 | 9-15
+UTSA | Frank Wilson | 1 | 0-0 | 0-0 | 0-0
+Western Kentucky | Jeff Brohm | 3 | 20-7 | 20-7 | 12-4
+
+Text
+Richard Wilson Stockstill ( born December 23 , 1957 ) is an American football coach . He is the head coach for the Middle Tennessee Blue Raiders football program . Stockstill was a Florida State quarterback under coach Bobby Bowden from 1977 to 1981 . On December 12 , 2005 , Stockstill was hired as the 14th head coach of the Middle Tennessee Blue Raiders .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the Conference USA coaches for the 2016 season. The coaches include Brad Lambert from Charlotte, Ron Turner from FIU, Charlie Partridge from Florida Atlantic, and others. The table provides their years at the school, overall record, record at the school, and Conference USA record.

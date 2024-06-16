@@ -1,0 +1,79 @@
+Prompt:
+
+
+Read the table and text regarding "Kuchenne rewolucje" and create a summary.
+
+# | # | Restaurant | Location | Original airdate | Share 16-49
+#    132
+#      1
+Name: 0, dtype: object | #    132
+#      1
+Name: 0, dtype: object | La Cubanita | Sandomierz | March 5 , 2015 | 20,76%
+#    133
+#      2
+Name: 1, dtype: object | #    133
+#      2
+Name: 1, dtype: object | West End | Piła | March 12 , 2015 | 21,38%
+#    134
+#      3
+Name: 2, dtype: object | #    134
+#      3
+Name: 2, dtype: object | Pod Złotym Aniołem ( eng . At the Gold Angel ) | Bolesławiec | March 19 , 2015 | 20,74%
+#    135
+#      4
+Name: 3, dtype: object | #    135
+#      4
+Name: 3, dtype: object | U'Bares | Rzeszów | March 26 , 2015 | 22,29%
+#    136
+#      5
+Name: 4, dtype: object | #    136
+#      5
+Name: 4, dtype: object | Stary Browar ( eng . Old Brewery ) | Świdnica | April 2 , 2015 | 19,94%
+#    137
+#      6
+Name: 5, dtype: object | #    137
+#      6
+Name: 5, dtype: object | Młyn ( eng . Mill ) | Bytom | April 9 , 2015 | 17,88%
+#    138
+#      7
+Name: 6, dtype: object | #    138
+#      7
+Name: 6, dtype: object | Polskie Ranczo ( eng . Polish Rancho ) | Bestwinka | April 16 , 2015 | 20,31%
+#    139
+#      8
+Name: 7, dtype: object | #    139
+#      8
+Name: 7, dtype: object | Remus | Borowo | April 23 , 2015 | 21,80%
+#    140
+#      9
+Name: 8, dtype: object | #    140
+#      9
+Name: 8, dtype: object | Polski Smak ( eng . Polish Taste ) | Katowice | April 30 , 2015 | 20,11%
+#    141
+#     10
+Name: 9, dtype: object | #    141
+#     10
+Name: 9, dtype: object | Dzikie Wino ( eng . Wild Wine ) | Reda | May 7 , 2015 | 21,87%
+#    142
+#     11
+Name: 10, dtype: object | #    142
+#     11
+Name: 10, dtype: object | Filmowa ( eng . Movie ) | Kamieniec Wrocławski | May 14 , 2015 | 21,06%
+#    143
+#     12
+Name: 11, dtype: object | #    143
+#     12
+Name: 11, dtype: object | Figaro | Elbląg | May 21 , 2015 | 18,22%
+#    144
+#     13
+Name: 12, dtype: object | #    144
+#     13
+Name: 12, dtype: object | Zielarnia | Olsztynek | May 28 , 2015 | 19,89%
+
+Text
+Reda ( Pomeranian : Réda , ) is a town on the river Reda , in the Kashubia region of northwestern Poland , with some 26,011 inhabitants . Formerly in the Gdańsk Voivodeship from 1975 to 1998 , it has been part of Wejherowo County , Pomeranian Voivodeship since 1999 . Well-developed railways and highways connect it to the Tricity , an agglomeration home to over 1 million residents on the Baltic coast of Gdańsk Bay .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows information about 13 episodes of the reality TV show "Kuchenne rewolucje" which means "Kitchen Revolutions". Each episode is numbered with the restaurant name, location, original air date, and share of viewers aged 16-49. The location includes various cities and towns in Poland such as Sandomierz, Piła, Bolesławiec, Rzeszów, and others. The original air dates range from March 5, 2015,

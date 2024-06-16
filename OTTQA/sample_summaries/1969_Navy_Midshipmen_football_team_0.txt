@@ -1,0 +1,26 @@
+Prompt:
+
+
+Read the table and text regarding "1969 Navy Midshipmen football team" and create a summary.
+
+Date | Opponent | Site | Result
+September 20 | Penn State | Navy-Marine Corps Memorial Stadium Annapolis , MD | L 22-45
+September 27 | at Boston College | Alumni Stadium Chestnut Hill , MA | L 14-21
+October 4 | at Texas | Memorial Stadium Austin , TX | L 17-56
+October 11 | at Pittsburgh | Pitt Stadium Pittsburgh , PA | L 19-46
+October 18 | at Rutgers | Rutgers Stadium Piscataway , NJ | L 6-20
+October 25 | Virginia | Navy-Marine Corps Memorial Stadium Annapolis , MD | W 10-0
+November 1 | at Notre Dame | Notre Dame Stadium South Bend , IN ( rivalry ) | L 0-47
+November 7 | at Miami ( FL ) | Orange Bowl Stadium Miami , FL | L 10-30
+November 15 | Syracuse | Navy-Marine Corps Memorial Stadium Annapolis , MD | L 0-15
+November 29 | vs. Army | JFK Stadium Philadelphia , PA ( Army-Navy Game ) | L 0-27
+
+Text
+The 1969 Rutgers Scarlet Knights football team represented Rutgers University in the 1969 college football season . In their tenth season under head coach John F. Bateman , the Scarlet Knights compiled a 6-3 record and outscored their opponents 212 to 150 . The team 's statistical leaders included Rich Policastro with 1,690 passing yards , Steve Ferrughelli with 564 rushing yards , and Jim Benedict with 650 receiving yards . The team was scheduled to play at the College of the Holy Cross on November 15 , but the game was cancelled due to an outbreak of hepatitis there . This year was celebrated as the centennial of college football , one hundred years since the 1869 game between Rutgers and Princeton . The game against Princeton , which Rutgers won 29-0 , was broadcast in the Eastern Region by ABC Television . Two weeks later , Rutgers was upset by Lehigh in a 7-17 loss .
+Rutgers Stadium was a stadium in Piscataway Township , New Jersey . It hosted the Rutgers University Scarlet Knights football team until the school moved to the current Rutgers Stadium in 1994 . The stadium held 31,219 people at its peak and was opened in 1938 . It also hosted the NCAA Men 's Lacrosse Championship on five different occasions .
+Piscataway ( /pɪˈskætəweɪ/ ) is a township in Middlesex County , New Jersey , United States . As of the 2010 United States Census , the township 's population was 56,044 , reflecting an increase of 5,562 ( +11.0% ) from the 50,482 counted in the 2000 Census , which had in turn increased by 3,393 ( +7.2% ) from the 47,089 counted in 1990 . The name Piscataway may be derived from the area 's original Native American residents , transplants from near the Piscataqua River defining the coastal border between New Hampshire and Maine , whose name derives from peske ( branch ) and tegwe ( tidal river ) , or alternatively from pisgeu ( meaning dark night ) and awa ( place of ) or from a Lenape language word meaning great deer or from words meaning place of dark night . The area was appropriated in 1666 by Quakers and Baptists who had left the Puritan colony in New Hampshire . Piscataway Township was formed on December 18 , 1666 , and officially incorporated by an act of the New Jersey Legislature on February 21 , 1798 , as part of the state 's initial group of 104 townships . The community , the fifth-oldest municipality in New Jersey , has grown from Native American territory , through a colonial period and is one of the links in the earliest settlement of the Atlantic Ocean seacoast that ultimately led to the formation of the United States . Over the years , portions of Piscataway were taken to form Raritan Township ( March 17 , 1870 , now Edison ) , Dunellen ( October 28 , 1887 ) , Middlesex ( April 9 , 1913 ) and South Plainfield ( March 10 , 1926 ) . Piscataway has advanced educational and research facilities due to the presence of Rutgers University , whose main campus spills into the township . SHI Stadium , home field for the Rutgers Scarlet Knights football team , is in Piscataway . Part of the Robert Wood Johnson Medical School is located in Piscataway as well . In 2008 , Money magazine ranked Piscataway 23rd out of the top 100 places to live in America . In 2014 , the magazine ranked Piscataway 27th out of top 50 places to live in America .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The text primarily discusses the 1969 Rutgers Scarlet Knights football team. They had a 6-3 record, with statistical leaders including Rich Policastro, Steve Ferrughelli, and Jim Benedict. The team's game against Princeton was broadcast by ABC Television. Additionally, the text provides information about Rutgers Stadium, which was the home stadium of the Scarlet Knights until 1994, and Piscataway, New Jersey, where Rutgers University is located.

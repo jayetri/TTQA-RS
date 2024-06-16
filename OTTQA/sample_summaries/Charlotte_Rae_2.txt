@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "Charlotte Rae" and create a summary.
+
+Year | Title | Role | Location
+1952 | Three Wishes for Jamie | Tirsa Shanahan | Plymouth Theatre
+1954 | Threepenny Opera | Mrs. Peachum | Theatre de Lys
+1954 | The Golden Apple | Mrs. Juniper | Alvin Theatre
+1956 | The Littlest Revue | Various | Phoenix Theatre
+1956 | Li ' l Abner | Mammy Yokum | St. James Theatre
+1962-63 | The Beauty Part | Various | Music Box Theatre / Plymouth Theatre
+1965 | Pickwick | Mrs. Bardell | 46th Street Theatre
+1968-69 | Morning , Noon and Night | Various | Henry Miller 's Theatre
+1970 | The Chinese and Dr . Fish | Charlotte Mendelsohn | Ethel Barrymore Theatre
+1971 | Boom Boom Room | Helen | Vivian Beaumont Theatre
+1989 | Driving Miss Daisy | Miss Daisy | Chicago
+1989 | Into the Woods | Jack 's Mother | Ahmanson Theatre
+1990 | Happy Days | Winnie | Mark Taper Forum
+2000 | Pippin | Berthe | Paper Mill Playhouse
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows Charlotte Rae's theatrical performances across various years from 1952 to 2000. The table lists the year, title, role, and location of each performance. This table highlights Charlotte Rae's versatility as an actress playing diverse roles in different productions. The variety of roles ranges from Mrs. Peachum in "Threepenny Opera" to Berthe in "Pippin." Charlotte Rae's broad career spanned across multiple theatres in New York City and other locations,

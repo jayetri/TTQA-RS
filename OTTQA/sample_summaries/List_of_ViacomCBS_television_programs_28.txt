@@ -1,0 +1,28 @@
+Prompt:
+
+
+Read the table and text regarding "List of ViacomCBS television programs" and create a summary.
+
+Title | Original run | Network | Notes
+The New Breed | 1961-1962 | ABC | with Selmur Productions ; formerly distributed by ABC Films
+The Fugitive | 1963-1967 | ABC | with United Artists Television
+The Invaders | 1967-1968 | ABC | formerly distributed by ABC Films
+Dan August | 1970-1971 | ABC | 
+Cannon | 1971-1976 | CBS | with CBS formerly distributed by Viacom
+The Streets of San Francisco | 1972-1977 | ABC | with Warner Bros. Television ( pilot and season 1 only )
+Barnaby Jones | 1973-1980 | CBS | with Woodruff Productions ( seasons 7-8 )
+The Manhunter | 1974-1975 | CBS | 
+Caribe | 1975 | ABC | 
+Bert D'Angelo/Superstar | 1976 | ABC | formerly distributed by Viacom
+Most Wanted | 1976-1977 | ABC | 
+Quinn Martin 's Tales of the Unexpected | 1977 | NBC | 
+The Runaways | 1978-1979 | NBC | with New Vistas Productions
+A Man Called Sloane | 1979 | NBC | with Woodruff Productions
+
+Text
+The Invaders is an American science-fiction television program created by Larry Cohen that aired on ABC for two seasons , from 1967 to 1968 . Roy Thinnes stars as David Vincent , who tries to thwart an in-progress alien invasion despite the disbelief of officials and the general public . The series was a Quinn Martin production .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists various ViacomCBS television programs. Some of the programs include "The Fugitive", "The Invaders", "Dan August", "Cannon", and others. The programs were aired on different networks such as ABC, CBS, and NBC between 1961 and 1979. The Invaders, created by Larry Cohen, is a science-fiction series that aired on ABC from 1967 to 1968, starring Roy Thinnes as David Vincent, who tries to

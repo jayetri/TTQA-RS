@@ -1,0 +1,31 @@
+Prompt:
+
+
+Read the table and text regarding "1947 Venezuelan general election" and create a summary.
+
+State | AD | COPEI /UFR
+Anzoátegui | 13 | 
+Apure | 11 | 1
+Aragua | 12 | 2
+Barinas | 9 | 3
+Bolívar | 11 | 1
+Carabobo | 14 | 2
+Cojedes | 10 | 1
+Falcón | 17 | 2
+Guárico | 13 | 1
+Lara | 18 | 2
+Mérida | 6 | 10
+Miranda | 15 | 2
+Monagas | 12 | 
+Nueva Esparta | 8 | 
+Portuguesa | 11 | 1
+Sucre | 18 | 
+Táchira | 6 | 12
+Trujillo | 12 | 7
+Yaracuy | 12 | 1
+Zulia | 18 | 2
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 1947 Venezuelan general election was the first free and fair election held in Venezuela. In this election, the Democratic Action (AD) party dominated nationwide, winning a majority in 16 out of the 20 states. According to the above table, AD won in all states except in Mérida, Táchira, and Trujillo, where COPEI/UFR gained majority.

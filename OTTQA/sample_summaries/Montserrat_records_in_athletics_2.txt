@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "List of Montserrat records in athletics" and create a summary.
+
+Event | Record | Athlete | Date | Place
+100 m | 13.17 ( nw ) | Tenecia Pollard | 28 May 2005 | St. John 's , Montserrat
+200 m | 26.69 ( nw ) | Jenalyn Weekes | 28 February 2016 | Vieux-Fort , Saint Lucia
+400 m | 1:01.80 | Jenalyn Weekes | 28 February 2016 | Vieux-Fort , Saint Lucia
+400 m | 57.7 ( ht ) # | Lyn Ryan | 17 May 1970 | Leamington Spa , United Kingdom
+800 m | 2:31.5 | Estelle Furlonge | 5 July 1992 | Road Town , British Virgin Islands
+1500 m | 5:48.3 | Magdalena OBrien | 9 July 1977 | Road Town , British Virgin Islands
+3000 m | 11:31.8 | Judith Allen | 8 May 1988 | St. John 's , Montserrat
+100 m hurdles | 18.6 | Lynette Lee | 25 April 1970 | Enfield , United Kingdom
+High jump | 1.57 m | Lynette Lee | 23 May 1971 | London , United Kingdom
+Long jump | 5.62 m | Lynette Lee | 23 May 1971 | London , United Kingdom
+Shot put | 11.52 m | Jenita Shields | 24 July 1982 | Plymouth , Montserrat
+Discus throw | 26.95 m | Ericca Fredericks | March 1999 | Road Town , British Virgin Islands
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays the records of various athletic events held in Montserrat. It shows the times, distances, and heights achieved by athletes from Montserrat in different events such as 100m, 200m, 400m, 800m, 1500m, 3000m, 100m hurdles, high jump, long jump, shot put, and discus throw. These records were set at different times and locations, ranging from 1970 to 2016,

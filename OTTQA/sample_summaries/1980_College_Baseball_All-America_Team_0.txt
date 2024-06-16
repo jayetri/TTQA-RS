@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "1980 College Baseball All-America Team" and create a summary.
+
+Position | Name | School
+Pitcher | Neal Heaton ♦ | Miami
+Pitcher | Steve Krueger | Arkansas
+Catcher | Scotti Madison | Vanderbilt
+First baseman | Keith Hagman | New Mexico
+Second baseman | Tim Teufel | Clemson
+Third baseman | Jeff Smith | Delaware
+Shortstop | Dave Pagel | Central Michigan
+Outfielder | Terry Francona | Arizona
+Outfielder | Dan Murphy | UNLV
+Outfielder | Mike Fuentes | Florida State
+Designated hitter | Matt Guldelfinger | Kansas
+
+Text
+The University of Arkansas Razorbacks baseball team , sometimes referred to as the Diamond Hogs , are members of the National Collegiate Athletic Association ( NCAA ) and the Southeastern Conference ( SEC ) , and are coached by Dave Van Horn . The program started in 1897 , and is in its 96th season of play ( 72nd consecutive ) in 2019 . Arkansas is one of only four schools in the SEC to turn a profit from its baseball program in recent years , along with SEC Western division rivals LSU , Mississippi State and Ole Miss . Many large schools such as Iowa State , Colorado , and Wisconsin have dropped their baseball programs because of financial losses . The Diamond Hogs have been to 31 NCAA tournaments and ten College World Series : 1979 , 1985 , 1987 , 1989 , 2004 , 2009 , 2012 , 2015 , 2018 , 2019 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the 1980 College Baseball All-America Team, with players from different schools, including Arkansas Razorbacks. The text provides information about the University of Arkansas Razorbacks baseball team, its history, coaches, and achievements in NCAA tournaments and College World Series.

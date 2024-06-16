@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "2019 Tour de France" and create a summary.
+
+Rank | Rider | Team | Time
+1 | Egan Bernal ( COL ) | Team Ineos | 82h 57 ' 00
+2 | Geraint Thomas ( GBR ) | Team Ineos | + 1 ' 11
+3 | Steven Kruijswijk ( NED ) | Team Jumbo-Visma | + 1 ' 31
+4 | Emanuel Buchmann ( GER ) | Bora-Hansgrohe | + 1 ' 56
+5 | Julian Alaphilippe ( FRA ) | Deceuninck-Quick-Step | + 4 ' 05
+6 | Mikel Landa ( ESP ) | Movistar Team | + 4 ' 23
+7 | Rigoberto Urán ( COL ) | EF Education First | + 5 ' 15
+8 | Nairo Quintana ( COL ) | Movistar Team | + 5 ' 30
+9 | Alejandro Valverde ( ESP ) | Movistar Team | + 6 ' 12
+10 | Warren Barguil ( FRA ) | Arkéa-Samsic | + 7 ' 32
+
+Text
+Egan Arley Bernal Gómez ( born 13 January 1997 ) is a Colombian cyclist , who currently rides for UCI WorldTeam . He won the 2019 Tour de France , becoming the first Latin American winner of the race .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2019 Tour de France was won by Egan Bernal, a Colombian cyclist from Team Ineos, with a total time of 82 hours, 57 minutes, and 0 seconds. He beat Geraint Thomas by 1 minute and 11 seconds, and Steven Kruijswijk by 1 minute and 31 seconds, to secure the top spot. Other top finishers included Julian Alaphilippe, Mikel Landa, and Nairo Quintana, among

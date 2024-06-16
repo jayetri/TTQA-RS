@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "1979 Detroit Lions season" and create a summary.
+
+Round | Pick | Player | Position | College
+1 | 10 | Keith Dorney | Tackle | Penn State
+2 | 37 | Ken Fantetti | Linebacker | Wyoming
+3 | 67 | Bo Robinson | Running Back | West Texas A & M
+4 | 88 | Ulysses Norris | Tight End | Georgia
+4 | 92 | Jon Brooks | Linebacker | Clemson
+5 | 131 | Walt Brown | Center | Pittsburgh
+8 | 213 | John Mohring | Linebacker | C.W . Post
+9 | 231 | Jeff Komlo | Quarterback | Delaware
+11 | 302 | Eddie Cole | Linebacker | Mississippi
+12 | 313 | Bob Forester | Center | Brown
+12 | 326 | Bryan Sweeney | Wide Receiver | Texas A & M-Kingsville
+
+Text
+Ken Fantetti ( born April 7 , 1957 ) is a former American football linebacker who played in the NFL for the Detroit Lions from 1979 through 1985 . Fantetti was born in Toledo , Oregon , in 1957 and played college football at the University of Wyoming from 1975 to 1978 . As a senior in 1978 , he had 124 tackles , including 73 unassisted tackles , and was selected as an All-American by the Football Writers Association of America . He had 15 unassisted tackles and nine assists in a 1978 game against Utah . He was also selected as the Western Athletic Conference Defensive Player of the Year in 1978 . He was drafted by the Detroit Lions in the second round ( 37th overall pick ) of the 1979 NFL Draft . At the time , Lions head coach Monte Clark called Fantetti a deluxe hitter -- which means he 's something special . He 's an old fashioned , rough and tough , hard-nosed football player . Fantetti played in 95 games for the Lions from 1979 to 1985 . In 2008 , Fantetti opened a barbecue restaurant called Big Ken 's BBQ in Portland , Oregon . He was inducted into the University of Wyoming Athletics Hall of Fame in 2003 . Fantetti 's biography at the Hall of Fame describes him as one of greatest impact players and devastating linebackers in Wyoming history .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the draft picks of the 1979 Detroit Lions. In the 1979 NFL Draft, the Detroit Lions selected 12 players, including Keith Dorney, Ken Fantetti, Bo Robinson, and Ulysses Norris, among others. The text provides more information about Ken Fantetti, a linebacker who was drafted in the second round (37th overall pick) and played for the Lions from 1979 to 1985. Fantetti had a successful college football career

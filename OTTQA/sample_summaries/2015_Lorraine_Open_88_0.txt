@@ -1,0 +1,22 @@
+Prompt:
+
+
+Read the table and text regarding "2015 Lorraine Open 88" and create a summary.
+
+Country | Player | Rank | Seed
+ROU | Alexandra Dulgheru | 60 | 1
+CZE | Tereza Smitková | 62 | 2
+GER | Annika Beck | 70 | 3
+ROU | Andreea Mitu | 71 | 4
+BRA | Teliana Pereira | 77 | 5
+ESP | Lourdes Domínguez Lino | 90 | 6
+MNE | Danka Kovinić | 92 | 7
+KAZ | Yulia Putintseva | 95 | 8
+
+Text
+Danka Kovinić ( born 18 November 1994 ) is a professional tennis player and a member of the Montenegro Fed Cup team . On 22 February 2016 , she reached her career-high singles ranking of world No . 46 , whilst on 20 June 2016 , she peaked at No . 67 in the doubles rankings .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the top 8 seeded players in the 2015 Lorraine Open 88 tennis tournament, led by Romanian player Alexandra Dulgheru. Danka Kovinić, a professional tennis player from Montenegro, was seeded 7th and went on to achieve a career-high singles ranking of 46 and doubles ranking of 67 in 2016.

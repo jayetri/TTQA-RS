@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "2019–20 Armenian Premier League" and create a summary.
+
+Club | Location | Stadium | Capacity
+Alashkert | Yerevan ( Shengavit ) | Alashkert Stadium | 6,850
+Ararat | Yerevan ( Kentron ) | Vazgen Sargsyan Stadium | 14,403
+Ararat-Armenia | Yerevan ( Avan ) | Yerevan Football Academy Stadium | 1,428
+Gandzasar | Yerevan ( Avan ) | Yerevan Football Academy Stadium | 1,428
+Lori | Vanadzor | Vanadzor Football Academy | 880
+Noah | Yerevan ( Shengavit ) | Alashkert Stadium | 6,850
+Pyunik | Yerevan ( Kentron ) | Vazgen Sargsyan Stadium | 14,403
+Shirak | Gyumri | Gyumri City Stadium | 4,500
+Urartu | Yerevan ( Malatia-Sebastia ) | Banants Stadium | 4,860
+Yerevan | Vanadzor | Vanadzor Football Academy | 880
+
+Text
+Vazgen Sargsyan Republican Stadium ( Armenian : Վազգեն Սարգսյանի անվան Հանրապետական մարզադաշտ ) also known as the Republican Stadium ( Armenian : Հանրապետական մարզադաշտ , romanized : Hanrapetakan Stadium ) is an all-seater multi-use stadium located on 65 Vardanants street , in the Armenian capital Yerevan . The stadium was built between 1933 and 1935 . It was officially opened in 1935 as Dinamo Stadium . Further developments were implemented in 1953 , after the end of World War II . It is mainly used for association football and is the home ground of the Armenia national football team . The capacity of the stadium is 14,403 seats .
+Vazgen Sargsyan Republican Stadium ( Armenian : Վազգեն Սարգսյանի անվան Հանրապետական մարզադաշտ ) also known as the Republican Stadium ( Armenian : Հանրապետական մարզադաշտ , romanized : Hanrapetakan Stadium ) is an all-seater multi-use stadium located on 65 Vardanants street , in the Armenian capital Yerevan . The stadium was built between 1933 and 1935 . It was officially opened in 1935 as Dinamo Stadium . Further developments were implemented in 1953 , after the end of World War II . It is mainly used for association football and is the home ground of the Armenia national football team . The capacity of the stadium is 14,403 seats .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2019-2020 Armenian Premier League consists of 10 teams. The stadiums mentioned have a capacity ranging from 880 (Vanadzor Football Academy) to 14,403 (Vazgen Sargsyan Stadium). The Vazgen Sargsyan Stadium, also known as the Republican Stadium, is a multi-use stadium built between 1933 and 1935, and it is the home ground of the Armenia national football team. The majority of teams are based in

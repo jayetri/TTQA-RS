@@ -1,0 +1,30 @@
+Prompt:
+
+
+Read the table and text regarding "2012 Zimbabwe Premier Soccer League" and create a summary.
+
+Team | City | Home venue | Capacity
+Black Mambas | Harare | Morris Depot Police Camp | 5000
+Blue Rangers | Harare | Gwanzura Stadium | 10000
+Buffaloes | Mutare | Sakubva Stadium | 10000
+CAPS United | Harare | National Sports Stadium | 60000
+Chicken Inn | Bulawayo | Luveve Stadium | 8000
+Dynamos | Harare | Rufaro Stadium | 35000
+FC Platinum | Zvishavane | Mandava Stadium | 3000
+Gunners | Mabvuku | Lafarge Stadium | 10000
+Harare City | Harare | Rufaro Stadium | 35000
+Hardbody | Gweru | Ascot Stadium | 5000
+Highlanders | Bulawayo | Barbourfields Stadium | 32000
+Hwange | Hwange | Colliery Stadium | 15000
+Monomotapa United | Harare | Gwanzura Stadium | 10000
+Motor Action | Harare | Motor Action Sports Club | 1000
+Quelaton | Bulawayo | Luveve Stadium | 8000
+Shabanie Mine | Zvishavane | Maglas Stadium | 5000
+
+Text
+Mabvuku is a high density suburb some 17 km east of Harare , the capital city of Zimbabwe . It is classified as a suburb or township of Harare , with Harare City Council constituting local government . It encompasses in particular the townships that include Old Mabvuku and New Mabvuku , and more generally Old Tafara , and New Tafara ( the latter two constituting Tafara properly speaking ) . Chizhanje is a former dormitory suburb of hostels very close to Old Mabvuku that is nominally part of Mabvuku . Old Mabvuku dates back to the 1950s , with the oldest school in the suburb , Donnybrook Primary School dating back to 1954 . New Mabvuku was built starting 1972 by the then Salisbury city council . Lately there have been expansions north and east via efforts by would be house owners through membership of housing cooperatives and voluntary contributions .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table presents the 16 teams participating in the 2012 Zimbabwe Premier Soccer League. The teams are from Harare, Mutare, Bulawayo, Zvishavane, Mabvuku, Gweru, and Hwange. The teams play at their respective home venues with capacities ranging from 1,000 to 60,000. The text, however, is unrelated to the 2012 Zimbabwe Premier Soccer League and appears to provide information about Mabv

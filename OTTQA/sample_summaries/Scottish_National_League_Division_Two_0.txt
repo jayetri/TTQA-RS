@@ -1,0 +1,26 @@
+Prompt:
+
+
+Read the table and text regarding "Scottish National League Division Two" and create a summary.
+
+Club | Location | Home Ground
+Dumfries Saints | Dumfries | Park Farm
+Falkirk | Falkirk | Horne Park
+Glasgow Academicals | Glasgow | New Anniesland
+Glasgow High Kelvinside | Glasgow | Old Anniesland
+Gordonians | Aberdeen | Countesswells
+Hamilton | Hamilton | Laigh Bent
+Kirkcaldy | Kirkcaldy | Beveridge Park
+Newton Stewart | Wigtown | Bladnoch Park
+Peebles | Peebles | The Gytes
+Preston Lodge | Prestonpans | Pennypit Park
+Stewarts Melville | Edinburgh | Inverleith
+Whitecraigs | Whitecraigs | West Lodge
+
+Text
+Hamilton Rugby Football Club is a rugby union club based in Hamilton , South Lanarkshire , Scotland . Established in 1927 as Hamilton Academy FP ( former pupils ) rugby club , they play their home games at Laigh Bent , and currently compete in Scottish National League Division One , the second third of Scottish club rugby . Hamilton Rugby Club was chosen as Scottish Rugby 's Club of the Year for the season 2017-2018 having been runner-up in 2014/15 . The Bulls received the honour of BT Club of the Month for October 2014 . At the end of that same season , the club received a further honour by being named as Glasgow Warriors , 'Greenbelt Community Club of the Season ' at the Warriors ' end of season dinner . The Club invests heavily in Youth Development and boasts age group teams from Primary 1 through to under-18 . The club 's under-18 squad is one of only 16 teams in Scotland to regularly qualify for the National U18 cup competition . In 2009 , Hamilton RFC signed an agreement allowing British American Football League side The East Kilbride Pirates to play their home fixtures at Laigh Bent . This agreement ended in 2018 . [ For history of Laigh Bent playing fields , see article Hamilton Academy ]
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the clubs participating in Scottish National League Division Two, along with their locations and home grounds. Hamilton Rugby Football Club, located in South Lanarkshire, has a strong reputation, having won several awards, including Scottish Rugby's Club of the Year in 2017-2018, and investing heavily in youth development. However, the text reveals that Hamilton Rugby Club actually competes in Scottish National League Division One, not Division Two, and the table appears to be inaccurate.

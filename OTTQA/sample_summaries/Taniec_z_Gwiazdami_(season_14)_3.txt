@@ -1,0 +1,29 @@
+Prompt:
+
+
+Read the table and text regarding "Taniec z Gwiazdami (season 14)" and create a summary.
+
+Dance | Best dancer ( s ) | Highest score | Worst dancer ( s ) | Lowest score
+Cha-cha-cha | Dawid Kwiatkowski | 39 | Natalia Siwiec | 18
+Waltz | Joanna Moro | 37 | Jacek Lenartowicz | 20
+Foxtrot | Dawid Kwiatkowski | 39 | Antoni Królikowski | 28
+Viennese Waltz | Aneta Zając | 37 | Aneta Zając | 28
+Jive | Dawid Kwiatkowski Aneta Zając | 33 | Rafał Brzozowski | 31
+Tango | Joanna Moro | 39 | Natalia Siwiec | 18
+Quickstep | Joanna Moro | 40 | Aneta Zając | 30
+Samba | Klaudia Halejcio | 40 | Karolina Szostak | 19
+Rumba | Aneta Zając | 40 | Aneta Zając | 28
+Paso Doble | Joanna Moro | 39 | Piotr Gruszka | 23
+Salsa | Dawid Kwiatkowski | 38 | Jacek Rozenek | 26
+Argentine Tango | Aneta Zając | 33 | Dawid Kwiatkowski | 32
+Fusion | Joanna Moro Dawid Kwiatkowski | 40 | Piotr Gruszka | 31
+Uncommon styles | Klaudia Halejcio ( American Smooth ) Joanna Moro ( Charleston ) | 40 | Piotr Gruszka ( Swing ) | 29
+Freestyle | Joanna Moro Aneta Zając | 40 |  | 
+
+Text
+The quickstep is a light-hearted dance of the standard ballroom dances . The movement of the dance is fast and powerfully flowing and sprinkled with syncopations . The upbeat melodies that quickstep is danced to make it suitable for both formal and informal events . Quickstep was developed in the 1920s in New York City and was first danced by Caribbean and African dancers . Its origins are in combination of slow foxtrot combined with the Charleston , a dance which was one of the precursors to what today is called swing dancing .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the results of a dance competition "Taniec z Gwiazdami (season 14)" with different dance styles, e.g., Cha-cha-cha, Waltz, Foxtrot, and more. The best and worst dancers are listed alongside their scores. Joanna Moro, Dawid Kwiatkowski, and Aneta Zając were among the top scorers. The text describes the quickstep dance style, its origins, and characteristics, which include fast-paced

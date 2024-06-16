@@ -1,0 +1,30 @@
+Prompt:
+
+
+Read the table and text regarding "List of eponymous streets in Metro Manila" and create a summary.
+
+Square | Location | Named after | Comments
+Plaza Avanceña | Quiapo | Ramón Avanceña | Supreme Court of the Philippines chief justice ( 1925-1941 )
+Plaza Avelino | Sampaloc | Librada Avelino | Centro Escolar University founder
+Plaza Calderón de la Barca | Binondo | Pedro Calderón de la Barca | Spanish playwright . The plaza is now known as Plaza San Lorenzo Ruiz after the first Filipino saint , Lorenzo Ruiz
+Plaza de Cervantes | Binondo | Miguel de Cervantes | Spanish novelist and author of Don Quijote de la Mancha ( 1605 )
+Plaza del Conde | San Nicolas | Antonio Chacón y Conde | Spanish commander of the Veteran Battalion of the Philippines ( 1825 ) and author of the Great Days in the Philippines published in 1826
+Plaza Felipe Calderón | Santa Ana | Felipe Calderón y Roca | Filipino lawyer and author of the Malolos Constitution ( 1899 )
+Plaza Ferguson | Ermita | Arthur M. Ferguson | U.S. Army lieutenant colonel during the Philippine-American War ( 1898-1902 ) . The plaza is also known as Plaza Nuestra Señora de Guia
+Plaza Goiti | Santa Cruz | Martín de Goiti | Spanish conquistador of Manila . The plaza is now known as Plaza Lacson after Manila mayor Arsenio Lacson
+Plaza Lachambre | Binondo | José de Lachambre | Spanish interim governor-general of the Philippines ( 1897 )
+Plaza Miranda | Quiapo | José Sandino y Miranda | Spanish secretary of the Treasury of the Philippines ( Spanish : Tesoro de Filipinas ) ( 1853-1854 )
+Plaza Moraga | Binondo | Fernando de Moraga | The first parish priest of Santa Ana de Sapa ( 1605 )
+Plaza Moriones | Tondo | Domingo Moriones y Murillo | Spanish governor-general of the Philippines ( 1877-1880 )
+Plaza Rajah Sulayman | Malate | Rajah Sulayman | Pre-Hispanic ruler of the Kingdom of Maynila ( 1571-1575 )
+Plaza Rueda | Ermita | Salvador Rueda y Santos | Spanish poet who visited Manila in 1915
+Plaza Salamanca | Ermita | Olivia Salamanca | One of the first Filipino women doctors
+Plaza Vicente del Fierro ( Plaza Herández ) | Tondo | Vicente del Fierro | Filipino writer and journalist . The plaza was formerly known as Plaza Hernandez after Filipino labor leader Amado Hernandez
+
+Text
+Plaza Moriones is a major public square in Tondo , Manila . Unlike other squares in Manila , the plaza is in the shape of a linear park occupying the central median of Moriones Street , starting at the intersection of Moriones and Juan Luna Streets , and ending at the intersection with Santa Maria Street , bisected by Nicolas Zamora Street in the center . It is named after Governor-General Domingo Moriones y Muralla , responsible for the construction of Manila 's sewerage system during his tenure from 1877 to 1881 . Originally an open green field lined with benches in colonial times , today the plaza is paved , with a size of 2,227 square meters ( 23,970 sq ft ) and a capacity of 6,681 persons . Trees and benches line its entire length , and three fountains have been placed throughout the plaza . Flanked by paved roads , the central portion of the plaza resembles 19th century garden design with its plants such as bandera española ( canna ) flowers and palm trees . At the end of the plaza stands the Sigaw ng Tondo , a monument sculpted in 1978 by Eduardo Castrillo in memory of local victims fleeing Japanese forces during the Battle of Manila in 1945 . In 2010 , another monument was erected at the plaza in memory of Honorio Lopez , a Tondo-born playwright who fought in the Philippine Revolution .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: There are 15 eponymous streets in Metro Manila, named after notable individuals such as Ramón Avanceña, Librada Avelino, Pedro Calderón de la Barca, Miguel de Cervantes, Antonio Chacón y Conde, Felipe Calderón y Roca, Arthur M. Ferguson, Martín de Goiti, José de Lachambre, José Sandino y Miranda, Fernando de Moraga, Domingo Moriones y Murillo, Rajah Sulay

@@ -1,0 +1,33 @@
+Prompt:
+
+
+Read the table and text regarding "2012 MLS SuperDraft" and create a summary.
+
+Pick # | MLS team | Player | Position | Affiliation
+20 | Montreal Impact | Calum Mallace | Midfielder | Marquette University Chicago Fire Premier
+21 | Vancouver Whitecaps FC | Chris Estridge | Defender | Indiana University Chicago Fire Premier
+22 | New England Revolution | * Tyler Polak | Defender | Creighton University Chicago Fire Premier
+23 | Chicago Fire | Lucky Mkosana | Forward | Dartmouth College Michigan Bucks
+24 | Real Salt Lake | Diogo de Almeida | Defender | Southern Methodist University
+25 | San Jose Earthquakes | Jacob Hustedt | Midfielder | University of Washington Ventura County Fusion
+26 | Columbus Crew | Aubrey Perry | Defender | University of South Florida
+27 | Portland Timbers | Brendan King | Midfielder | University of Notre Dame Chicago Fire Premier
+28 | Chicago Fire | Hunter Jumper | Defender | University of Virginia
+29 | Columbus Crew | Kevan George | Midfielder | University of Central Florida
+30 | Sporting Kansas City | Cyprian Hedrick | Defender | Coastal Carolina University Fresno Fuego
+31 | New York Red Bulls | Ryan Meara | Goalkeeper | Fordham University Jersey Express
+32 | Philadelphia Union | Greg Jordan | Midfielder | Creighton University
+33 | San Jose Earthquakes | Chris Blais | Goalkeeper | University of South Florida
+34 | Seattle Sounders FC | Babayele Sodade | Forward | University of Alabama-Birmingham Michigan Bucks
+35 | Philadelphia Union | Ray Gaddis | Defender | West Virginia University Reading United
+36 | Real Salt Lake | Sebastián Velásquez | Midfielder | Spartanburg Methodist College
+37 | Houston Dynamo | Warren Creavalle | Midfielder | University of Central Florida Carolina Dynamo
+38 | Los Angeles Galaxy | Kenney Walker | Midfielder | University of Louisville Chicago Fire Premier
+
+Text
+The Marquette Golden Eagles , formerly known as the Marquette Warriors , Blue and Gold , Gold , Hilltoppers , and Golden Avalanche ( football only ) , are the athletic teams representing Marquette University in Milwaukee , Wisconsin , United States . They compete as a member of the NCAA Division I level ( non-football sub-level ) , primarily competing in the Big East Conference for all sports since its establishment in 2013 . The Golden Eagles are a founding member of the current Big East , having been one of the seven members of the original Big East that broke away to form a basketball-focused league . They had joined the original Big East in 2005 , having previously competed in Conference USA ( C-USA ) from 1995-96 to 2004-05 , the Great Midwest Conference from 1991-92 to 1994-95 and the Horizon League from 1988-89 to 1990-91 . They also competed as an independent from 1916-17 to 1987-88 . Men 's sports include basketball , cross country , golf , lacrosse , soccer , tennis and track & field , while women 's sports include basketball , cross country , lacrosse , soccer , tennis , track & field and volleyball . The men 's basketball team won the NCAA national championship in 1977 , and was a finalist in 1974 and a semifinalist in 2003 . The 1970 team won the National Invitation Tournament ; the NCAA tournament in 1970 included just 25 teams and the NIT had 16 . The nickname change to Golden Eagles came in May 1994 . In May 2005 , the university changed the nickname to Gold , but the decision was reversed after public backlash . On December 15 , 2012 , Marquette and the other six Catholic , non-FBS Big East schools ( the so-called Catholic 7 ) announced that they were departing the Big East for a new conference . In March 2013 , it was confirmed that the Catholic 7 , along with three other schools , would begin operations that July as a new Big East Conference .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the 38th round of the 2012 MLS SuperDraft, showing the pick number, MLS team, player, position, and affiliation for each selection. The text is unrelated to the table and discusses the Marquette Golden Eagles, the athletic teams of Marquette University, including their history, conference affiliations, and team achievements.

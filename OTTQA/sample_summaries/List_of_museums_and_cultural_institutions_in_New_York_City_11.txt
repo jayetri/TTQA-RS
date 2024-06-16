@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "List of museums and cultural institutions in New York City" and create a summary.
+
+Name | Neighborhood | Borough | Type | Summary
+Bard Graduate Center | Upper West Side | Manhattan | Art | Annually organizes two to three exhibitions related to decorative arts , architecture and design
+AIGA National Design Center | Flatiron District | Manhattan | Art | website , public gallery of the AIGA dedicated to presenting examples of outstanding contemporary design
+Center for Architecture | Greenwich Village | Manhattan | Art | Exhibits of architecture , urban planning , urban design and environmental planning
+Cooper-Hewitt , National Design Museum | Museum Mile | Manhattan | Design | Part of the Smithsonian , decorative arts and design
+Museum of Arts and Design | Upper West Side | Manhattan | Art | Features contemporary hand-made objects in a variety of media , including clay , glass , metal , fiber and wood ; located at Columbus Circle
+Museum at FIT | Chelsea | Manhattan | Textile | Fashion museum , part of Fashion Institute of Technology
+National Academy of Design | Museum Mile | Manhattan | Art | Exhibits of art and architecture from its collections
+New York School of Interior Design Gallery | Midtown Manhattan | Manhattan | Art | website , free gallery with exhibits about interior design
+Parsons The New School for Design Sheila C. Johnson Design Center | Greenwich Village | Manhattan | Art | Contains two galleries : The Anna-Maria and Stephen Kellen Gallery and the smaller Arnold and Sheila Aronson Galleries
+Skyscraper Museum | Battery Park City | Manhattan | Architecture | Currently the only museum in the world dedicated to skyscrapers
+
+Text
+The Upper West Side , sometimes abbreviated UWS , is a neighborhood in the borough of Manhattan , New York City , bounded by Central Park and the Hudson River , and West 59th Street and West 110th Street . Like the Upper East Side , the Upper West Side is an affluent , primarily residential area with many of its residents working in commercial areas of Midtown and Lower Manhattan . Similarly to the Museum Mile district on the Upper East Side , the Upper West Side is considered one of Manhattan 's cultural and intellectual hubs , with Columbia University and Barnard College located just past the north end of the neighborhood , and the Lincoln Center for the Performing Arts and Fiorello H. LaGuardia High School located at the south end . The Upper West Side is among New York City 's wealthiest neighborhoods . The Upper West Side is part of Manhattan Community District 7 and its primary ZIP Codes are 10023 , 10024 , 10025 , and 10069 . It is patrolled by the 20th and 24th Precincts of the New York City Police Department .
+The Upper West Side , sometimes abbreviated UWS , is a neighborhood in the borough of Manhattan , New York City , bounded by Central Park and the Hudson River , and West 59th Street and West 110th Street . Like the Upper East Side , the Upper West Side is an affluent , primarily residential area with many of its residents working in commercial areas of Midtown and Lower Manhattan . Similarly to the Museum Mile district on the Upper East Side , the Upper West Side is considered one of Manhattan 's cultural and intellectual hubs , with Columbia University and Barnard College located just past the north end of the neighborhood , and the Lincoln Center for the Performing Arts and Fiorello H. LaGuardia High School located at the south end . The Upper West Side is among New York City 's wealthiest neighborhoods . The Upper West Side is part of Manhattan Community District 7 and its primary ZIP Codes are 10023 , 10024 , 10025 , and 10069 . It is patrolled by the 20th and 24th Precincts of the New York City Police Department .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists seven museums and cultural institutions in New York City, specifically in the Upper West Side neighborhood of Manhattan, showcasing art, design, and architecture. The museums include the Bard Graduate Center, AIGA National Design Center, Center for Architecture, Cooper-Hewitt National Design Museum, Museum of Arts and Design, Museum at FIT, and Skyscraper Museum. The text provides information about the Upper West Side neighborhood, including its boundaries, demographics, institutions, and cultural importance.

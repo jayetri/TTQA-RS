@@ -1,0 +1,22 @@
+Prompt:
+
+
+Read the table and text regarding "2013–14 Cypriot Second Division" and create a summary.
+
+Club | Location | Venue | Capacity
+AEZ | Zakaki , Limassol | Zakaki Municipal Stadium | 2,000
+ASIL | Larnaca | Grigoris Afxentiou | 2,000
+Chalkanoras | Dali | Chalkanoras Stadium | 2,000
+Digenis V | Oroklini | Koinotiko Stadio Oroklinis | 1,500
+EN Parekklisia | Parekklisia | Parekklisias Stadium | 3,000
+Karmiotissa | Pano Polemidia | Pano Polemidia Municipal Stadium | 1,500
+Onisilos | Sotira | Koinotiko Sotiras | 2,000
+PAEEK | Lakatamia | Keryneia Epistrophi | 2,000
+
+Text
+Athletic Union of Zakaki ( ) is a Cypriot football club based in Zakaki , Limassol . The club was founded in 1956 . Their colours are green and white and they play in Zakaki Municipal Stadium .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the details of 8 clubs participating in the 2013-2014 Cypriot Second Division. These clubs are AEZ, ASIL, Chalkanoras, Digenis V, EN Parekklisia, Karmiotissa, Onisilos, and PAEEK. The details provided include their respective locations, venues, and capacities. The text provides additional information about AEZ, which is based in Zakaki, Limassol, was founded in

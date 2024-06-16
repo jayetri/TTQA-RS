@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "List of shopping malls in the Philippines" and create a summary.
+
+Name | City/municipality | Province | Developer
+Gaisano Capital Bislig | Bislig | Surigao del Sur | Gaisano
+Gaisano Capital Surigao | Surigao City | Surigao del Norte | Gaisano
+Gaisano Capital San Francisco | San Francisco | Agusan del Sur | Gaisano
+Gaisano Capital Tandag | Tandag | Surigao del Sur | Gaisano
+Gaisano Grand Marketplace Bayugan | Bayugan | Agusan del Sur | Gaisano
+Gaisano Mall Butuan | Butuan | Agusan del Norte | Gaisano
+Gaisano Grand Mall San Francisco | San Francisco | Agusan del Sur | Gaisano
+Gaisano Grand Mall Tandag ( Soon to Rise ) | Tandag | Surigao del Sur | 
+Prince Town | Bislig | Surigao del Sur | 
+Robinsons Place Butuan | Butuan | Agusan del Norte | Robinsons Land
+Puregold Butuan | Butuan | Agusan del Norte | 
+ZCC Mall | Butuan | Agusan del Norte | 
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists shopping malls in the Philippines located in different cities and municipalities in the Caraga Region. The malls are developed by various companies such as Gaisano, Robinsons Land, and Puregold.

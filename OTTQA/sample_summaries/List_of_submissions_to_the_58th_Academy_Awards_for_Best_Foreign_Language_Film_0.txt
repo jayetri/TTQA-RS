@@ -1,0 +1,34 @@
+Prompt:
+
+
+Read the table and text regarding "List of submissions to the 58th Academy Awards for Best Foreign Language Film" and create a summary.
+
+Submitting country | Film title used in nomination | Language ( s ) | Original title | Director ( s ) | Result
+Argentina | The Official Story | Spanish | La Historia oficial | Luis Puenzo | Won Academy Award
+Austria | Malambo | German | Malambo | Milan Dor | Not Nominated
+Belgium | Dust | French | Dust | Marion Hänsel | Not Nominated
+Canada | Jacques and November | French | Jacques et novembre | Jean Beaudry and François Bouvier | Not Nominated
+Czechoslovakia | Scalpel , Please | Czech | Skalpel , prosím | Jirí Svoboda | Not Nominated
+Denmark | Twist and Shout | Danish | Tro , håb og kærlighed | Bille August | Not Nominated
+France | Three Men and a Cradle | French | Trois hommes et un couffin | Coline Serreau | Nominated
+West Germany | Angry Harvest | German | Bittere Ernte | Agnieszka Holland | Nominated
+Hungary | Colonel Redl | German | Oberst Redl | István Szabó | Nominated
+Iceland | Deep Winter | Icelandic | Skammdegi | Þráinn Bertelsson | Not Nominated
+India | Saagar | Hindi | सागर | Ramesh Sippy | Not Nominated
+Israel | When Night Falls | Hebrew | עד סוף הלילה | Eitan Green | Not Nominated
+Italy | Macaroni | Italian | Maccheroni | Ettore Scola | Not Nominated
+Japan | Gray Sunset | Japanese | 花いちもんめ | Shunya Ito | Not Nominated
+South Korea | Eoudong | Korean | 어우동 | Lee Jang-ho | Not Nominated
+Mexico | Frida Still Life | Spanish | Frida , naturaleza viva | Paul Leduc | Not Nominated
+Netherlands | The Dream | Dutch , West Frisian | De Dream | Pieter Verhoeff | Not Nominated
+Norway | Wives - Ten Years After | Norwegian | Hustruer - ti år etter | Anja Breien | Not Nominated
+Peru | The City and the Dogs | Spanish | La ciudad y los perros | Francisco José Lombardi | Not Nominated
+Philippines | This Is My Country | Tagalog | Bayan ko : Kapit sa patalim | Lino Brocka | Not Nominated
+
+Text
+This Is My Country ( Filipino : Bayan ko : Kapit sa patalim ) is a 1984 Filipino drama film that is directed by Lino Brocka . The film was entered into the 1984 Cannes Film Festival . It was selected as the Philippine entry for the Best Foreign Language Film at the 58th Academy Awards , but was not nominated .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists 20 submissions to the 58th Academy Awards for Best Foreign Language Film from different countries.

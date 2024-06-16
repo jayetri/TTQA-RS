@@ -1,0 +1,22 @@
+Prompt:
+
+
+Read the table and text regarding "2018 Sydney International" and create a summary.
+
+Country | Player | Rank | Seed
+ESP | Albert Ramos Viñolas | 23 | 1
+LUX | Gilles Müller | 25 | 2
+ARG | Diego Schwartzman | 26 | 3
+ITA | Fabio Fognini | 27 | 4
+FRA | Adrian Mannarino | 28 | 5
+GER | Philipp Kohlschreiber | 29 | 6
+BIH | Damir Džumhur | 30 | 7
+GER | Mischa Zverev | 33 | 8
+
+Text
+Diego Sebastián Schwartzman ( , ; born 16 August 1992 ) is an Argentine professional tennis player competing on the ATP Tour . He has won three ATP singles titles , and reached his career-high singles ranking of world No . 11 in June 2018 . Known as a clay court specialist he actually prefers hard courts , and is noted for his high-quality return game . When he reached the quarterfinals of the 2017 US Open , the 5 ' 6 ( 168 cm ) Schwartzman was the shortest Grand Slam quarterfinalist since Jaime Yzaga ( 5 ' 7 at the 1994 US Open ) . Schwartzman said : Its not just for the big guys here .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the top 8 seeded players for the 2018 Sydney International tennis tournament, with Albert Ramos Viñolas ranked 1st seed, and Mischa Zverev ranked 8th. The text provides background information on Diego Schwartzman, ranked 3rd seed, who is an Argentine professional tennis player known for his high-quality return game and has won three ATP singles titles, with a career-high ranking of world No. 11 in June 2018.

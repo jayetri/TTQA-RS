@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "UCI Mountain Bike World Cup" and create a summary.
+
+Year | 1st | 2nd | 3rd
+2002 | Brian Lopes | Cédric Gracia | Mike King
+2003 | Eric Carter | Michal Prokop | Mike King
+2004 | Michal Prokop | Brian Lopes | Guido Tschugg
+2005 | Brian Lopes | Michal Prokop | Cédric Gracia
+2006 | Michal Prokop | Jared Graves | Kamil Tatarkovic
+2007 | Brian Lopes | Michal Prokop | Jared Graves
+2008 | Rafael Alvarez De Lara Lucas | Guido Tschugg | Dan Atherton
+2009 | Jared Graves | Joost Wichman | Romain Saladini
+2010 | Jared Graves | Tomas Slavik | Joost Wichman
+2011 | Jared Graves | Roger Rinderknecht | Tomas Slavik
+
+Text
+Eric Robert Carter ( born March 6 , 1970 in Long Beach , California , U.S. ) is a former American professional Old/Mid School Bicycle Motocross ( BMX ) racer whose prime competitive years were from 1983 to 1998 . He had the nickname The Golden Child , and later in his BMX career , acquired the moniker The Earthquake . More recently , he has been known simply as EC . Beginning in 1996 , he converted fully to mountain bike racing ( MTB ) and has become one of the most respected racers in that discipline of bicycle racing .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The UCI Mountain Bike World Cup winner's table lists the top three riders for each year from 2002 to 2011. Various riders won the title, with Brian Lopes, Michal Prokop, and Jared Graves winning multiple times. The text is about Eric Carter, an American professional bicycle motocross (BMX) racer who later converted to mountain bike racing and became a respected competitor. He won the UCI Mountain Bike World Cup in 2003.

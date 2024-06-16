@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "2013 Malaysia Super League" and create a summary.
+
+Team | Coach | Captain | Kit manufacturer | Shirt sponsor
+ATM | B. Sathianathan | Hairuddin Omar | Macron | 
+Felda United | K. Devan | Kaironnisam Sahabudin | Umbro | FGV
+Johor Darul Takzim | Fandi Ahmad | Kamarul Afiq Kamaruddin | Kappa | Johor Corporation
+Kelantan | Bojan Hodak | Mohd Badhri Mohd Radzi | Warriors | Hotlink
+Negeri Sembilan | Divaldo Alves | Norhafiz Zamani Misbah | Lotto | Matrix Concept
+Pahang | Dollah Salleh | Jalaluddin Jaafar | Stobi | Resort World Genting
+T-Team | Eduardo Almeida | Mohd Marzuki Yusof | Kappa | EPIC
+Perak | Azraai Khor Abdullah | Shahrulnizam Mustapa | Kappa | Lembaga Air Perak
+PKNS | Abdul Rahman Ibrahim | Mohd Helmi Remeli | Lotto | PKNS
+Selangor | Irfan Bakti Abu Salim | Mohd Asraruddin Putra Omar | Kappa | MBI
+LionsXII | V. Sundramoorthy | Shahril Ishak | Nike | StarHub
+Terengganu | E. Elavarasan | Mohd Faizal Muhammad | Specs | Desa Murni Batik
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2013 Malaysia Super League is represented by 12 teams. Each team is listed in the table along with their coach, captain, kit manufacturer, and shirt sponsor.

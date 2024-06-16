@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "Sevens Grand Prix Series" and create a summary.
+
+Team | Champions | Runners-up | Third | Fourth
+Portugal | 8 ( 2002 , 2003 , 2004 , 2005 , 2006 , 2008 , 2010 , 2011 ) | 1 ( 2012 ) | - | 1 ( 2013 )
+Russia | 4 ( 2007 , 2009 , 2016 , 2017 ) | 2 ( 2005 , 2006 ) | 3 ( 2010 , 2013 , 2018 ) | 3 ( 2011 , 2014 , 2015 )
+France | 2 ( 2014 , 2015 ) | 7 ( 2003 , 2007 , 2009 , 2010 , 2013 , 2016 , 2019 ) | 1 ( 2012 ) | 3 ( 2002 , 2005 , 2006 )
+England | 2 ( 2012 , 2013 ) | 1 ( 2011 ) | 2 ( 2014 , 2015 ) | 1 ( 2018 )
+Ireland | 1 ( 2018 ) | 1 ( 2017 ) | 2 ( 2004 , 2019 ) | 1 ( 2008 )
+Germany | 1 ( 2019 ) | 1 ( 2018 ) | 1 ( 2002 ) | 2 ( 2003 , 2016 )
+Spain | - | 1 ( 2015 ) | 3 ( 2011 , 2016 , 2017 ) | 5 ( 2007 , 2009 , 2010 , 2012 , 2019 )
+Italy | - | 1 ( 2004 ) | 3 ( 2005 , 2006 , 2009 ) | -
+Georgia | - | 1 ( 2002 ) | 2 ( 2003 , 2008 ) | -
+Scotland | - | 1 ( 2014 ) | - | 1 ( 2004 )
+Wales | - | 1 ( 2008 ) | - | 1 ( 2017 )
+Moldova | - | - | 1 ( 2007 ) | -
+Total | 18 | 18 | 18 | 18
+
+Text
+The Wales national rugby sevens team competes in the World Rugby Sevens Series , the Rugby World Cup Sevens and in the Commonwealth Games . Wales were the World Cup Sevens Champions after winning the 2009 Rugby World Cup Sevens in the United Arab Emirates . But they relinquished that title after failing to defend their crown at the 2013 Rugby World Cup Sevens in Moscow . The Welsh sevens squad was disbanded by the Welsh Rugby Union due to financial constraints . After a three-year absence , the Wales sevens team returned to international competition in the 2006-07 season . They competed at half of the eight tournaments and won the plate competition ( fifth place ) at each of them . [ citation needed ] They repeated this feat at the 2006 Commonwealth Games . The star of the 2005-06 squad was Neath and Ospreys player James Hook . Hook has since progressed to the full Welsh national side . In 2006-07 , Wales competed in the Dubai , South Africa , Australia , Hong Kong , Scotland and England legs of the IRB 's World Sevens Series , reaching the semi-finals of the cup at Twickenham and Murrayfield . Wales have been a core team that has competed in all legs of the IRB Sevens Series since the 2007-08 season . At the 2016 USA Sevens , Wales beat Canada , Portugal , Scotland and France to win the Bowl final and claim 9th place .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Sevens Grand Prix Series displays the performance of several national rugby sevens teams. Portugal is the most successful team, winning 8 championships. Russia follows with 4 championships, while France has won 2, and England and Ireland have won 1 championship each. Germany has won its first championship in 2019. The table provides a breakdown of each team's accomplishments throughout the series. The Wales national rugby sevens team has won several awards, including the 2009 Rugby World Cup

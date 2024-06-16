@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "1999–2000 Serie A" and create a summary.
+
+ | Region | Number of teams | Teams
+1 | Emilia-Romagna | 3 | Bologna , Parma and Piacenza
+2 | Apulia | 2 | Bari and Lecce
+2 | Lazio | 2 | Lazio and Roma
+2 | Lombardy | 2 | Internazionale and Milan
+2 | Piedmont | 2 | Juventus and Torino
+2 | Veneto | 2 | Venezia and Hellas Verona
+7 | Calabria | 1 | Reggina
+7 | Friuli-Venezia Giulia | 1 | Udinese
+7 | Sardinia | 1 | Cagliari
+7 | Tuscany | 1 | Fiorentna
+7 | Umbria | 1 | Perugia
+
+Text
+Emilia-Romagna ( UK : /ɪˌmiːliə roʊˈmɑːnjə/ , US : /eɪˌmiːljɑː roʊˈmɑːnjɑː/ , both also /ɛˌmiːljə -/ ; Italian : [ eˈmiːlja roˈmaɲɲa ] ; Emilian and Romagnol : Emélia-Rumâgna ) is one of the 20 administrative regions of Italy , situated in the northeast section of the country , comprising the historical regions of Emilia and Romagna . Its capital is Bologna . It has an area of 22,446 km2 ( 8,666 sq mi ) , and about 4.4 million inhabitants . Emilia-Romagna is one of the wealthiest and most developed regions in Europe , with the third highest GDP per capita in Italy . Bologna , its capital , has one of Italy 's highest quality of life indices and advanced social services . Emilia-Romagna is also a cultural , economic and tourist center : being the home of the University of Bologna , the oldest university in the world ; containing Romanesque and Renaissance cities ( such as Modena , Parma and Ferrara ) and the former Eastern Roman Empire capital of Ravenna ; encompassing eleven UNESCO heritage sites ; being a center for food and automobile production ( home of automotive companies such as Ferrari , Lamborghini , Maserati , Pagani , De Tomaso , Dallara , and Ducati ) ; and having popular coastal resorts such as Cervia , Cesenatico , Rimini and Riccione . In 2018 , the Lonely Planet guide named Emilia Romagna as the best place to see in Europe .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the teams from the 1999-2000 Serie A by region. Emilia-Romagna had 3 teams: Bologna, Parma, and Piacenza. Other regions had 2 teams each, such as Apulia, Lazio, Lombardy, Piedmont, and Veneto. Some regions had only 1 team, including Calabria, Friuli-Venezia Giulia, Sardinia, Tuscany, and Umbria. The

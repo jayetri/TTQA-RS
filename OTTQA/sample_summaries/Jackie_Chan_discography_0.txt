@@ -1,0 +1,26 @@
+Prompt:
+
+
+Read the table and text regarding "Jackie Chan discography" and create a summary.
+
+Released | Title | Language | Track listing
+1984 | Love Me | English Japanese Cantonese | Movie Star Jackie 's Legend Marianne Let Me Hear Once More Love Me When April Comes Hello Happy Song Wait for Me
+1984 | Thank You | Japanese Cantonese | Marianne - Canto Version Hello Happy Song - Canto Version Project A - theme Project A - Karaoke Version
+1985 | A Boy 's Life | Japanese | Tokyo Saturday Night China Blue Wow Wow Wow Memories of Eagles Try to Love Me I Love You , You , You Platonic Intuition Sleep in My Arms Hong Kong Twilight Rosy Coloured Pupils
+1986 | Shangrila | Japanese English | Love Again ( Beach Story ) Je t'aime Je t'aime Perfect Night for a Slow Dance Just for Tonight Esperance Only for Your Love Do n't Stop the Romance Hello From the Back Be Like a Storm ( featuring Anita Mui ) August Carmen
+1986 | Sing Lung | Cantonese | My Little Girl I Stop the Heart Pain Iron Man , Soft Feelings Flight of the Dragon Just for Tonight OK I Love You Thousand Times Chained in Feelings ( featuring Anita Mui ) Waan Ngau Life 's Fulfillment Hero Story
+1987 | No Problem | Japanese Cantonese | Telephone Stardust Bay Blues The Rain of Jealousy Falls Miss Temptation Giant Feeling No Problem Tears of Jade Maria My Love Dream Ties
+1988 | Jackie Chan | Cantonese | Before The Midnight Kiss ( featuring Naoko Kawai ) Stay with Me Giant Feelings Film Cutting Machine of Life New Diary Dare to Fight Against Bans This Night I Can Do It ( featuring Naoko Kawai ) Grow Tender Hearts Sparkle
+1992 | First Time | Mandarin Taiwanese | My Feeling I Wished the Flower Could Never Fade The Reddish Face Keep Your Company Through Every Moment So Transparent is My Heart ( featuring Sarah Chen ) A Vigorous Aspiration in My Mind The Betel Nuts Beauty You Are a Lover in My Dreams Everyday in My Life ( featuring Tarcy Su ) The End
+1996 | Dragon 's Heart | Mandarin Cantonese | How Come Would Rather Say Goodbye in Dreams Red Sun I Know How You Feel Cry With You , Laugh With You In the Cold Rain Let Me Be Your Man I Would Start to Speak but I Ca n't So Much Love I Love Hong Kong
+2002 | With All One 's Heart | Mandarin | Truly , With All My Heart Metropolis Shangri-la ( featuring Norika Fujiwara ) Staying with You All My Life I Only Care about You ( featuring Teresa Teng ) Pocket Dream of the Horizon ( featuring Lee Soo Young ) That 's Meaningless As Long as I Loved ( featuring Sammi Cheng ) Offended Clear Conscience in my Heart With all One 's Heart
+2008 | Official Album for the Beijing 2008 Olympic Games - Jackie Chan 's Version | Mandarin | We Are Ready ( Zhàn qǐlái chénglóng sūnyànzī wánglìhóng hán hóng ) / Stand Up ( featuring Stefanie Sun , Han Hong and Leehom Wang ) ( Xiāngxìn zìjǐ ) / Believe in Yourself ( Shàonián qiáng ) / Youth are Strong ( Zhōngguó kànjiàn chénglóng tánjīng ) / China Saw It ( featuring Tan Jing ) ( Dǎkāi tiānkōng ) / Open the Heavens ( Shēngsǐ bùlí ) / Chain of Life and Death ( Lóng de mèngxiǎng ) / Dragon 's Dream ( Běijīng huānyíng nǐ qúnxīng ) / Beijing Welcomes You ( Shàonián qiáng chénglóng zhōuhuájiàn ) / Powerful Youngsters ( featuring Emil Chau )
+2018 | I Am Me ( 我還是成龍 ) | Mandarin | Childhood Stories ( 青春故事 ) Wù Shì Rén Fēi ( 物是人非 ) Thank You , My Love ( 謝謝一輩子 ) Love Is Old ( 愛情老了 ) Heartache ( 心痛 ) Crossroads ( 路口 ) Do n't Give Up ( 別放棄 ) No Longer Lost ( 不再失去 ) I Havent Grown Up Yet ( 還沒長大就老了 )
+
+Text
+Stefanie Sun ( , born 23 July 1978 ) is a Singaporean singer-songwriter . In 2000 , she released her debut album , Yan Zi , which won her a Golden Melody Award for Best New Artist . In 2004 , she released her eighth studio album , Stefanie , which won her another Golden Melody Award for Best Mandarin Female Singer . Having sold more than 30 million records , she achieved popularity in mainland China , Hong Kong , Taiwan , Singapore , and Malaysia .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays Jackie Chan's discography with a list of 12 albums, released between 1984 and 2018. The albums are in English, Japanese, Cantonese, and Mandarin languages, with some featuring collaborations with other artists. The table also includes track listings for each album.

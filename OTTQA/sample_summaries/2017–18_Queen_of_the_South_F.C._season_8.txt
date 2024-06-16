@@ -1,0 +1,28 @@
+Prompt:
+
+
+Read the table and text regarding "2017–18 Queen of the South F.C. season" and create a summary.
+
+Player | From | Fee
+Andy Stirling | Dumbarton | Free
+Callum Fordyce | Dunfermline Athletic | Free
+Alan Martin | Dumbarton | Free
+Shaun Rooney | York City | Free
+Chris Kane | St Johnstone | Loan
+Jason Kerr | St Johnstone | Loan
+James McFadden | Motherwell | Free
+Joe Thomson | Celtic | Loan
+Myles Beerman | Rangers | Loan
+Kyle Cameron | Newcastle United | Loan
+Dom Thomas | Kilmarnock | Loan
+Nikolay Todorov | Heart of Midlothian | Loan
+Curtis Lyle | Kilmarnock | Loan
+Josh Todd | St Mirren | Loan
+
+Text
+Andy Stirling ( born 5 March 1990 in Paisley , Scotland ) is a Scottish professional footballer who plays as a midfielder for Stranraer . Stirling has previously played for Stenhousemuir , East Stirlingshire , Kitsap Pumas , Dunfermline Athletic , Stirling Albion , Dumbarton , Queen of the South and Alloa Athletic .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists players who joined Queen of the South F.C. during the 2017-2018 season, including Andy Stirling, on a free transfer from Dumbarton. The accompanying text provides biographical information about Andy Stirling, stating his birthdate, playing position, and past clubs.

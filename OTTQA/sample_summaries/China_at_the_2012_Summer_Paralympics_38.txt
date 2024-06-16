@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "China at the 2012 Summer Paralympics" and create a summary.
+
+Athlete | Event | Result
+Cui Zhe | -40kg | 97
+Shi Shanshan | -48kg | 114
+Xiao Cuijuan | -52kg | 118
+Cui Jianjin | -56kg | 110
+Yang Yan | -60kg | 125
+Tan Yujiao | -67.5kg | 139
+Fu Taoying | -75kg | 146
+Xu Yanmei | -82.5kg | 129
+
+Text
+Cui Zhe ( Chinese : 崔哲 , born 1 December 1986 ) is a powerlifter from China . At the 2012 Summer Paralympics she won a silver medal in the women 's 40 kg powerlifting event , lifting 97 kg ( 214 lb ) .
+Shi Shanshan is a Chinese Paralympic powerlifter . She represented China at the 2008 Summer Paralympics , at the 2012 Summer Paralympics and at the 2016 Summer Paralympics and she won the bronze medal in the women 's 48 kg event in 2012 . At the 2010 Asian Para Games she won the gold medal in the women 's 48 kg event . At the 2014 IPC Powerlifting World Championships she won the silver medal in the women 's 55 kg event . At the 2018 Asia-Oceania Open Powerlifting Championships she won the silver medal in the women 's 55 kg event .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table presents the results of Chinese female powerlifters at the 2012 Summer Paralympics, featuring seven female athletes. Cui Zhe won a silver medal, lifting 97 kg. Shi Shanshan won a bronze medal, lifting 114 kg. The other athletes, including Xiao Cuijuan, Cui Jianjin, Yang Yan, Tan Yujiao, and Fu Taoying, also competed in different weight categories and achieved the following lifts: 118,

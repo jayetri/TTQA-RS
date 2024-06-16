@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "2016–17 National Premier League" and create a summary.
+
+Team | Location | Stadium | Stadium Capacity | Manager
+Arnett Gardens | Kingston | Anthony Spaulding Sports Complex | 7,000 | Jerome Waite
+Boys ' Town | Kingston | Collie Smith Drive Sporting Complex | 2,000 | Andrew Price
+Harbour View | Kingston | Harbour View Mini Stadium | 7,000 | Ludlow Bernard
+Humble Lions | Clarendon | Effortville Community Centre | 1,000 | Donovan Duckie
+Jamalco | Clarendon | Wembley Centre of Excellence | 1,000 | Rayon Johnson
+Maverley Hughenden | Kingston | Constant Spring Football Field | 3,000 | Anthony Patrick
+Montego Bay United | Montego Bay | Montego Bay Sports Complex , WesPow Park | 9,000 | Dillon Thelwell ( Interim )
+Portmore United | Portmore | Ferdie Neita Sports Complex | 3,000 | Linval Dixon
+Reno F.C | Westmoreland Parish | Frome | 2,000 | Wendell Downswell
+Tivoli Gardens | Kingston | Railway Oval | 3,000 | Omar Edwards
+UWI F.C | Kingston | UWI Bowl | 2,000 | Marcel Gayle
+Waterhouse | Kingston | Waterhouse Stadium | 5,000 | Admiral Bailey
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the 2016-2017 National Premier League teams, their location, stadium, capacity, and manager. There are 11 teams with locations in Kingston, Clarendon, Montego Bay, Portmore, and Westmoreland Parish. The stadium capacities range from 1,000 to 9,000. The managers' names are provided for each team.

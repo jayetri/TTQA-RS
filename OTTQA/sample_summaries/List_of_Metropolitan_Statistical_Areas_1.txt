@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "List of metropolitan statistical areas" and create a summary.
+
+Rank | Metropolitan Statistical Area | 2018 Estimate | 2010 Census | Change | Encompassing Combined Statistical Area
+1 | San Juan-Bayamón-Caguas , PR Metropolitan Statistical Area | 2,023,237 | 2,350,126 | −13.91% | San Juan-Bayamón , PR Combined Statistical Area
+2 | Aguadilla-Isabela , PR Metropolitan Statistical Area | 289,735 | 339,441 | −14.64% | 
+3 | Ponce , PR Metropolitan Statistical Area | 285,709 | 350,480 | −18.48% | Ponce-Yauco-Coamo , PR Combined Statistical Area
+4 | Arecibo , PR Metropolitan Statistical Area | 174,271 | 199,471 | −12.63% | San Juan-Bayamón , PR Combined Statistical Area
+5 | San Germán , PR Metropolitan Statistical Area | 121,078 | 137,462 | −11.92% | Mayagüez-San Germán , PR Combined Statistical Area
+6 | Mayagüez , PR Metropolitan Statistical Area | 87,448 | 106,330 | −17.76% | Mayagüez-San Germán , PR Combined Statistical Area
+7 | Yauco , PR Metropolitan Statistical Area | 86,532 | 107,333 | −19.38% | Ponce-Yauco-Coamo , PR Combined Statistical Area
+8 | Guayama , PR Metropolitan Statistical Area | 73,000 | 84,214 | −13.32% | San Juan-Bayamón , PR Combined Statistical Area
+
+Text
+The San Juan-Caguas-Guaynabo metropolitan area is a United States Census Bureau defined metropolitan statistical area ( MSA ) in northeastern Puerto Rico . A July 1 , 2009 , Census Bureau estimate placed the population at 2,617,089 , a 4.31% increase over the 2000 census figure of 2,509,007 . San Juan-Caguas-Guaynabo is the largest metropolitan area ( by population ) in Puerto Rico , covering approximately half of the island . Its principal cities are San Juan , Caguas and Guaynabo .
+The San Juan-Caguas-Guaynabo metropolitan area is a United States Census Bureau defined metropolitan statistical area ( MSA ) in northeastern Puerto Rico . A July 1 , 2009 , Census Bureau estimate placed the population at 2,617,089 , a 4.31% increase over the 2000 census figure of 2,509,007 . San Juan-Caguas-Guaynabo is the largest metropolitan area ( by population ) in Puerto Rico , covering approximately half of the island . Its principal cities are San Juan , Caguas and Guaynabo .
+The San Juan-Caguas-Guaynabo metropolitan area is a United States Census Bureau defined metropolitan statistical area ( MSA ) in northeastern Puerto Rico . A July 1 , 2009 , Census Bureau estimate placed the population at 2,617,089 , a 4.31% increase over the 2000 census figure of 2,509,007 . San Juan-Caguas-Guaynabo is the largest metropolitan area ( by population ) in Puerto Rico , covering approximately half of the island . Its principal cities are San Juan , Caguas and Guaynabo .
+The San Juan-Caguas-Guaynabo metropolitan area is a United States Census Bureau defined metropolitan statistical area ( MSA ) in northeastern Puerto Rico . A July 1 , 2009 , Census Bureau estimate placed the population at 2,617,089 , a 4.31% increase over the 2000 census figure of 2,509,007 . San Juan-Caguas-Guaynabo is the largest metropolitan area ( by population ) in Puerto Rico , covering approximately half of the island . Its principal cities are San Juan , Caguas and Guaynabo .
+Arecibo ( Spanish pronunciation : [ aˈɾesiβo ] ) is a municipality on the northern coast of Puerto Rico , on the shores of the Atlantic Ocean , located north of Utuado and Ciales ; east of Hatillo ; and west of Barceloneta and Florida . It is about 50 miles ( 80 km ) west of San Juan , the capital city . Arecibo is the largest municipality in Puerto Rico by area , and is part of the San Juan , Caguas and Guaynabo Metropolitan Statistical Area . It is spread over 18 wards and Arecibo Pueblo ( the downtown area and the administrative center of the city ) . Its population in 2010 was 96,440 . The Arecibo Observatory , which until July 2016 was the world 's largest radio telescope , is located here . Arecibo is the seat of the Roman Catholic Diocese of Arecibo .
+San Germán ( Spanish pronunciation : [ saŋ xeɾˈman ] ) is a municipality located in the southwestern region of Puerto Rico , south of Mayagüez and Maricao , north of Lajas , east of Hormigueros and Cabo Rojo , and west of Sabana Grande . San Germán is spread over eighteen wards plus San Germán Pueblo ( the downtown area and the administrative center of the city ) . It is both a principal city of the San Germán-Cabo Rojo Metropolitan Statistical Area and the Mayagüez-San Germán-Cabo Rojo Combined Statistical Area . San Germán is the second oldest city of Puerto Rico , after San Juan . The island of Puerto Rico was once split between the San Juan and the San Germán municipalities . The latter covered the western half of Puerto Rico , and extended from the western shores of the island to Arecibo in the north and Ponce in the south .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The provided table and text discuss metropolitan statistical areas in Puerto Rico. The table ranks 8 MSAs in Puerto Rico by population, with San Juan-Bayamón-Caguas being the most populous MSA with an estimated 2,023,237 people in 2018. The other MSAs listed in the table are Aguadilla-Isabela, Ponce, Arecibo, San Germán, Mayagüez, Yauco, and Guayama. The

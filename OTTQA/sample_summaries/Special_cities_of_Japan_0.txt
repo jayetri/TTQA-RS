@@ -1,0 +1,30 @@
+Prompt:
+
+
+Read the table and text regarding "Special cities of Japan" and create a summary.
+
+Name | Japanese | Population ( 2012 ) | Date of designation | Region | Prefecture
+Atsugi | 厚木市 | 224,181 | 2002-04-01 | Kantō | Kanagawa
+Hiratsuka | 平塚市 | 260,061 | 2001-04-01 | Kantō | Kanagawa
+Ibaraki | 茨木市 | 276,474 | 2001-04-01 | Kansai | Osaka
+Isesaki | 伊勢崎市 | 207,253 | 2007-04-01 | Kantō | Gunma
+Jōetsu | 上越市 | 202,366 | 2007-04-01 | Chūbu | Niigata
+Kakogawa | 加古川市 | 268,175 | 2002-04-01 | Kansai | Hyōgo
+Kasugai | 春日井市 | 306,573 | 2002-04-01 | Chūbu | Aichi
+Kasukabe | 春日部市 | 236,976 | 2008-04-01 | Kantō | Saitama
+Kumagaya | 熊谷市 | 201,814 | 2009-04-01 | Kantō | Saitama
+Nagaoka | 長岡市 | 281,101 | 2007-04-01 | Chūbu | Niigata
+Numazu | 沼津市 | 199,883 | 2000-04-01 | Chūbu | Shizuoka
+Ōta | 太田市 | 217,107 | 2007-04-01 | Kantō | Gunma
+Saga | 佐賀市 | 237,501 | 2014-04-01 | Kyushu | Saga
+Sōka | 草加市 | 244,851 | 2004-04-01 | Kantō | Saitama
+Takarazuka | 宝塚市 | 227,617 | 2003-04-01 | Kansai | Hyōgo
+Yamato | 大和市 | 230,357 | 2000-04-01 | Kantō | Kanagawa
+
+Text
+Aichi Prefecture ( 愛知県 , Aichi-ken , Japanese pronunciation : [ aitɕi̥ꜜkeɴ ] ) is a prefecture of Japan located in the Chūbu region of Honshū . Aichi Prefecture has a population of 7,552,873 ( 1 October 2019 ) and a geographic area of 5,172.92 km² ( 1,997.28 sq mi ) with a population density of 1,460 persons per km² . Aichi Prefecture borders Mie Prefecture to the west , Gifu Prefecture and Nagano Prefecture to the north , and Shizuoka Prefecture to the east . Nagoya is the capital and largest city of Aichi Prefecture , and the fourth-largest city in Japan , with other major cities including Toyota , Okazaki , and Ichinomiya . Aichi Prefecture and Nagoya form the core of the Chūkyō metropolitan area , the third-largest metropolitan area in Japan and one of the largest metropolitan areas in the world . Aichi Prefecture is located on Japan 's Pacific Ocean coast and forms part of the Tōkai region , a subregion of the Chūbu region and Kansai region . Aichi Prefecture is home to the Toyota Motor Corporation , the world 's largest automotive manufacturer , the largest listed company in Japan by market capitalization , and sixth-largest company in the world by revenue , with its headquarters in the city of Toyota . Aichi Prefecture features the Higashiyama Zoo and Botanical Gardens , Chubu Centrair International Airport , and Legoland Japan Resort .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table provides information about 16 cities in Japan that have been designated as "Special cities". The cities are from the regions of Kantō, Kansai, Chūbu, and Kyushu, and are located in various prefectures including Kanagawa, Osaka, Gunma, and Aichi. The table gives the city names in both English and Japanese, the population of each city in 2012, the date of designation as a special city, and the region and prefect

@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "Ross Lynch" and create a summary.
+
+Year | Title | Role | Notes
+2009 | Moises Rules ! | Ross The Boss | Episode : Mad B-Ball shootout
+2011-2016 | Austin & Ally | Austin Moon | Lead role
+2012 | Jessie | Austin Moon | Episode : Austin & Jessie & Ally All Star New Year
+2013 | Teen Beach Movie | Brady | Television film
+2013 | Ultimate Spider-Man | Jack Russell / Werewolf by Night | Episode : The Howling Commandos
+2015 | Violetta | Himself | Episodes : Una Visita , Una canción and Una Explicación , Una Canción
+2015 | Teen Beach 2 | Brady | Television film
+2015 | Girl Meets World | Austin Moon | Episode : Girl Meets World of Terror 2
+2018-present | Chilling Adventures of Sabrina | Harvey Kinkle | Main role
+
+Text
+The Werewolf by Night ( birth name Jacob Russoff , legal name Jacob Russell , nicknamed Jack ) is a fictional character , an antiheroic werewolf appearing in American comic books published by Marvel Comics . The Werewolf by Night ( usually referred to by other characters simply as the Werewolf ) first appeared in Marvel Spotlight # 2 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table outlines Ross Lynch's acting career in television shows and films. He played Austin Moon in the Disney Channel show Austin & Ally (2011-2016) and later took on the main role of Harvey Kinkle in Chilling Adventures of Sabrina (2018-present). The text discusses the Marvel Comics character Werewolf by Night, which is unrelated to Ross Lynch's acting career.

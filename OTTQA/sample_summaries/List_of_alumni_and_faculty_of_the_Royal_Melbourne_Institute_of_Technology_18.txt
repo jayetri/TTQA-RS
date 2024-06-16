@@ -1,0 +1,34 @@
+Prompt:
+
+
+Read the table and text regarding "List of Royal Melbourne Institute of Technology people" and create a summary.
+
+Name | Association with RMIT | Notability
+Amanda Barnard | B Sci ( AppPhysics ) ( Hon ) , PhD | nanotechnologist and theoretical physicist ; Head of the CSIRO Nanoscience Laboratory
+Martin G. Bean | current Vice-Chancellor | technology executive ; former Global Director of Microsoft and former Vice-Chancellor of Open University
+Gordon S. Brown | Dip Civil Eng , Elec Eng , Mech Eng [ WMC ] | cyberneticist ; Emeritus Professor of Electrical Engineering at MIT
+John Béchervaise , OAM , MBE | science classes | Antarctic explorer and author
+Megan Clark , AC | DAppSci ( honoris causa ) , former faculty | scientist ; current CEO of the CSIRO
+J. Donald R. de Raadt | FRMIT | Emeritus Professor of Informatics and System Science at Luleå University of Technology
+Graham Dorrington | faculty | aeronautical engineer ; subject of the 2004 documentary The White Diamond by Werner Herzog
+Dennis Gibson , AO | former Chancellor | mathematician
+Ranulph Glanville | former faculty | cybernetics theoretician
+Alfred Gottschalk | former faculty | biochemist and glycoprotein researcher
+Ann Henderson-Sellers | former Deputy Vice-Chancellor | former Director of the UN Climate Programme
+Arthur R. Hogg | science classes | astronomer and physicist
+Kourosh Kalantar-zadeh | attended ( PhD ) and also former faculty | Materials scientist , electronic engineer and Australian Research Council ( ARC ) Laureate Fellow ; recipient of the IEEE and ACS awards
+Richard Kaner | faculty | chemist and nanotechnologist ; recipient of the Tolman Award ( 2008 )
+Lakshmi Kantam | faculty | chemist ; Adjunct Professor and Director of the IICT -RMIT Research Centre
+William Kernot | former President [ WMC ] | Old Kernot Engineering School at RMIT named in his honour
+Sir Albert Kitson | geology , mining , surveying classes [ WMC ] | geologist ; recipient of the Lyell Medal ( 1927 )
+David Malin | D AppSci ( honoris causa ) | astronomer
+Henry Millicer , AM | D Eng ( honoris causa ) ; former faculty | aircraft designer
+Luca Marmorini | faculty | head of the engine and electronics department for the Ferrari F1 team
+
+Text
+Luca Marmorini ( born June 17 , 1961 ) is the former head of the engine and electronics department at the Ferrari Formula One team . Marmorini started his Formula One career with Ferrari in 1990 , which he joined after completing a mechanical doctorate . He stayed with Ferrari until 1999 , when he joined Toyota as it prepared to enter Formula One . After progressing to the position of technical director in charge of engines , he left Toyota on January 19 , 2009 , only to return to Ferrari on October 6 that same year , replacing Frenchman Gilles Simon as head of the engine and electronics department . He left the Scuderia Ferrari Team on 31 July 2014 and has been linked with Renault .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table outlines notable individuals associated with the Royal Melbourne Institute of Technology (RMIT). They are recognized for their achievements in various fields, such as science, technology, engineering, and mathematics (STEM), as well as exploration and literature. The individuals include nanotechnologists, cyberneticists, astronomers, aeronautical engineers, mathematicians, and Formula One team leaders. Some of them have received prestigious awards, such as the Lyell Medal and the Tolman Award. The table includes information

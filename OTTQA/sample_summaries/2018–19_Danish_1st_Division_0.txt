@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "2018–19 Danish 1st Division" and create a summary.
+
+Club | Location | Stadium | Turf | Capacity | 2017-18 position
+FC Fredericia | Fredericia | Monjasa Park | Natural | 4,000 | 6th
+FC Helsingør | Helsingør | Helsingør Stadion | Natural | 4,500 | Superliga , 14th
+FC Roskilde | Roskilde | Roskilde Idrætspark | Natural | 6,000 | 10th
+BK Fremad Amager | Copenhagen | Sundby Idrætspark | Artificial | 7,200 | 9th
+HB Køge | Herfølge / Køge | Capelli Sport Stadion ( Herfølge , until 2018 ) Capelli Sport Stadion ( Køge , from 2019 ) | Natural Artificial | 8,000 4,000 | 5th
+Hvidovre IF | Hvidovre | Kæmpernes Arena | Natural | 12,000 | 2D , 1st
+Lyngby BK | Kongens Lyngby | Lyngby Stadion | Natural | 8,000 | Superliga , 12th
+Nykøbing FC | Nykøbing Falster | CM Arena | Natural | 10,000 | 7th
+Næstved BK | Næstved | ProfaGroupPark | Natural | 7,500 | 2D , 2nd
+Silkeborg IF | Silkeborg | JYSK Park | Artificial | 10,000 | Superliga , 13th
+Thisted FC | Thisted | Sparekassen Thy Arena | Natural | 3,000 | 8th
+Viborg FF | Viborg | Energi Viborg Arena | Natural | 9,566 | 4th
+
+Text
+Hvidovre is the main town in Hvidovre Municipality , Denmark . The town , a suburb of Copenhagen , is about 10 km southwest of the capital 's center .
+Hvidovre Stadium ( Danish : Hvidovre Stadion ) is an athletics- and association football stadium located in Hvidovre , south west of Copenhagen , Denmark , that is owned and operated by Hvidovre Municipality . It is currently used mostly for association football matches and is the home stadium of Hvidovre IF ( association football and handball ) , Hvidovre AM ( athletics ) and previously Hvidovre Stars ( american football ) . The exhibition field has a lighting installation with a light intensity of 1000 lux , undersoil heating and have been approved for televised matches in the Danish Superliga . The stadium is part of a sports complex , that covers an area of 72,000 m² and also consists of four association football fields , outdoor athletic facilities , a hall for indoor athletics , a hall with two indoor tennis courts , five outdoor tennis courts , a fitness center , a cafeteria including rooms for club members and meetings . Since 1 July 2019 , the stadium 's main exhibition field has been referred to as Pro Ventilation Arena for sponsorship reasons after having previously been known under the names Office Center Arena ( 2010-2012 ) and Kæmpernes Arena ( 2012-2019 ) . One senior women 's national team friendly match have been staged at the arena in 1979 , while at least 14 Under-21 , Under-19 , Under-18 , Under-17 , Under-16 men 's national team matches have been held there between 1964 and 2011 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2018-19 Danish 1st Division is a league featuring 12 teams. The teams are FC Fredericia, FC Helsingør, FC Roskilde, BK Fremad Amager, HB Køge, Hvidovre IF, Lyngby BK, Nykøbing FC, Næstved BK, Silkeborg IF, Thisted FC, and Viborg FF. The teams play their home games at various stadiums, with capacities ranging from

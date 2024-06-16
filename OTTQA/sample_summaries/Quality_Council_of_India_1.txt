@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "Quality Council of India" and create a summary.
+
+Rank | City | State
+1 | Bulandshahr | Uttar Pradesh
+2 | Hapur | Uttar Pradesh
+3 | Khurja | Uttar Pradesh
+4 | Shahjahanpur | Uttar Pradesh
+5 | Abohar | Punjab
+6 | Muktsar | Punjab
+7 | Katihar | Bihar
+8 | Hardoi | Uttar Pradesh
+9 | Bagaha | Bihar
+10 | Bhusawal | Maharashtra
+
+Text
+Hapur is a city in , as well as the headquarters of , Hapur district , in western Uttar Pradesh , India . Located about 60 kilometres ( 37 mi ) east of New Delhi , the city is part of the Delhi National Capital Region ( NCR ) . National Highway 9 passes through the city , connecting it to Delhi .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table ranks 10 cities across different states in India, including Uttar Pradesh, Punjab, Bihar, and Maharashtra. Hapur, ranked 2nd, is located in western Uttar Pradesh near Delhi and is part of the Delhi National Capital Region. The city has a highway connecting it to Delhi.

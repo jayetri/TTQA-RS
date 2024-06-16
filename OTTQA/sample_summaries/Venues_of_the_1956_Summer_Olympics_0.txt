@@ -1,0 +1,28 @@
+Prompt:
+
+
+Read the table and text regarding "Venues of the 1956 Summer Olympics" and create a summary.
+
+Venue | Sports | Capacity
+Broadmeadows | Cycling ( road ) | ( Not listed )
+Lake Wendouree , Ballarat | Canoeing , Rowing | 14,300
+Hockey Field | Field hockey | 21,048
+Melbourne Cricket Ground | Athletics , Field hockey ( final ) , Football ( final ) | 104,000
+Oaklands Hunt Club | Modern pentathlon ( riding , running ) | 25,700
+Olympic Park Stadium | Football | 40,000
+Port Phillip | Sailing | ( Not listed )
+Royal Australian Air Force , Laverton Air Base | Shooting ( shotgun ) | ( Not listed )
+Royal Exhibition Building | Basketball ( final ) , Modern pentathlon ( fencing ) , Weightlifting , Wrestling | 3,500
+St Kilda Town Hall | Fencing | ( Not listed )
+Swimming/Diving Stadium | Diving , Modern pentathlon ( swimming ) , Swimming , Water polo | 6,000
+Velodrome | Cycling ( track ) | 7,900
+West Melbourne Stadium | Basketball , Boxing , Gymnastics | 7,000
+Williamstown | Modern pentathlon ( shooting ) , Shooting ( pistol , rifle ) | ( Not listed )
+
+Text
+The field hockey tournament at the 1956 Summer Olympics was contested from November 23 to December 6 , with twelve participating teams . Only men competed in field hockey at these Games . India won the gold medal for the sixth successive Games , not allowing a single goal against in the entire tournament . Pakistan won the silver medal , and Germany won the bronze .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 1956 Summer Olympics took place in Melbourne, featuring various sports at 12 different venues. The venues included Broadmeadows for cycling, Lake Wendouree for canoeing and rowing, and the Melbourne Cricket Ground for athletics, field hockey, and football, among others. The Olympic Park Stadium was used for football, while the Velodrome was used for track cycling. The Royal Exhibition Building hosted basketball, modern pentathlon, weightlifting, and wrestling events. The text focuses on

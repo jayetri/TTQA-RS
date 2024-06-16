@@ -1,0 +1,31 @@
+Prompt:
+
+
+Read the table and text regarding "1999 Spanish Grand Prix" and create a summary.
+
+Pos | No | Driver | Constructor | Lap | Gap
+1 | 1 | Mika Häkkinen | McLaren - Mercedes | 1:22.088 | 
+2 | 4 | Eddie Irvine | Ferrari | 1:22.219 | +0.131
+3 | 2 | David Coulthard | McLaren - Mercedes | 1:22.244 | +0.156
+4 | 3 | Michael Schumacher | Ferrari | 1:22.277 | +0.189
+5 | 11 | Jean Alesi | Sauber - Petronas | 1:22.388 | +0.300
+6 | 22 | Jacques Villeneuve | BAR - Supertec | 1:22.703 | +0.615
+7 | 16 | Rubens Barrichello | Stewart - Ford | 1:22.920 | +0.832
+8 | 8 | Heinz-Harald Frentzen | Jordan - Mugen-Honda | 1:22.938 | +0.850
+9 | 19 | Jarno Trulli | Prost - Peugeot | 1:23.194 | +1.106
+10 | 6 | Ralf Schumacher | Williams - Supertec | 1:23.303 | +1.215
+11 | 7 | Damon Hill | Jordan - Mugen-Honda | 1:23.317 | +1.229
+12 | 12 | Pedro Diniz | Sauber - Petronas | 1:23.331 | +1.243
+13 | 9 | Giancarlo Fisichella | Benetton - Playlife | 1:23.333 | +1.245
+14 | 17 | Johnny Herbert | Stewart - Ford | 1:23.505 | +1.417
+15 | 18 | Olivier Panis | Prost - Peugeot | 1:23.559 | +1.471
+16 | 23 | Mika Salo | BAR - Supertec | 1:23.683 | +1.595
+17 | 5 | Alessandro Zanardi | Williams - Supertec | 1:23.703 | +1.615
+18 | 10 | Alexander Wurz | Benetton - Playlife | 1:23.824 | +1.736
+19 | 14 | Pedro de la Rosa | Arrows | 1:24.619 | +2.531
+20 | 15 | Toranosuke Takagi | Arrows | 1:25.280 | +3.192
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The given table displays the qualifying results of the 1999 Spanish Grand Prix.

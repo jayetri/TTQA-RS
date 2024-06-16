@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "2014 Web.com Tour" and create a summary.
+
+Rank | Player | Country | Prize money ( US $ )
+1 | Adam Hadwin | Canada | 529,792
+2 | Carlos Ortiz | Mexico | 515,403
+3 | Justin Thomas | United States | 481,270
+4 | Derek Fathauer | United States | 468,186
+5 | Andrew Putnam | United States | 342,638
+6 | Jason Gore | United States | 340,346
+7 | Tony Finau | United States | 319,756
+8 | Zack Sucher | United States | 313,466
+9 | Blayne Barber | United States | 311,451
+10 | Alex Čejka | Germany | 284,547
+
+Text
+Canada is a country in the northern part of North America . Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean , covering 9.98 million square kilometres ( 3.85 million square miles ) , making it the world 's second-largest country by total area . Its southern border with the United States , stretching some 8,891 kilometres ( 5,525 mi ) , is the world 's longest bi-national land border . Canada 's capital is Ottawa , and its three largest metropolitan areas are Toronto , Montreal , and Vancouver . As a whole , Canada is sparsely populated , with most of its land area dominated by forest and tundra . Its population is highly urbanized , with over 80 percent of its inhabitants concentrated in large and medium-sized cities , and 70 percent residing within 100 kilometres ( 62 mi ) of the southern border . Canada 's climate varies widely across its vast area , ranging from Arctic climate in the north to hot summers in the southern regions , with four distinct seasons . Various indigenous peoples inhabited what is now Canada for thousands of years before European colonization . Beginning in the 16th century , British and French expeditions explored and later settled along the Atlantic coast . As a consequence of various armed conflicts , France ceded nearly all of its colonies in North America in 1763 . In 1867 , with the union of three British North American colonies through Confederation , Canada was formed as a federal dominion of four provinces . This began an accretion of provinces and territories and a process of increasing autonomy from the United Kingdom .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The given table ranks the top 10 players in the 2014 Web.com Tour, with Adam Hadwin from Canada at the top with a prize money of $529,792. The rest of the players are from the United States, except for Carlos Ortiz from Mexico and Alex Čejka from Germany.

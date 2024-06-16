@@ -1,0 +1,31 @@
+Prompt:
+
+
+Read the table and text regarding "1990 AFL draft" and create a summary.
+
+Pick | Player | Recruited from | Recruited by
+1 | Laurence Schache | West Torrens | Brisbane Lions
+2 | Dale Lewis | North Ballarat | Sydney
+3 | Mark Brady | Old Scotch | Fitzroy
+4 | Andrew Payze | West Torrens | Richmond
+5 | Tim Williamson | Casterton | North Melbourne
+6 | Craig Cross | Burnie Hawks | Carlton
+7 | Darren Bartsch | West Adelaide | Geelong
+8 | Phil Krakouer | North Melbourne | Footscray
+9 | Steven Cummings | Sandringham | St Kilda
+10 | Craig McNaughton | Sandhurst | West Coast
+11 | Damian Stoney | Old Xaverians | Hawthorn
+12 | Jamie Duursma | Melbourne | Melbourne
+13 | Andrew Hardiman | South Warrnambool | Collingwood
+14 | Paul Morrish | Richmond | Essendon
+15 | David Greenhill | Wodonga | Brisbane Lions
+16 | Paul Smit | Springvale | Sydney
+17 | Darron Wilkinson | Camberwell | Fitzroy
+18 | Scott Turner | Ararat | Richmond
+19 | Anthony Pavey | Churchill | North Melbourne
+20 | Darren Read | Dandenong | Carlton
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 1990 AFL draft consisted of 20 players selected by 12 teams. Brisbane Lions, Richmond, North Melbourne, and Carlton each selected two players, while the other eight teams selected one player each. The players were drafted from various clubs across Victoria, South Australia, and Tasmania.

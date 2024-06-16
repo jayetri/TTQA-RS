@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "2019–20 Club Atlético Huracán season" and create a summary.
+
+Date from | Position | Name | To
+8 June 2019 | CB | Leandro Paradiso | Released
+11 June 2019 | CB | Omar Alderete | Basel
+3 July 2019 | MF | Manuel Falón | Sacachispas
+3 July 2019 | DF | Leonel Müller | Defensores de Belgrano
+3 July 2019 | RB | Christian Chimino | Patronato
+3 July 2019 | CB | Federico Mancinelli | Patronato
+3 July 2019 | CM | Israel Damonte | Banfield
+3 July 2019 | CF | Tomás Molina | Brown
+22 July 2019 | RB | Pablo Álvarez | Arsenal de Sarandí
+1 August 2019 | CF | Lucas Gamba | Rosario Central
+12 August 2019 | CB | Juan Ignacio Sills | Instituto
+14 August 2019 | RM | Alex Sosa | Brown
+15 August 2019 | RM | Patricio Toranzo | Almagro
+
+Text
+Sacachispas Fútbol Club is an Argentine football club from the Villa Soldati district of Buenos Aires . The team currently plays in Primera B Metropolitana , the regionalised third division of the Argentine football league system .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Club Atlético Huracán released 12 players during their 2019-2020 season. These players moved to various clubs, including Basel, Sacachispas, Defensores de Belgrano, Patronato, Banfield, Brown, Arsenal de Sarandí, Rosario Central, Instituto, and Almagro. Sacachispas is an Argentine football club that plays in Primera B Metropolitana, the third division of the Argentine football league system.

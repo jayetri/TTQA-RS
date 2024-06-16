@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "Pine City, Minnesota" and create a summary.
+
+Station call sign | Frequency | Tower location | Format
+WCMP ( AM ) | 1350 AM | Pine City | Classic Hits
+WCMP-FM | 100.9 FM | Pine City | Country ( Cool Country )
+WCMP-FM | 106.5 FM | Pine City | Classic Hits
+KNOW-FM | 94.1 FM | Pine City | News ( Minnesota Public Radio )
+WYSG | 96.3 FM | Hinckley | Christian music ( LifeTalk Radio )
+W248AS | 97.5 FM | Hinckley | Adult Album Alternative ( The Current )
+KSJN | 104.5 FM | Hinckley | Classical ( Minnesota Public Radio )
+KBEK | 95.5 FM | Mora | Oldies and Variety ( KBEK )
+KMKL ( FM ) | 90.3 FM | North Branch | Christian Contemporary ( K-Love )
+WLUP | 105.3 FM | Cambridge | Soft adult contemporary ( Love )
+WZEZ | 104.9 FM | Balsam Lake | Soft adult contemporary ( EZ )
+WXCX | 105.7 FM | Siren | Classic Country ( WILLIE 105.7 )
+
+Text
+KBEK ( 95.5 FM ) is a radio station licensed in Mora , Minnesota , and serving all of east-central Minnesota . The station is owned by Genesis Technology Communication LLC . It airs an eclectic mix of music with specialty shows every night of the week , all hosted by personalities who live in the station 's broadcast area . The station was assigned the KBEK call letters by the Federal Communications Commission on September 20 , 1989 , and was granted its License to Cover on May 22 , 1995 . It was formerly licensed to John Godfrey , Colleen McKinney 's late husband , who died of cancer in 2004 . Due to economic factors , KBEK went up for sale in September 2011 . It originally announced that it would close on September 30 , 2011 ( which was subsequently pushed to December 31 , 2011 ) before McKinney announced on December 22 that KBEK had been sold and will remain on the air . KBEK went off the air April 1 , 2014 . KBEK turned its transmitter back on October 26 , 2014 and resumed regular broadcasting shortly there after . McKinney sold KBEK to Genesis Technology Communication LLC effective December 1 , 2017 at a price of $ 200,000 .
+KBEK ( 95.5 FM ) is a radio station licensed in Mora , Minnesota , and serving all of east-central Minnesota . The station is owned by Genesis Technology Communication LLC . It airs an eclectic mix of music with specialty shows every night of the week , all hosted by personalities who live in the station 's broadcast area . The station was assigned the KBEK call letters by the Federal Communications Commission on September 20 , 1989 , and was granted its License to Cover on May 22 , 1995 . It was formerly licensed to John Godfrey , Colleen McKinney 's late husband , who died of cancer in 2004 . Due to economic factors , KBEK went up for sale in September 2011 . It originally announced that it would close on September 30 , 2011 ( which was subsequently pushed to December 31 , 2011 ) before McKinney announced on December 22 that KBEK had been sold and will remain on the air . KBEK went off the air April 1 , 2014 . KBEK turned its transmitter back on October 26 , 2014 and resumed regular broadcasting shortly there after . McKinney sold KBEK to Genesis Technology Communication LLC effective December 1 , 2017 at a price of $ 200,000 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The given information is about the radio stations surrounding Pine City, Minnesota. The table lists nine radio stations with their frequencies, tower locations, and formats.

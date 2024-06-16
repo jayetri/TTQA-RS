@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "Great Britain at the 1924 Summer Olympics" and create a summary.
+
+Athlete | Event | 1H Snatch | 1H Clean & Jerk | Press | Snatch | Clean & Jerk | Total | Rank
+Charles Attenborough | Men 's -75 kg | 65 | 65 | 80 | 75 | 102.5 | 387.5 | 17
+John Austin | Men 's -75 kg | 55 | 70 | 60 | 75 | 100 | 360 | 22
+Alfred Baxter | Men 's -60 kg | 55 | 65 | 70 | 75 | 105 | 370 | 7
+Augustus Cummins | Men 's -60 kg | 55 | 65 | 62.5 | 67.5 | 87.5 | 337.5 | 16
+Robert Lowes | Men 's -75 kg | 50 | 65 | 70 | 70 | 95 | 350 | 23
+William Randall | Men 's -67.5 kg | 50 | 60 | 67.5 | 65 | 90 | 332.5 | 20
+Thomas Taylor | Men 's -60 kg | 50 | 55 | 57.5 | 65 | 90 | 317.5 | 17
+John Tooley | Men 's -67.5 kg | 50 | 65 | 65 | 70 | 95 | 345 | 19
+William Wyatt | Men 's -67.5 kg | 55 | 65 | 65 | 72.5 | 95 | 352.5 | 17
+
+Text
+The men 's middleweight event was part of the weightlifting programme at the 1924 Summer Olympics . The weight class was the third-lightest contested , and allowed weightlifters of up to 75 kilograms ( 165 pounds ) . The competition was held on Wednesday , 23 July 1924 .
+The men 's middleweight event was part of the weightlifting programme at the 1924 Summer Olympics . The weight class was the third-lightest contested , and allowed weightlifters of up to 75 kilograms ( 165 pounds ) . The competition was held on Wednesday , 23 July 1924 .
+The men 's middleweight event was part of the weightlifting programme at the 1924 Summer Olympics . The weight class was the third-lightest contested , and allowed weightlifters of up to 75 kilograms ( 165 pounds ) . The competition was held on Wednesday , 23 July 1924 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: At the 1924 Summer Olympics, Great Britain competed in the men's middleweight event of weightlifting. The event took place on July 23, 1924, and weightlifters up to 75 kilograms participated. There were 9 British athletes participating, with Alfred Baxter achieving the highest rank of 7 in the men's -60 kg category.

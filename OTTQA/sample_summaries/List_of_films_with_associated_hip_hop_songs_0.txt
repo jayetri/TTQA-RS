@@ -1,0 +1,34 @@
+Prompt:
+
+
+Read the table and text regarding "List of films with associated hip hop songs" and create a summary.
+
+Year | Film | Song | Artist | Notes
+1985 | Krush Groove | Krush Groovin | Run DMC , Sheila E. , Kurtis Blow , The Fat Boys | Potentially the first film with an associated hip hop song
+1987 | Disorderlies | Baby , You 're a Rich Man | Fat Boys | Cover of Baby , You 're a Rich Man by The Beatles
+1987 | Dragnet | City of Crime | Dan Aykroyd & Tom Hanks | Performed with Glenn Hughes of Deep Purple and Pat Thrall of the Pat Travers Band
+1987 | The Monster Squad | The Monster Squad | The Monster Squad | Written and Produced by Dick Rudolph and Michael Sembello
+1987 | Police Academy 4 : Citizens on Patrol | Citizens on Patrol | Michael Winslow | Performed with the LA Dream Team
+1988 | Colors | Colors | Ice-T | # 70 on US Billboard Hot 100
+1988 | A Nightmare on Elm Street 4 : The Dream Master | A Nightmare on My Street | DJ Jazzy Jeff & The Fresh Prince | Unofficial tribute
+1988 | A Nightmare on Elm Street 4 : The Dream Master | Are You Ready for Freddy | The Fat Boys | Features singing from Robert Englund as Freddy Krueger
+1989 | Ghostbusters II | On Our Own | Bobby Brown | # 1 on US Billboard R & B
+1989 | Ghostbusters II | Ghostbusters | Run DMC | Written by Ray Parker , Jr
+1990 | Teenage Mutant Ninja Turtles | Turtle Power | Partners in Kryme | # 13 on US Billboard Hot 100
+1991 | The Addams Family | Addams Groove | MC Hammer | # 7 on US Billboard Hot 100
+1991 | Cool as Ice | Cool as Ice ( Everybody Get Loose ) | Vanilla Ice ft. Naomi Campbell | # 81 on US Billboard Hot 100
+1991 | Popcorn | Scary Scary Movies | Ossie D and Stevie G | Lyrics by Alan Ormsby ( as Tod Hackett ) , Paul Zaza ( as Paul J. Zaza ) and Yvonne Murray
+1991 | Teenage Mutant Ninja Turtles II : The Secret of the Ooze | Ninja Rap | Vanilla Ice | Also performed live in-film in Vanilla Ice 's film debut
+1992 | Deep Cover | Deep Cover | Dr. Dre ft. Snoop Dogg | Snoop Dogg 's first appearance on record
+1992 | Gladiator | Gladiator | 3rd Bass | The final appearance of 3rd Bass as a group
+1992 | Juice | Juice ( Know the Ledge ) | Eric B . & Rakim | 
+1992 | Mo ' Money | Mo ' Money Groove | Mo ' Money All-Stars | 
+1992 | Trespass | Trespass | Ice Cube & Ice-T | 
+
+Text
+Gladiator ( Music From The Motion Picture ) is the original soundtrack of Rowdy Herrington 's 1992 film Gladiator . It was released on February 25 , 1992 through Columbia Records and consisted of a blend of rock , hip hop , and pop music . The soundtrack failed to make it the Billboard charts , but Warrant 's remake of We Will Rock You made it to 83 on the Billboard Hot 100 . The title track was performed by the hip hop group 3rd Bass in what was the group 's final appearance together .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists films from 1985 to 1992 that had associated hip hop songs. The first film with an associated hip hop song was Krush Groove in 1985. The songs were performed by various artists such as Run DMC, The Fat Boys, Ice-T, and Vanilla Ice. Some songs like "Colors" by Ice-T and "On Our Own" by Bobby Brown were chart-toppers. The text is about the Gladiator soundtrack, which was released in 199

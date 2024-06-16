@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "2011 Irish presidential election" and create a summary.
+
+Date | Broadcaster | Moderator | Language
+30 September 2011 | RTÉ | Ryan Tubridy | English
+4 October 2011 | TV3 | Vincent Browne | English
+11 October 2011 | Today FM | Matt Cooper | English
+12 October 2011 | RTÉ | Miriam O'Callaghan | English
+18 October 2011 | TG4 | Páidí Ó Lionáird | Irish/English
+22 October 2011 | RTÉ Radio 1 | Charlie Bird | English
+24 October 2011 | Newstalk | Ivan Yates | English
+24 October 2011 | RTÉ | Pat Kenny | English
+
+Text
+Virgin Media One , also called Virgin One , is an Irish free-to-air television channel owned by Virgin Media Ireland ( part of Liberty Global ) , operated through its subsidiary Virgin Media Television . The channel was launched as TV3 on 20 September 1998 , becoming Ireland 's first commercial television channel .
+TG4 ( Irish : TG Ceathair ; pronounced [ tʲeː ɟeː ˈcahəɾʲ ] or [ tiː d͡ʒiː ˈcahəɾʲ ] ) is an Irish language public service broadcaster . It launched on 31 October 1996 . TG4 is available free-to-air across Ireland and available online and through its on demand service TG4 Player . TG4 was formerly known as Teilifís na Gaeilge or TnaG , before a rebranding campaign in 1999 . TG4 was the third national station to be launched in Ireland , after RTÉ One in 1961 ( as Teilifís Éireann ) and RTÉ Two in 1978 . It was followed by a fourth channel , TV3 , in 1998 . The channel has 650,000 viewers who tune into the channel each day to view a broad programming policy . It has been reported to have a share of 2% of the national television market in the Republic of Ireland and 3% of the national television market in Northern Ireland . The daily Irish-language programme schedule is its core service : seven hours of programming in Irish supported by a wide range of material in other languages , mostly English . TG4 launched its high-definition channel ( TG4 HD ) in 2012 on Virgin Media Ireland .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2011 Irish presidential election featured television debates on multiple channels and broadcasters, including RTÉ, TV3 (now Virgin Media One), Today FM, TG4, and Newstalk. The debates were moderated by various individuals, including Ryan Tubridy, Vincent Browne, and Miriam O'Callaghan. The debates were broadcast in both English and Irish languages. TG4, an Irish language public service broadcaster, launched in 1996 and has a daily Irish-language programme schedule as its

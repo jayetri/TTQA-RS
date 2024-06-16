@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "New Hampshire House of Representatives" and create a summary.
+
+District | Representative | Party | Municipality ( ies ) represented | First elected
+01 | Lee Oxenham | Dem | Cornish , Grantham , Plainfield , Springfield | 2014
+01 | Brian Sullivan | Dem | Cornish , Grantham , Plainfield , Springfield | 2017↑
+02 | Gates Lucas | Rep | Croydon , Sunapee | 2018
+03 | Andrew O'Hearne | Dem | Claremont ( Ward 1 ) | 2018
+04 | Gary Merchant | Dem | Claremont ( Ward 2 ) | 2018
+05 | Walter Stapleton | Rep | Claremont ( Ward 3 ) | 2018
+06 | John Callum | Rep | Newport , Unity | 2018
+06 | Skip Rollins | Rep | Newport , Unity | 2012
+07 | Judy Aron | Rep | Acworth , Goshen , Langdon , Lempster , Washington | 2018
+08 | Tom Laware | Rep | Charlestown | 2014 ( 2010-2012 )
+09 | Linda Tanner | Dem | Cornish , Croydon , Grantham , Newport , Plainfield , Springfield , Sunapee , Unity | 2016 ( 2012-2014 )
+10 | John Cloutier | Dem | Claremont ( Wards 1-3 ) | 1992
+11 | Steven D. Smith | Rep | Acworth , Charlestown , Goshen , Langdon , Lempster , Washington | 2010
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists 11 representatives of the New Hampshire House of Representatives. The table includes representatives from different districts and their respective parties (Democrat or Republican). The districts represented are from various municipalities such as Cornish, Grantham, Plainfield, Springfield, and others. Each representative is listed with their party affiliation and the year they were first elected. Four representatives were first elected in 2018, three in 2014, two in 2012, one in 2010,

@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "Dancing with the Stars (Greek season 4)" and create a summary.
+
+Celebrity | Occupation | Professional partner | Status
+Konstantina | Singer | Dionisis Valmis | Eliminated 1st on October 27 , 2013
+Sakis Arseniou | Singer | Nikoletta Mauridi | Eliminated 2nd on November 3 , 2013
+Eleni Chatzidou | Singer | Giorgos Ketseridis | Eliminated 3rd on November 17 , 2013
+Gogo Mastrokosta | Personal trainer | Thodoris Panagakos | Eliminated 4th on November 24 , 2013
+Thanos Kallioras | Actor | Fotini Papastravrou | Eliminated 5th on December 1 , 2013
+Chrispa | Singer | Vaggelis Holevas Thodoris Panagakos ( Week 7 ) | Eliminated 6th on December 8 , 2013
+Alex Kavdas | TV personality | Claudia-Anna Stoyia | Eliminated 7th on December 15 , 2013
+Evagelia Aravani | Fashion model | Vladimir Morotsko | Eliminated 8th on December 22 , 2013
+Michalis Mouroutsos | Olympic taekwondo athlete | Anna Polyzou | Eliminated 9th on January 5 , 2014
+Lakis Gavalas | Fashion designer | Anastasia Draka | Eliminated 10th on January 12 , 2014
+Mary Synatsaki | TV hostess | Yuri Dimitrov | Eliminated 11th on January 19 , 2014
+Klelia Pantazi | Olympic gymnast | Paulos Manogiannakis | Third Place on January 26 , 2014
+Katerina Stikoudi | Fashion model , Singer | Elias Boutsis | Runner-up on February 2 , 2014
+Isaias Matiamba | Singer | Maria Antimisari | Winner on February 2 , 2014
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Greek season 4 of "Dancing with the Stars" started on October 27, 2013, and ended on February 2, 2014. The show had 12 celebrity contestants and their professional partners competing against each other. After several eliminations, Isaias Matiamba, a singer, was declared the winner of the season, paired with professional partner Maria Antimisari. Katerina Stikoudi, a fashion model and singer, was the

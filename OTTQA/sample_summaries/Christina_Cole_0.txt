@@ -1,0 +1,23 @@
+Prompt:
+
+
+Read the table and text regarding "Christina Cole" and create a summary.
+
+Year | Title | Role
+2003 | What a Girl Wants | Clarissa Payne
+2006 | Casino Royale | Ocean Club Receptionist
+2007 | The Deaths of Ian Stone | Jenny Walker
+2008 | Surviving Evil | Phoebe Drake
+2008 | Miss Pettigrew Lives for a Day | Charlotte Warren
+2009 | Doghouse | Candy
+2011 | Blitz | WPC
+2013 | Mutual Friends | Beatrice
+2015 | Jupiter Ascending | Gemma Chatterjee
+
+Text
+The Deaths of Ian Stone is a 2007 British-American horror film directed by Dario Piana . The film stars Mike Vogel and Christina Cole . The story centers on an American man living in Britain , Ian Stone ( Vogel ) , who is killed each day by mysterious beings . He then enters a new existence , unaware of his prior lives . When he begins to remember past existences , he is once again in danger of being killed , with each death more gruesome than the last .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Christina Cole is an actress who has been in several films, including "What a Girl Wants", "Casino Royale", "The Deaths of Ian Stone", "Surviving Evil", "Miss Pettigrew Lives for a Day", "Doghouse", "Blitz", "Mutual Friends", and "Jupiter Ascending". In the 2007 horror film "The Deaths of Ian Stone", Christina Cole stars alongside Mike Vogel, playing the role of Jenny Walker in a story about a man

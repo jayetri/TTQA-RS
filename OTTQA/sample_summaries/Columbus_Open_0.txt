@@ -1,0 +1,29 @@
+Prompt:
+
+
+Read the table and text regarding "Columbus Open" and create a summary.
+
+Year | Champions | Runners-up | Score
+1971 | Tom Gorman | Jimmy Connors | 6-7 , 7-6 , 4-6 , 7-6 , 6-3
+1972 | Jimmy Connors | Andrew Pattison | 7-5 , 6-3 , 7-5
+1973 | Jimmy Connors | Charlie Pasarell | 3-6 , 6-3 , 6-3
+1974 | Raúl Ramírez | Roscoe Tanner | 3-6 , 7-6 , 6-4
+1975 | Vijay Amritraj | Robert Lutz | 6-4 , 7-5
+1976 | Roscoe Tanner | Stan Smith | 6-4 , 7-6
+1977 | Guillermo Vilas | Brian Gottfried | 6-2 , 6-1
+1978 | Arthur Ashe | Robert Lutz | 7-6 , 6-2
+1979 | Brian Gottfried | Eddie Dibbs | 6-3 , 6-0
+1980 | Robert Lutz | Terry Rocavert | 6-4 , 6-3
+1981 | Brian Teacher | John Austin | 6-3 , 6-2
+1982 | Jimmy Connors | Brian Gottfried | 7-5 , 6-0
+1983 | Brian Teacher | Bill Scanlon | 7-6 , 6-4
+1984 | Brad Gilbert | Hank Pfister | 6-3 , 3-6 , 6-3
+
+Text
+Tom Gorman ( born January 19 , 1946 ) is a retired American tennis player .
+Stanley Roger Smith ( born December 14 , 1946 ) is a former world No . 1 American tennis player and two-time Grand Slam singles champion who also , with his partner Bob Lutz , formed one of the most successful doubles teams of all time . Together , they won many major titles all over the world . In 1970 , Smith won the first year end championship Masters Grand Prix title . Smith 's two major singles titles were the 1971 US Open ( over Jan Kodeš in the final ) , and 1972 Wimbledon ( over Ilie Năstase in the final ) . In 1972 , he was the year-ending world No . 1 singles player . In 1973 , he won his second and last year end championship title at the Dallas WCT Finals . In addition , he won four Grand Prix Championship Series titles . His name is also used in a popular brand of tennis shoes . In his early years he improved his tennis game through lessons from Pancho Segura , the Pasadena Tennis Patrons , and the sponsorship of the Southern California Tennis Association headed by Perry T. Jones .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Columbus Open tennis tournament was held from 1971 to 1984. During this period, notable tennis players like Jimmy Connors, Vijay Amritraj, and Robert Lutz appeared in the tournament. Stan Smith, a two-time Grand Slam singles champion, participated in the tournament in 1976 and lost to Roscoe Tanner. Tom Gorman, a retired American tennis player, won the championship in 1971. Other prominent players such as Arthur Ashe, Guillermo Vilas

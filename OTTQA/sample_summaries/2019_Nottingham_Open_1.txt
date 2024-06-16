@@ -1,0 +1,24 @@
+Prompt:
+
+
+Read the table and text regarding "2019 Nottingham Open" and create a summary.
+
+Country | Player | Rank | Seed
+FRA | Caroline Garcia | 22 | 1
+CRO | Donna Vekić | 24 | 2
+KAZ | Yulia Putintseva | 28 | 3
+GRE | Maria Sakkari | 30 | 4
+UKR | Dayana Yastremska | 32 | 5
+AUS | Ajla Tomljanović | 47 | 6
+CHN | Zhang Shuai | 50 | 7
+FRA | Kristina Mladenovic | 53 | 8
+GER | Tatjana Maria | 57 | 9
+RUS | Evgeniya Rodina | 70 | 10
+
+Text
+Croatia ( /kroʊˈeɪʃə/ ( listen ) , kroh-AY-shə ; Croatian : Hrvatska , pronounced [ xř̩ʋaːtskaː ] ) , officially the Republic of Croatia ( Croatian : Republika Hrvatska , listen ( help·info ) ) , [ d ] is a country in Southeast Europe . It borders Slovenia to the northwest , Hungary to the northeast , Serbia to the east , Bosnia and Herzegovina , and Montenegro to the southeast , sharing a maritime border with Italy . Its capital , Zagreb , forms one of the country 's primary subdivisions , along with twenty counties . Croatia has an area of 56,594 square kilometres ( 21,851 square miles ) and a population of 4.28 million , most of whom are Roman Catholics . Croatia has been inhabited since the Paleolithic Age . The Croats arrived in the area in the 6th century and organised the territory into two duchies by the 9th century . Croatia was first internationally recognized as an independent state on 7 June 879 during the reign of duke Branimir . Tomislav became the first king by 925 , elevating Croatia to the status of a kingdom , which retained its sovereignty for nearly two centuries . During the succession crisis after the Trpimirović dynasty ended , Croatia entered a personal union with Hungary in 1102 . In 1527 , faced with Ottoman conquest , the Croatian Parliament elected Ferdinand I of Austria to the Croatian throne . In October 1918 , in the final days of World War I , the State of Slovenes , Croats and Serbs , independent from Austria-Hungary , was proclaimed in Zagreb , and in December 1918 it was merged into the Kingdom of Serbs , Croats and Slovenes ( renamed the Kingdom of Yugoslavia in 1929 ) . Following the Axis invasion of Yugoslavia in April 1941 , most of the Croatian territory was incorporated into a Nazi-backed client-state , the Independent State of Croatia .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the ranking of the top 10 seeded players at the 2019 Nottingham Open tennis tournament. Caroline Garcia of France is the top seed. The text is about Croatia, a country in Southeast Europe, providing information about its geography, history, and demographics.

@@ -1,0 +1,25 @@
+Prompt:
+
+
+Read the table and text regarding "1973 Houston Cougars football team" and create a summary.
+
+Name | Position | Alma mater ( Year ) | Year at Houston
+Bill Yeoman | Head coach / offensive coordinator | Army ( 1948 ) | 12th
+Don Todd | Freshman Assistant Coach | Hardin-Simmons ( 1964 ) | 2nd
+Melvin Brown | Offensive backs coach | Oklahoma ( 1954 ) | 11th
+Billy Willingham | Offensive line coach | TCU ( 1951 ) | 8th
+Barry Sides | Offensive line coach/defensive ends coach | Houston ( 1968 ) | 5th
+Clarence Daniel | Defensive backs coach | Huron ( 1955 ) | 2nd
+Larry French | Defensive coordinator | Colorado State ( 1965 ) | 4th
+Joe Arenas | Wide receivers coach | Nebraska-Omaha ( 1951 ) | 11th
+Carroll Schultz | Freshmen coach | Louisiana Tech ( 1948 ) | 12th
+Bobby Baldwin | Freshmen coach | Houston ( 1958 ) | 9th
+
+Text
+The TCU Horned Frogs football team is the intercollegiate football team of Texas Christian University ( TCU ) . The Horned Frogs compete in Division I Football Bowl Subdivision ( FBS ) , the highest level of intercollegiate athletics sanctioned by the National Collegiate Athletic Association ( NCAA ) in the United States . Since 2012 , the Horned Frogs have been a member of the Big 12 Conference , and were previously members of the Mountain West Conference ( MWC ) , Western Athletic Conference ( WAC ) , Conference USA ( C-USA ) , Southwest Conference ( SWC ) , and Texas Intercollegiate Athletic Association ( TIAA ) . TCU began playing football in 1896 and claims national championships in 1935 and 1938 . TCU has one Heisman Trophy winner , Davey O'Brien , and has had eight former players inducted into the College Football Hall of Fame . The Horned Frogs play their home games in Amon G. Carter Stadium , which is located on the TCU campus in Fort Worth . TCU ranks as the 4th best private college football school of all time , behind Notre Dame , USC , and Miami-FL . The Horned Frogs are also one of only four FBS teams to have played in all six College Football Playoff Bowls , winning all but the Fiesta and Orange . In 2017 , TCU and Coach Patterson reached their 10th 11-win season since Gary Patterson has been coaching for the program . That is the 4th most 11 win seasons since 2001 in all of college football .
+The Colorado State Rams football program , established in 1893 , represents Colorado State University and is a member of the National Collegiate Athletic Association ( NCAA ) Division I Football Bowl Subdivision and Mountain West Conference . Rams football teams have had relative success over the years , including winning or sharing the Mountain West title in 1999 , 2000 and 2002 . The team 's head coach role is vacant as of December 2019 . The Rams completed a 49-season tenure at Sonny Lubick Field at Hughes Stadium , located four miles west of the school 's campus in the foothills of the Rocky Mountains , in 2016 . The university completed construction of Canvas Stadium , a new on-campus facility , in 2017 . The first game at Canvas Stadium ( then named Colorado State Stadium for only the 2017 season ) was played on August 26 , 2017 , when the Rams defeated the Oregon State Beavers 58-27 . The Rams have long-standing rivalries with Colorado , Wyoming , and Air Force .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: This text does not provide information about the 1973 Houston Cougars football team. Instead, it lists the coaching staff of the Houston Cougars football team with their alma mater and years at the university. The rest of the text talks about the TCU Horned Frogs football team and the Colorado State Rams football program, providing information about their history, championships, and stadiums.

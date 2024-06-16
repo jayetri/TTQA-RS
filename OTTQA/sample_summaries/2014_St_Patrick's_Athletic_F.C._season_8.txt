@@ -1,0 +1,27 @@
+Prompt:
+
+
+Read the table and text regarding "2014 St Patrick's Athletic F.C. season" and create a summary.
+
+Time and Date | Channel | Competition | Opposition | Score | Location
+20:00 GMT 24 February 2014 | Setanta Sports | Setanta Cup | Ballinamallard United | 1-0 Win | Ferney Park
+15:15 GMT 22 March 2014 | RTÉ | League of Ireland | Limerick | 1-1 Draw | Richmond Park
+20:00 GMT 25 March 2014 | Setanta Sports | Setanta Cup | Sligo Rovers | 2-0 Loss | The Showgrounds
+19:05 GMT 4 April 2014 | RTÉ | League of Ireland | Dundalk | 4-1 Loss | Richmond Park
+20:00 GMT 14 April 2014 | Setanta Sports | Setanta Cup | Sligo Rovers | 5-1 Loss | Richmond Park
+20:00 GMT 11 July 2014 | Setanta Sports | League of Ireland | Bohemians | 1-1 Draw | Dalymount Park
+20:45 CET 16 July 2014 | Setanta Sports | Champions League | Legia Warsaw | 1-1 Draw | Pepsi Arena
+19:45 GMT 23 July 2014 | Setanta Sports | Champions League | Legia Warsaw | 5-0 Loss | Tallaght Stadium
+20:00 GMT 15 August 2014 | Setanta Sports | League of Ireland | UCD | 3-2 Win | Richmond Park
+19:05 GMT 5 September 2014 | RTÉ | League of Ireland | Dundalk | 1-0 Win | Richmond Park
+19:05 GMT 19 September 2014 | RTÉ | League of Ireland | Bray Wanderers | 4-2 Win | Carlisle Grounds
+13:45 GMT 5 October 2014 | RTÉ | FAI Cup | Finn Harps | 6-1 Win | Richmond Park
+15:30 GMT 2 November 2014 | RTÉ | FAI Cup ( Final ) | Derry City | 2-0 Win | Aviva Stadium
+
+Text
+Ballinamallard United Football Club is a semi-professional Northern Irish football club playing in the NIFL Championship . The club , re-formed in 1975 after being dormant since the 1960s , hails from Ballinamallard , near Enniskillen , County Fermanagh , and plays its home matches at Ferney Park . Club colours are all royal blue ( home ) , and all white ( away ) .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table outlines the matches played by St Patrick's Athletic F.C. during the 2014 season. The team played a total of 11 matches, with 4 wins, 3 draws, and 4 losses. They competed in the League of Ireland, Setanta Cup, Champions League, and FAI Cup. In the FAI Cup final, they defeated Derry City 2-0 to win the championship. The text provided is about Ballinamallard United, a Northern
