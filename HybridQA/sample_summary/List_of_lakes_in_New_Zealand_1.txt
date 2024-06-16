@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of lakes of New Zealand" and create a summary.
+
+Lake | Location | Notes
+Lake Heather | Far North District | North of Lake Rotoroa
+
+Text
+Lake Rotoroa is a dune lake in the Northland Region of New Zealand . It is located to the west of Awanui . Lake Rotoroa is one of the larger lakes of the Sweetwater group of lakes . The lake has no defined inflows or outflows . The lake catchment is predominantly pastoral . The lake is completely fenced , and with development of riparian vegetation this may reduce nutrient inputs from the catchment , particularly on formally grazed lake margins . The Bushland Trust , working with the Department of Conservation and Northland Regional Council is undertaking restoration at Lake Rotoroa , as well as other nearby dune lakes , such as Lake Heather , Lake Rotokawau , Lake Ngatu , Lake Gem , and Lake Ngakapua . The water quality of the lake is monitored by Northland Regional Council .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists Lake Heather in the Far North District and notes it is north of Lake Rotoroa. Lake Rotoroa is a dune lake located west of Awanui in the Northland Region of New Zealand with no inflows or outflows. The lake is completely fenced, and restoration efforts are underway to improve the water quality including riparian vegetation development and reducing nutrient inputs. The water quality is monitored by the Northland Regional Council.

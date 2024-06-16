@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "1995 Nations Cup" and create a summary.
+
+Rank | Name | Nation | TFP | SP | FS
+6 | Michael Shmerkin | Israel | 9.0 | 6 | 6
+
+Text
+Mirko Eichhorn ( born 30 August 1971 ) is a former German figure skater . He won two national titles , East German in 1989 and German in 1992 . He competed at four World Championships and four European Championships . His best result was seventh at the 1991 European Championships .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the 1995 Nations Cup rank of Michael Shmerkin of Israel, with a total figure points of 9.0, placing 6th in both short program and free skating. The text describes Mirko Eichhorn, a former German figure skater who won two national titles and competed in several championships.

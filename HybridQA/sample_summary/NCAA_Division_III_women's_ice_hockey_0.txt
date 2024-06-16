@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "NCAA Division III women's ice hockey" and create a summary.
+
+Year | Champion | Score | Runner-up
+2018 | Norwich | 2-1 | Elmira
+
+Text
+Elmira College is a private liberal arts college in Elmira , New York . It is among the oldest colleges still in existence which ( as a college for women ) granted degrees to women that were the equivalent of those given to men ( the first to do so was Wesleyan College located in Macon , Georgia , in 1840 ) . Elmira College became coeducational in all of its programs in 1969 . The college , founded in 1855 , has an enrollment of about 1,000 students . The school 's colors , purple and gold , are seen throughout the traditional campus , consisting mainly of ivy-covered buildings of the Victorian and Collegiate Gothic architectural styles . The colors purple and gold come from both the banners of the women 's suffrage movement and the iris , the college flower . Offered are about thirty-five major areas of study , each ultimately leading to either a BS or BA degree upon a successful completion of undergraduate studies . Students attend two full terms in the fall and winter and then enroll in a 6-week , intensive Term III in the spring . This gives students a unique opportunity to study abroad , intern , or take classes not related to their majors so as to enrich the educational experience . Elmira College has an extensive Mark Twain ( Samuel Clemens ) archive and is one of the only two centers for Mark Twain Studies in the world . The octagonal study from Quarry Farm in which Twain wrote many of his most widely read novels : Life on the Mississippi , A Connecticut Yankee in King Arthur 's Court , and Adventures of Huckleberry Finn , is located on campus . Every four years the college perpetuates his legacy by hosting an international conference on the State of Mark Twain Studies .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table provides information about the NCAA Division III women's ice hockey championship. Norwich won the championship in 2018 with a score of 2-1 against Elmira. The text provides background information about Elmira College, a private liberal arts college founded in 1855. The college has a strong history of providing education to women and is known for its picturesque campus and academic programs. The college is also home to an extensive Mark Twain archive and hosts conferences on Mark Twain Studies.

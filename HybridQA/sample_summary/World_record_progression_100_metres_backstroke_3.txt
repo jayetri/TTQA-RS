@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "World record progression 100 metres backstroke" and create a summary.
+
+Time | Swimmer | Date | Place
+55.23 | Shiho Sakai | November 15 , 2009 | Berlin , Germany
+
+Text
+Berlin ( /bɜːrˈlɪn/ ; German : [ bɛʁˈliːn ] ( listen ) ) is the capital and largest city of Germany by both area and population . Its 3,748,148 ( 2018 ) inhabitants make it the most populous city proper of the European Union . The city is one of Germany 's 16 federal states . It is surrounded by the state of Brandenburg , and contiguous with Potsdam , Brandenburg 's capital . The two cities are at the center of the Berlin-Brandenburg capital region , which is , with about six million inhabitants and an area of more than 30,000 km² , Germany 's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions . Berlin straddles the banks of the River Spree , which flows into the River Havel ( a tributary of the River Elbe ) in the western borough of Spandau . Among the city 's main topographical features are the many lakes in the western and southeastern boroughs formed by the Spree , Havel , and Dahme rivers ( the largest of which is Lake Müggelsee ) . Due to its location in the European Plain , Berlin is influenced by a temperate seasonal climate . About one-third of the city 's area is composed of forests , parks , gardens , rivers , canals and lakes . The city lies in the Central German dialect area , the Berlin dialect being a variant of the Lusatian-New Marchian dialects . First documented in the 13th century and situated at the crossing of two important historic trade routes , Berlin became the capital of the Margraviate of Brandenburg ( 1417-1701 ) , the Kingdom of Prussia ( 1701-1918 ) , the German Empire ( 1871-1918 ) , the Weimar Republic ( 1919-1933 ) , and the Third Reich ( 1933-1945 ) . Berlin in the 1920s was the third largest municipality in the world .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the world record progression in 100-meter backstroke, which is held by Shiho Sakai with a time of 55.23 seconds, achieved on November 15, 2009, in Berlin, Germany. The text provides unnecessary information about Berlin, its history, and geography.

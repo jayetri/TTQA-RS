@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Los Angeles Metro Rail stations" and create a summary.
+
+Station | Line ( s ) ( Project name ) | Location | Opening
+Aviation/Century † | Crenshaw/LAX Line C Line ( Green ) | Los Angeles ( Westchester ) | 2020
+
+Text
+Hyde Park is an under-construction at-grade light rail station in the Los Angeles County Metro Rail system . The station features art by Carlson Hatton that visually celebrates the musical heritage of the area . A nearby mural was also was created to improve the first/last mile experience by using local stories collected by young people .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the "Aviation/Century" station, part of the Crenshaw/LAX Line (C Line, also known as Green Line), located in Los Angeles' Westchester area, which opened in 2020. The text concerns the "Hyde Park" station, an under-construction at-grade light rail station, featuring art celebrating the area's musical heritage.

@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "List of University of Central Florida alumni" and create a summary.
+
+Alumni | Class year | Notability
+Omar Raja | - | Founder of House of Highlights , which was later acquired by Bleacher Report . He 's also a digital marketing producer for ESPN
+
+Text
+Omar Raja ( born 16 April 1994 ) is the founder of House of Highlights , an Instagram account with a focus in the publication of video clips of professional athletes and sports fans . After being acquired by Bleacher Report in December 2015 , House of Highlights has expanded its video content and scope , and has amassed over 15 million followers .
+Omar Raja ( born 16 April 1994 ) is the founder of House of Highlights , an Instagram account with a focus in the publication of video clips of professional athletes and sports fans . After being acquired by Bleacher Report in December 2015 , House of Highlights has expanded its video content and scope , and has amassed over 15 million followers .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Omar Raja, a University of Central Florida alumnus, is the founder of House of Highlights, an Instagram account that focuses on publishing video clips of professional athletes and sports fans. The account has over 15 million followers and was acquired by Bleacher Report in 2015. He also works as a digital marketing producer for ESPN.

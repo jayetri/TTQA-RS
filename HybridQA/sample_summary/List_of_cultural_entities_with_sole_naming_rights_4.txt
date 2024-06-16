@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of cultural entities with sole naming rights" and create a summary.
+
+Name | Location | Sponsor | Notes
+Hitachi Systems Hall Sendai | Aoba-ku , Sendai | Hitachi Systems | then Sendai City Youth Culture Centre
+
+Text
+Aoba-ku ( 青葉区 ) is one of five wards of Sendai , the largest city in the Tōhoku region of Japan . Aoba-ku encompasses 302.278 km² and had a population of 296,551 , with 147,622 households as of March 1 , 2012 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists an entity named Hitachi Systems Hall Sendai located in Aoba-ku, Sendai, Japan. The sponsor is Hitachi Systems. Previously, it was known as Sendai City Youth Culture Centre. The text provides information about Aoba-ku, a ward in Sendai, Japan, which encompasses 302.278 km² and has a population of 296,551 as of 2012.

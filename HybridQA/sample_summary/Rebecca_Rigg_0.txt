@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Rebecca Rigg" and create a summary.
+
+Year | Title | Role
+2005 | Ellie Parker | Sam
+
+Text
+Ellie Parker is a 2005 American comedy-drama film written and directed by Scott Coffey . It stars Naomi Watts in the title role , a young woman struggling as an actress in Los Angeles . The film centers on a quote from the prologue to William Shakespeare 's Henry V :
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table is about the filmography of Rebecca Rigg, specifically her appearance in the 2005 film "Ellie Parker" where she played the role of Sam. The given text provides context about the film, stating it is a comedy-drama, written and directed by Scott Coffey, and starring Naomi Watts as the title character, exploring her struggles as an actress in Los Angeles.

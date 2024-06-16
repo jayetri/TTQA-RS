@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of University of Oxford people in British public life" and create a summary.
+
+Name | College | Party
+Tony Benn ( formerly 2nd Viscount Stansgate ) | New College | Labour
+
+Text
+Sir Reginald Frederick Brittain Bennett ( b Sheffield 22 July 1911 - d London 19 December 2000 ) was an English Conservative Party politician , international yachtsman , psychiatrist and painter .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists Tony Benn, a Labor Party member from New College. The text describes Sir Reginald Frederick Brittain Bennett, a Conservative politician, who was also a yachtsman, psychiatrist, and painter. There is no connection between the table and the text.

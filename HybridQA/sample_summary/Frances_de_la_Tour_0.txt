@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Frances de la Tour" and create a summary.
+
+Year | Title | Role
+1977 | Wombling Free | Julia Frogmorton
+
+Text
+Wombling Free is a 1977 British film adaption of the children 's television series The Wombles . Directed by Lionel Jeffries , it stars The Wombles , David Tomlinson , Frances de la Tour , and Bonnie Langford .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Frances de la Tour played the role of Julia Frogmorton in the 1977 British film "Wombling Free", directed by Lionel Jeffries, alongside The Wombles, David Tomlinson, and Bonnie Langford.

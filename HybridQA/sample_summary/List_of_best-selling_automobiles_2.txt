@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of best-selling automobiles" and create a summary.
+
+Class | Automobile | Production | Units Sold
+Van | Volkswagen Type 2 ( Transporter ) | 1950-present | Over 12,000,000 in six generations to August 2015
+
+Text
+The Volkswagen Type 2 , known officially ( depending on body type ) as the Transporter , Kombi or Microbus , or , informally , as the Bus ( US ) or Camper ( UK ) , Pão de Forma ( Loaf of Bread ) ( Portugal ) is a forward control light commercial vehicle introduced in 1950 by the German automaker Volkswagen as its second car model . Following - and initially deriving from - Volkswagen 's first model , the Type 1 ( Beetle ) , it was given the factory designation Type 2 . As one of the forerunners of the modern cargo and passenger vans , the Type 2 gave rise to forward control competitors in the United States in the 1960s , including the Ford Econoline , the Dodge A100 , and the Chevrolet Corvair 95 Corvan , the latter adapting the rear-engine configuration of the Corvair car in the same manner in which the VW Type 2 adapted the Type 1 layout . European competition included the 1947-1981 Citroën H Van , the 1959-1980 Renault Estafette ( both FF layout ) , and the 1953-1965 FR layout Ford Transit . Japanese manufacturers also introduced similar vehicles , such as the Nissan Caravan , Toyota LiteAce and Subaru Sambar . Like the Beetle , the van has received numerous nicknames worldwide , including the microbus , minibus , and , because of its popularity during the counterculture movement of the 1960s , Hippie van/bus has become its most popular . Brazil contained the last factory in the world that produced the T2 series of Type 2 , which ceased production on 31 December 2013 , due to the introduction of more stringent safety regulations in the country . This ( after the 2002 termination of its T3 successor in South Africa ) marked the end of the era of rear-engine Volkswagens , which originated in 1935 with their Type 1 prototypes .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the Volkswagen Type 2 (Transporter) as the best-selling automobile with over 12 million units sold in six generations from 1950 to August 2015. It is a light commercial vehicle introduced by Volkswagen in 1950, and it is known by various names such as Transporter, Kombi, Microbus, Bus, and Camper. The vehicle is popular worldwide and has received various nicknames, including the "Hippie van/bus". The production

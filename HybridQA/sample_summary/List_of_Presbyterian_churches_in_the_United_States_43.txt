@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Presbyterian churches in the United States" and create a summary.
+
+Church | Dates | Location | City , State
+Huntersville Presbyterian Church | 1854 , 1895-1896 built 1978 NRHP-listed | CR 21 at WV 39 38°11′23″N 80°1′6″W / 38.18972°N 80.01833°W / 38.18972 ; -80.01833 ( Huntersville Presbyterian Church ) | Huntersville , West Virginia
+
+Text
+Huntersville is a census-designated place ( CDP ) located in Pocahontas County , West Virginia in the Alleghany Mountains . As of the 2010 census , its population was 73 . It is located six miles east of Marlinton and four miles west of Minnehaha Springs . Huntersville received its name because it was a rendezvous for trappers and hunters who came to trade pelts for supplies . It served as the county seat of Pocahontas County until 1891 when the county 's residents voted to move the seat to Marlinton . A local newspaper called The Pocahontas Times is distributed in the area . Huntersville has many sportsman opportunities . Because of its proximity to Knapps Creek flowing nearby , fishermen can catch trout , bass , sun perch , and other fish . Native brook trout streams are also tucked away in quiet places close to the town . Hunting is a big tradition that still lives on in this community because of the vast stretches of Monongahela National Forest that borders the town . The Huntersville Presbyterian Church was listed on the National Register of Historic Places in 1978 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The summary provides information about Huntersville Presbyterian Church, which is situated in Huntersville, West Virginia. The church was established in 1854, rebuilt in 1895-1896, and added to the National Register of Historic Places (NRHP) in 1978. Huntersville is a small town located in Pocahontas County, West Virginia, with a population of 73 as of 2010. It is known for its hunting and fishing opportunities, with nearby streams

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "1993 in country music" and create a summary.
+
+US | CAN | Single | Artist
+1 | 2 | Almost Goodbye | Mark Chesnutt
+
+Text
+Mark Nelson Chesnutt ( born September 6 , 1963 ) is an American country music singer and songwriter . Between 1990 and 1999 , he had his greatest chart success recording for Universal Music Group Nashville 's MCA and Decca branches , with a total of eight albums between those two labels . During this timespan , Chesnutt also charted twenty top-ten hits on the Billboard Hot Country Songs charts , of which eight reached number one : Brother Jukebox , I 'll Think of Something , It Sure Is Monday , Almost Goodbye , I Just Wanted You to Know , Gon na Get a Life , It 's a Little Too Late , and a cover of Aerosmith 's I Do n't Want to Miss a Thing . His first three albums for MCA ( Too Cold at Home , Longnecks & Short Stories , and Almost Goodbye ) along with a 1996 Greatest Hits package issued on Decca are all certified platinum by the Recording Industry Association of America ( RIAA ) ; 1994 's What a Way to Live , also issued on Decca , is certified gold . After a self-titled album in 2002 on Columbia Records , Chesnutt has continued to record predominantly on independent labels . Chesnutt is known for his neotraditionalist country and honky-tonk influences , with frequent stylistic comparisons to George Jones . He has recorded several cover songs as both singles and album cuts , including covers of Hank Williams Jr. , John Anderson , Don Gibson , Conway Twitty , and Charlie Rich . Artists with whom he has collaborated include Jones , Tracy Byrd , Vince Gill , and Alison Krauss . Mark Wright produced all but one of his albums released in the 1990s , while his work since 2005 has been produced by Jimmy Ritchey . Chesnutt has also won two awards from the Country Music Association : the Horizon Award ( now known as Best New Artist ) and Vocal Event of the Year , both in 1993 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Mark Chesnutt's single "Almost Goodbye" ranked number 1 in the US and number 2 in Canada in 1993. The text highlights Mark Chesnutt's achievements in country music between 1990 and 1999. During that time, he released eight albums, had 20 top-ten hits, including eight number one hits. Chesnutt's music style reflects neotraditionalist country and honky-tonk influences, similar to George Jones. He

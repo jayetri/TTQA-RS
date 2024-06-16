@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "IWF World Weightlifter of the Year" and create a summary.
+
+Year | Winner | Country
+2004 | Liu Chunhong | China
+
+Text
+Liu Chunhong ( simplified Chinese : 刘春红 ; traditional Chinese : 劉春紅 ; pinyin : Liú Chūnhóng ; born January 29 , 1983 in Yantai , Shandong ) is a Chinese weightlifter .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The IWF World Weightlifter of the Year for 2004 is Liu Chunhong from China, a Chinese weightlifter born on January 29, 1983, in Yantai, Shandong.

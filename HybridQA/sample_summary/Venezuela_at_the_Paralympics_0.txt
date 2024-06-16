@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Venezuela at the Paralympics" and create a summary.
+
+Medal | Name | Games | Sport | Event
+Bronze | Yescarly Medina | 2016 Rio de Janeiro | Athletics | Women 's 100 m T37
+
+Text
+Yescarly Medina is a Venezuelan Paralympic athlete with cerebral palsy . She represented Venezuela at the 2016 Summer Paralympics and she won the bronze medal in the 100 metres T37 event . At the 2015 Parapan American Games held in Toronto , Canada she won the gold medal in the women 's 100 metres T37 event . At the 2019 Parapan American Games she won the bronze medal in that event .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Venezuela won a bronze medal at the 2016 Paralympics in the 100m T37 event in athletics through Yescarly Medina, who has cerebral palsy. She also won gold and bronze medals at the 2015 and 2019 Parapan American Games, respectively.

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "2015 in sports" and create a summary.
+
+Date | Sport | Venue/Event | Status | Winner/s
+3 | Motorcycle racing | Spanish motorcycle Grand Prix | International | MotoGP : Jorge Lorenzo ( Movistar Yamaha MotoGP ) Moto2 : Jonas Folger ( AGR Team ) Moto3 : Danny Kent ( Leopard Racing )
+
+Text
+Jorge Lorenzo Guerrero ( Spanish pronunciation : [ ˈxoɾxe loˈɾenθo ɣeˈreɾo ] ; born 4 May 1987 ) is a retired Spanish Grand Prix motorcycle road racer . In January 2020 , he was confirmed to be contracted as number 1 test rider to the Yamaha Factory Racing Test Team headed by Silvano Galbusera , former racing crew chief to Valentino Rossi . He won the 2006 and 2007 250 cc World Championship , and the 2010 , 2012 and 2015 MotoGP World Championship . He rode for Yamaha from 2008 to 2016 and Ducati from 2017 to 2018 . On 6 June 2018 it was announced Lorenzo would join Repsol Honda for the 2019 and 2020 MotoGP seasons . During 2019 he announced that he would be retiring at the end of the 2019 season after only one year at Repsol Honda . In 2012 , Lorenzo became the first Spanish rider to win multiple premier class titles , and with 68 career wins , he is sixth on the all-time wins list . After graduating from the 250cc class with two world titles , Lorenzo signed for Yamaha 's factory team , with whom he spent nine seasons , starting in 2008 . As a rookie , he won on his third start in Portugal . Injuries and inconsistency meant he was some way off team mate Valentino Rossi who won the championship that year , although Lorenzo ran him closer in 2009 , winning four races . In 2010 , Lorenzo won his first premier class title after a season that saw him not finish lower than fourth in a single race all year . He added nine race wins to his tally and beat compatriot Dani Pedrosa to be the first Spanish champion in the four-stroke era .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table contains information about the 2015 Spanish motorcycle Grand Prix, held on Date 3. The winners of the MotoGP, Moto2, and Moto3 categories are Jorge Lorenzo, Jonas Folger, and Danny Kent, respectively. The text provides biographical information about Jorge Lorenzo, a retired Spanish motorcycle road racer who won the MotoGP World Championship in 2010, 2012, and 2015. He holds several records, including being the first Spanish rider to win multiple

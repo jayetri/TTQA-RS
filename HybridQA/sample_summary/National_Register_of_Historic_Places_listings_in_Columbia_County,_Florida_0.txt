@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "National Register of Historic Places listings in Columbia County, Florida" and create a summary.
+
+ | Name on the Register | Date listed | Location | City or town
+11 | Sikes House | February 1 , 2007 ( # 06001318 ) | 288 Ellis Street , just south of U.S. Route 27 29°55′21″N 82°42′48″W / 29.9225°N 82.713333°W / 29.9225 ; -82.713333 ( Sikes House ) | Fort White
+
+Text
+Fort White is a town in Columbia County , Florida , United States , named after a military fort built in the 1830s . It is the closest town to Ichetucknee Springs State Park . Fort White High School and the Fort White Public School Historic District are located within the town 's borders . The original school building was constructed in 1915 . As of the 2010 census , the population of Fort White was 567 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The given information pertains to the National Register of Historic Places listings in Columbia County, Florida. Specifically, it highlights the Sikes House, listed on February 1, 2007, located at 288 Ellis Street, Fort White. Furthermore, the text provides brief information about Fort White, a town in Columbia County, Florida, including its history, points of interest, and population.

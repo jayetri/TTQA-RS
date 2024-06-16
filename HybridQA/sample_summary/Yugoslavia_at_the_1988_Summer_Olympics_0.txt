@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Yugoslavia at the 1988 Summer Olympics" and create a summary.
+
+Medal | Name | Sport | Event
+Bronze | Mirko Bašić Jožef Holpert Boris Jarak Slobodan Kuzmanovski Muhamed Memić Alvaro Načinović Goran Perkovac Zlatko Portner Iztok Puc Rolando Pušnik Momir Rnić Zlatko Saračević Irfan Smajlagić Ermin Velić Veselin Vujović | Handball | Men 's Team Competition
+
+Text
+Zlatan Zlatko Saračević ( born 5 July 1961 ) is a Croatian former handball player who competed in the 1988 Summer Olympics for SFR Yugoslavia and in the 1996 Summer Olympics for Croatia . He is currently coaching RK Podravka . From 2015 World Championship to the 2017 World Championship he had been a commentator on RTL Televizija with Filip Brkić .
+Irfan Pipe Smajlagić ( born 16 October 1961 in Banja Luka ) is a Croatian former handball player and current handball coach , who competed in the 1988 Summer Olympics for Yugoslavia and in the 1996 Summer Olympics for Croatia . He was born in Banja Luka , Bosnia and Herzegovina . In 1988 he was part of the Yugoslav team which won the bronze medal . He played five matches and scored 14 goals . Eight years later he won the gold medal with the Croatian team . He played six matches including the final and scored 31 goals .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Yugoslavia participated in the 1988 Summer Olympics, winning a bronze medal in the men's handball team competition. The team had players such as Zlatan Saračević and Irfan Smajlagić, who later competed for Croatia in the 1996 Summer Olympics.

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of fictional princesses" and create a summary.
+
+Princess | Film | Notes
+Princess Jehnna | Conan the Destroyer | She is the niece of Queen Taramis of Shadizar . Portrayed by Olivia d'Abo
+
+Text
+Conan the Destroyer is a 1984 American sword and sorcery film directed by Richard Fleischer , starring Arnold Schwarzenegger and Mako Iwamatsu reprising their roles as Conan and Akiro the wizard , respectively . The cast also includes Grace Jones , Wilt Chamberlain , Tracey Walter , and Olivia d'Abo . It is the sequel to Conan the Barbarian . The film grossed $ 31 million in the US .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists a fictional princess named Princess Jehnna from the film Conan the Destroyer (1984), where she is portrayed by Olivia d'Abo and is the niece of Queen Taramis of Shadizar. The film is a sequel to Conan the Barbarian, starring Arnold Schwarzenegger and Mako Iwamatsu, and grossed $31 million in the US.

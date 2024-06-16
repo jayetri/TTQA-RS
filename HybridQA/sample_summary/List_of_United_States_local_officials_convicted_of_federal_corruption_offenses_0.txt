@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of United States local officials convicted of federal corruption offenses" and create a summary.
+
+Mayor | Office | Crime ( s )
+Angelo Errichetti | Mayor of Camden , New Jersey | Federal official bribery , conspiracy to defraud the United States , and Travel Act
+
+Text
+Joseph Peter Ganim ( born October 21 , 1959 ) is an American politician , convicted felon , and the mayor of Bridgeport , Connecticut , and was a Candidate for Governor of the State of Connecticut . He was elected mayor of the city six times serving from 1991 to 2003 , when he resigned after being convicted on federal felony corruption charges . Ganim was released after serving six years in a Federal Correctional Institution at Fort Dix . In 2015 , Ganim mounted a successful political comeback after being elected Bridgeport mayor again . Ganim was sworn in as mayor on December 1 , 2015 . Ganim has twice unsuccessfully sought the Democratic nomination for governor of Connecticut , running in 1994 and 2018 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table and text lists two convicted local officials in the United States that were convicted of federal corruption offenses. The first mayor mentioned is Angelo Errichetti, who was the mayor of Camden, New Jersey, and was convicted of federal official bribery, conspiracy to defraud the United States, and the Travel Act. The second mayor mentioned is Joseph Ganim, who was the mayor of Bridgeport, Connecticut. He was convicted of federal felony corruption charges and served six years in prison. However, he

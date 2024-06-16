@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Court of Appeal for Ontario" and create a summary.
+
+Position | Name | Appointed | Nominated by | Position ( s ) Prior to Appointment*
+Supernumerary Justice | Gladys Pardu | 8 November 2013 | Harper | Superior Court of Justice ( 1991 to 2013 ) Pardu Macdonald ( 1976 to 1991 )
+
+Text
+The Superior Court of Justice ( French : Cour supérieure de justice ) is a superior court in Ontario . The Court sits in 52 locations across the province , including 17 Family Court locations , and consists of over 300 federally appointed judges . In 1999 , the Superior Court of Justice was renamed from the Ontario Court ( General Division ) . The Superior Court is one of two divisions of the Court of Ontario . The other division is the lower court , the Ontario Court of Justice . The Superior Court has three specialized branches : Divisional Court , Small Claims Court , and Family Court . The Superior Court has inherent jurisdiction over civil , criminal , and family law matters at common law . Although the Court has inherent jurisdiction , the authority of the Court has been entrenched in the Canadian Constitution .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Court of Appeal for Ontario is not mentioned in the given text and table. The given information is about the Superior Court of Justice and its details. According to the table, Gladys Pardu was appointed as a Supernumerary Justice on 8 November 2013 by Harper. She was a judge at the Superior Court of Justice from 1991 to 2013 and worked at Pardu Macdonald from 1976 to 1991. The text provides information about the structure

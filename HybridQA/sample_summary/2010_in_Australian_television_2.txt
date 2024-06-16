@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "2010 in Australian television" and create a summary.
+
+Program | New network ( s ) | Previous network ( s ) | Date
+Top Gear Top Gear | Nine Network | SBS One | 16 February
+
+Text
+Shortland Street is a New Zealand prime-time soap opera centering on the fictitious Shortland Street Hospital , first broadcast on TVNZ 2 on 25 May 1992 . It is the country 's longest-running drama and soap opera , being broadcast continuously for over 6,000 episodes and over 27 years , and is one of the most watched television programmes in New Zealand . The show was originally screened as five half-hour episodes each week and initially receiving mixed reviews on its premiere . After its launch it dropped in ratings and would have been cancelled if TVNZ had not ordered a year 's worth of episodes in advance . TVNZ renewed the production in early 1993 when the show 's rating had picked up , and it now has long-term public enthusiasm . Today , it is one of New Zealand 's highest-rated shows , frequently making AGB Nielsen Media Research 's top 5 programmes of the week .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows one program, Top Gear, which switched from SBS One to Nine Network on February 16, 2010. The text discusses a New Zealand soap opera, Shortland Street, which has been on the air since 1992 and remains one of the most popular shows in New Zealand. There is no connection between the table and the text.

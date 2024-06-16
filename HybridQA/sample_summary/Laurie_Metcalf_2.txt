@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Laurie Metcalf" and create a summary.
+
+Year | Title | Role | Notes
+1997 | Dharma & Greg | Spyder | Episode : Instant Dharma
+
+Text
+Balloon Farm is a 1999 television movie that stars Rip Torn , Mara Wilson and Laurie Metcalf . It was produced and premiered as part of The Wonderful World of Disney series . It is based on the book Harvey Potter 's Balloon Farm by Jerdine Nolen .
+Balloon Farm is a 1999 television movie that stars Rip Torn , Mara Wilson and Laurie Metcalf . It was produced and premiered as part of The Wonderful World of Disney series . It is based on the book Harvey Potter 's Balloon Farm by Jerdine Nolen .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Laurie Metcalf had two acting roles. One was in the TV series "Dharma & Greg" in 1997, where she played the character Spyder in the episode "Instant Dharma". The other was in the 1999 TV movie "Balloon Farm", which was part of the "Wonderful World of Disney" series and based on the book "Harvey Potter's Balloon Farm" by Jerdine Nolen. The movie also starred Rip Torn

@@ -1,0 +1,20 @@
+Prompt:
+
+
+Read the table and text regarding "WWE" and create a summary.
+
+Accomplishment | Latest winner ( s ) | Date won | Location | Notes
+King of the Ring | Baron Corbin | September 16 , 2019 | Knoxville , Tennessee | Defeated Chad Gable in the tournament final to win
+Money in the Bank ( Men ) | Brock Lesnar | May 19 , 2019 | Hartford , Connecticut | Defeated Baron Corbin , Drew McIntyre , Ali , Andrade , Randy Orton , Ricochet and Finn Bálor to win
+Money in the Bank ( Women ) | Bayley | May 19 , 2019 | Hartford , Connecticut | Defeated Carmella , Dana Brooke , Ember Moon , Mandy Rose , Naomi , Natalya , and Nikki Cross to win
+Royal Rumble ( Men ) | Drew McIntyre | January 26 , 2020 | Houston , Texas | Last eliminated Roman Reigns to win
+Royal Rumble ( Women ) | Charlotte Flair | January 26 , 2020 | Houston , Texas | Last eliminated Shayna Baszler to win
+Dusty Rhodes Tag Team Classic | The BroserWeights ( Matt Riddle and Pete Dunne ) | January 29 , 2020 | Winter Park , Florida | Defeated The Grizzled Young Veterans ( James Drake and Zack Gibson ) in the tournament final to win
+André the Giant Memorial Battle Royal | Braun Strowman | April 7 , 2019 | East Rutherford , New Jersey | Last eliminated Colin Jost to win
+WrestleMania Women 's Battle Royal | Carmella | April 7 , 2019 | East Rutherford , New Jersey | Last eliminated Sarah Logan to win
+WWE World Cup | The O.C . ( Luke Gallows and Karl Anderson ) | October 31 , 2019 | Riyadh , Saudi Arabia | Won a nine-team Tag Team Turmoil match , last eliminating the Viking Raiders . ( Previously awarded as a singles accolade in 2018 )
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the latest winners of WWE's various championships and accolades. The current holders include Baron Corbin as the King of the Ring, Brock Lesnar and Bayley as the Money in the Bank winners, Drew McIntyre and Charlotte Flair as the Royal Rumble winners, The BroserWeights as the winners of the Dusty Rhodes Tag Team Classic, Braun Strowman as the winner of the André the Giant Memorial Battle Royal, Carmella as the winner of the WrestleMania Women

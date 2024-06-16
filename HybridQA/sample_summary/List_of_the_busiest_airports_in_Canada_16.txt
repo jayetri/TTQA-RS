@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of the busiest airports in Canada" and create a summary.
+
+Rank | Airport | Serves | Total ( tonnes ) | Annual change
+19 | Prince George Airport | Prince George | 1,092.7 | -21.5%
+
+Text
+Prince George Airport ( IATA : YXS , ICAO : CYXS ) is an airport that serves Prince George , British Columbia , Canada , and the surrounding area . It is located just within the southern boundary of the city , 2.8 nautical miles ( 5.2 km ; 3.2 mi ) southeast , and is run by the Prince George Airport Authority . In 2019 , 496,714 passengers used Prince George Airport . The airport offers multiple flights every business day between Prince George and Vancouver serviced by Air Canada via its Air Canada Express affiliate , WestJet and its affiliate WestJet Encore , and Central Mountain Air ( CMA ) . CMA and Northern Thunderbird Air also have scheduled and charter services to many points in northern and central British Columbia as well as Edmonton , Alberta . WestJet flies a weekly non-stop flight to Puerto Vallarta , Mexico from November through to April . In January 2015 , Pacific Coastal Airlines set up shop at Prince George offering two non-stop flights a day to Victoria , BC . Air Canada Express and WestJet Encore both operate Bombardier Q400 turboprop into the airport while WestJet operates Boeing 737 jet liners . In February 2015 , Prince George hosted the 2015 Canada Winter Games . Approximately 15,000 people came to the city by air for the games . The airport is classified as an airport of entry by Nav Canada and is staffed by the Canada Border Services Agency ( CBSA ) . The airport can handle aircraft with up to 30 passengers or 120 if they are unloaded in stages .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Prince George Airport, serving Prince George, British Columbia, Canada, had 496,714 passengers in 2019, with a decline in cargo traffic of 21.5% (totalling 1,092.7 tonnes). The airport is operated by the Prince George Airport Authority and offers multiple daily flights to Vancouver, as well as connections to northern and central British Columbia, Edmonton, and international flights to Puerto Vallarta, Mexico. The airport is an airport of entry and is staffed

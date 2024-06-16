@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "1994 NBA draft" and create a summary.
+
+Player | Pos | Nationality | School / club team
+Ryan Lorthridge | SG | United States | Jackson State ( Sr . )
+
+Text
+Ryan Lorthridge ( born July 27 , 1972 ) is a retired American professional basketball player . Born in Nashville , Tennessee , he was a 6 ft 4 1⁄2 in ( 1.94 m ) shooting guard . He played college basketball at Jackson State University .
+Ryan Lorthridge ( born July 27 , 1972 ) is a retired American professional basketball player . Born in Nashville , Tennessee , he was a 6 ft 4 1⁄2 in ( 1.94 m ) shooting guard . He played college basketball at Jackson State University .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Ryan Lorthridge, a retired American professional basketball player, was born on July 27, 1972, in Nashville, Tennessee. He played college basketball at Jackson State University as a 6 ft 4 1⁄2 in (1.94 m) shooting guard. He was part of the 1994 NBA draft.

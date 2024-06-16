@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of schools in West Moreton" and create a summary.
+
+Name | Suburb | LGA | Opened | Website
+Amberley District State School | Amberley | Ipswich | 1862 | Website
+
+Text
+Amberley is a suburb in the City of Ipswich , Queensland , Australia . In the 2016 census , Amberley had a population of 253 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows Amberley District State School in the suburb of Amberley, located in the Local Government Area (LGA) of Ipswich, Queensland, Australia. It was opened in 1862 and has a website. The suburb of Amberley has a population of 253 as per the 2016 census.

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "2011 Thai Division 1 League" and create a summary.
+
+Team | Location | Stadium | Capacity
+Buriram | Buriram | I-Mobile Stadium | 14,000
+
+Text
+Buriram Province ( Thai : จังหวัดบุรีรัมย์ , RTGS : Changwat Buri Ram , pronounced [ t͡ɕāŋ.wàt bū.rīː rām ] ; Northern Khmer : มืฺงแปะ , pronounced [ mɤːŋ.pɛʔ ] ) , is one of the northeastern provinces ( changwat ) of Thailand . Neighboring provinces are ( from south clockwise ) Sa Kaeo , Nakhon Ratchasima , Khon Kaen , Maha Sarakham , and Surin . To the southeast it borders Oddar Meancheay of Cambodia . The name Buriram means 'city of happiness ' .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table is about the team "Buriram" which is from Buriram province and plays at I-Mobile Stadium with a capacity of 14,000. Buriram province is a northeastern province of Thailand, bordering Cambodia to the southeast, and its name means "city of happiness".

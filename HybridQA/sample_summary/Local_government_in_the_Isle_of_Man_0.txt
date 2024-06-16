@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Local government in the Isle of Man" and create a summary.
+
+Map № | Local Authority | Type | Sheading | Keys Constituency
+3 | Ballaugh | parish | Michael | Ayre & Michael
+
+Text
+Ballaugh ( /bəˈlæf/ bə-LAFF ; from Manx Balley ny Loghey , meaning 'town of the lake ' ) is a small village on the Isle of Man in the parish of the same name , in the sheading of Michael . It is the only village in the parish . The parish adjoins Jurby to the north , Lezayre to the east , Michael to the south and south-west , and the Irish Sea to the west . It stretches about 5 miles or 8 km from north to south : at the extreme southern end it includes part of Sulby Reservoir , and to the west it includes part of Bishopscourt , the former house of the island 's Bishop .
+Ballaugh ( /bəˈlæf/ bə-LAFF ; from Manx Balley ny Loghey , meaning 'town of the lake ' ) is a small village on the Isle of Man in the parish of the same name , in the sheading of Michael . It is the only village in the parish . The parish adjoins Jurby to the north , Lezayre to the east , Michael to the south and south-west , and the Irish Sea to the west . It stretches about 5 miles or 8 km from north to south : at the extreme southern end it includes part of Sulby Reservoir , and to the west it includes part of Bishopscourt , the former house of the island 's Bishop .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows local government information for Ballaugh parish on the Isle of Man. Ballaugh is a parish in the sheading of Michael, and it has one village also called Ballaugh. The parish borders Jurby to the north, Lezayre to the east, Michael to the south and southwest, and the Irish Sea to the west.

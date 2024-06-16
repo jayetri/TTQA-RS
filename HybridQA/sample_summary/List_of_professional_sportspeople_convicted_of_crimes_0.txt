@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of professional sportspeople convicted of crimes" and create a summary.
+
+Name | Team when arrested | Offense | Sentence | Notes
+Mike Danton | St. Louis Blues | conspiracy to commit murder | 7½ years | Released after serving five years
+
+Text
+Daniel James Heatley ( born January 21 , 1981 ) is a German-born Canadian former professional ice hockey winger . Originally drafted by the Atlanta Thrashers second overall in the 2000 NHL Entry Draft , he won the Calder Memorial Trophy as the top NHL rookie in 2002 . However , after being responsible for a car crash in September 2003 that killed teammate and close friend Dan Snyder , he requested a trade and was subsequently dealt to the Ottawa Senators . One of the Senators ' perennial leading scorers during his tenure with Ottawa , Heatley set franchise records for single-season goals ( 50 ) in 2005-06 , and points ( 105 ) in 2006-07 , a season in which he also scored 50 goals . He played on the left wing with line mates Jason Spezza and Daniel Alfredsson . The line was consistently among the highest scoring in the NHL after its formation in 2005-06 , with the trio combining for a total of 296 points that season . Heatley represented Team Canada in six World Championships , two Olympics and one World Cup of Hockey , as well as two World Junior Championships . In 2008 , he surpassed Marcel Dionne as Canada 's all-time leader in goals and Steve Yzerman as the all-time leader in points for the World Championships . At the end of the 2008-09 season , Heatley demanded a trade from the Senators . A deal was in place to send Heatley to the Edmonton Oilers on June 30 , but Heatley refused to waive his no-trade clause . On September 12 , he was dealt to the San Jose Sharks in return for Milan Michalek , Jonathan Cheechoo and a second-round draft pick in 2010 . After playing two seasons in San Jose , he was traded to the Minnesota Wild in exchange for forward Martin Havlát , his former teammate with Ottawa .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists Mike Danton, a former professional hockey player who was convicted of conspiracy to commit murder and served 7½ years in prison, released after five years. The text describes Daniel Heatley, a German-born Canadian former professional ice hockey winger, who was involved in a car crash that killed his teammate and close friend Dan Snyder but was not convicted of any crime.

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Indian Idol" and create a summary.
+
+Name | Hometown | Elimination | Notes
+Shubhadeep Das | Kolkata | Eliminated 5th | 
+
+Text
+Kolkata ( /kɒlˈkʌtə/ , Bengali : [ kolkata ] ( listen ) , also known as Calcutta /kælˈkʌtə/ , the official name until 2001 ) is the cultural capital of India and the capital of the Indian state of West Bengal . According to the 2011 Indian census , it is the seventh most populous city ; the city had a population of 4.5 million , while the suburb population brought the total to 14.1 million , making it the third-most populous metropolitan area in India . Kolkata Megalopolis is the area surrounding Kolkata Metropolitan city with additional population . Located on the east bank of the Hooghly River approximately 80 kilometres ( 50 mi ) west of the border with Bangladesh , it is the principal commercial , cultural , and educational centre of East India , while the Port of Kolkata is India 's oldest operating port and its sole major riverine port . The city , nicknamed the City of Joy is widely regarded as the cultural capital of India and as of 2019 , six Nobel Laureates have been associated with the city . Recent estimates of Kolkata Metropolitan Area 's economy have ranged from $ 60 to $ 150 billion ( GDP adjusted for purchasing power parity ) making it third most-productive metropolitan area in India , after Mumbai and Delhi . In the late 17th century , the three villages that predated Calcutta were ruled by the Nawab of Bengal under Mughal suzerainty . After the Nawab granted the East India Company a trading licence in 1690 , the area was developed by the Company into an increasingly fortified trading post . Nawab Siraj ud-Daulah occupied Calcutta in 1756 , and the East India Company retook it the following year . In 1793 the East India company was strong enough to abolish Nizamat ( local rule ) , and assumed full sovereignty of the region . Under the company rule , and later under the British Raj , Calcutta served as the capital of British-held territories in India until 1911 , when its perceived geographical disadvantages , combined with growing nationalism in Bengal , led to a shift of the capital to New Delhi . Calcutta was the centre for the Indian independence movement ; it remains a hotbed of contemporary state politics .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table provides information about an Indian Idol contestant named Shubhadeep Das from Kolkata who was eliminated in the fifth round. Kolkata, formerly known as Calcutta, is the capital of West Bengal, the seventh most populous city, and the cultural capital of India. It is a major commercial, cultural, and educational centre with a GDP of $ 60 to $ 150 billion. Kolkata has a rich history, was the centre of Indian independence movement, and is currently a hub of

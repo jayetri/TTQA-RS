@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Venues of the 2003 Pan American Games" and create a summary.
+
+Venue | Sports | Capacity
+Hockey Field - East Park | Field hockey | 2,000
+
+Text
+The field hockey tournament at the 2003 Pan American Games was held in the Santo Domingo Stadium , Santo Domingo , Dominican Republic from August 1-17 , 2003 . It served as a qualification tournament for the 2004 Summer Olympics in Athens , Greece . First place received a ticket for the Olympic tournament . The men competed for the tenth time at the Pan Americans , the women for the fifth time .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows that the Hockey Field - East Park hosted the field hockey event of the 2003 Pan American Games and had a capacity of 2,000. However, the text clarifies that the actual venue for the field hockey tournament was the Santo Domingo Stadium in Santo Domingo, Dominican Republic, where the tournament took place from August 1-17, 2003.

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Living National Treasures of Japan (performing arts)" and create a summary.
+
+Name | Born | Category | Subcategory | Year Designated
+Hōzan Yamamoto II ( 二代目山本邦山 ) | 1937 | Music | Shakuhachi | 2002
+
+Text
+Hōzan Yamamoto ( 山本 邦山 , Yamamoto Hōzan ; October 6 , 1937 - February 10 , 2014 in Ōtsu , Shiga prefecture ) was a Japanese shakuhachi player , composer and lecturer . Yamamoto started playing the Japanese bamboo flute shakuhachi from the age of nine . He was initially taught by his father and then by Chozan Nakanishi . After graduating from Kyoto Junior College of Foreign Studies in 1958 , he participated in UNESCO 's World Folk music Festival and graduated from Seiha Music College in 1962 . Together with kotoplayer Shinichi Yuize and Tony Scott he recorded the album Music for Zen Meditation in February 1964 . After formation with Reibo Aoki and Katsuya Yokoyama of the widely acclaimed Shakuhachi Sanbon Kai trio in 1966 , he electrified the conservative traditional scene by applying his talents to a variety of crossover collaborations . These have led him to work with such world-renowned musicians as Ravi Shankar , Helen Merrill , Gary Peacock and Karl Berger , but also with flute colleagues Jean-Pierre Rampal and Chris Hinze . In 1980 he was invited to the renowned Donaueschingen music festival with his trio . He recorded the music to the Samurai Reincarnation film and the album Masters of Zen : Shakuhachi & Organ ( together with Wolfgang Mitterer at the organ ) which he composed for his instrument . Through the 1970s and 1980s to the present he has led the shakuhachi world receiving innumerable honors , including Japanese Ministry of Cultural Affairs and Education Ministerial awards for his performances , recordings ( numbering in the hundreds ) and compositions . He served as lecturer at the Tokyo National University of Fine Arts and Music and as head of the Hozan-kai Shakuhachi Guild . In 2002 he became designated Living National Treasure of Japan .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Hōzan Yamamoto II, born in 1937, was a renowned Japanese shakuhachi player who was designated a Living National Treasure of Japan in 2002 for his exceptional skills in playing the traditional Japanese bamboo flute shakuhachi. Throughout his career, Yamamoto was recognized with numerous honors for his performances, recordings, and compositions, including awards from the Japanese Ministry of Cultural Affairs. He worked with distinguished musicians from across the globe, collaborated on various crossover projects, and served

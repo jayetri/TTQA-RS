@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "German submarine U-136 (1941)" and create a summary.
+
+Date | Name | Nationality | Tonnage | Fate
+28 April 1942 | Arundo | Netherlands | 5,163 | Sunk
+
+Text
+The Netherlands ( Dutch : Nederland , [ ˈneːdərlɑnt ] ( listen ) ) , informally Holland , is a country in Northwestern Europe with some overseas territories in the Caribbean . In Europe , it consists of 12 provinces that border Germany to the east , Belgium to the south , and the North Sea to the northwest , with maritime borders in the North Sea with those countries and the United Kingdom . Together with the Caribbean Netherlands - Bonaire , Sint Eustatius and Saba - it forms a constituent country of the Kingdom of the Netherlands . The official language is Dutch and a secondary official language in the province of Friesland is West Frisian . In the north and east of the country , Low Saxon is also spoken , and in the southeast , Limburgish . In the Caribbean Netherlands English and Papiamento are recognised languages . The five largest cities in the Netherlands are Amsterdam , Rotterdam , The Hague , Utrecht and Eindhoven . Amsterdam is the country 's most populous city and nominal capital , while The Hague holds the seat of the States General , Cabinet and Supreme Court . The Port of Rotterdam is the busiest seaport in Europe , and the busiest in any country outside Asia . Amsterdam Airport Schiphol is the busiest airport in the Netherlands , and the third busiest in Europe . The country is a founding member of the EU , Eurozone , G10 , NATO , OECD and WTO , as well as a part of the Schengen Area and the trilateral Benelux Union . It hosts several intergovernmental organisations and international courts , many of which are centered in The Hague , which is consequently dubbed 'the world 's legal capital ' .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows that the German submarine U-136 sank the Netherlands ship Arundo on April 28, 1942. The text does not provide any relevant information related to the table, but instead provides an overview of the country of the Netherlands, including its geography, language, cities, and international relations.

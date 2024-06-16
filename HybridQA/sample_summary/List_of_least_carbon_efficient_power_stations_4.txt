@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of least carbon efficient power stations" and create a summary.
+
+Power Station , Location | Country | 2013 emissions ( Mt CO 2 )
+Boxberg Power Station , Boxberg , Saxony | Germany | 21.89
+
+Text
+Jänschwalde Power Station is located near the village of Jänschwalde in Brandenburg on the German-Polish border . The lignite-fired power station has an installed capacity of 3,000 megawatts and consists of six 500 MW units . It is the third-largest brown coal power plant in operation in Germany and is currently owned by EPH , who took over its ownership from Vattenfall in 2016 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The given table and text describe a list of least carbon-efficient power stations. The table displays the Boxberg Power Station in Germany with 2013 emissions of 21.89 Mt CO2. The text provides information about the Jänschwalde Power Station, located on the German-Polish border, with an installed capacity of 3,000 megawatts and six 500 MW units. It is the third-largest brown coal power plant in Germany and is owned by EPH

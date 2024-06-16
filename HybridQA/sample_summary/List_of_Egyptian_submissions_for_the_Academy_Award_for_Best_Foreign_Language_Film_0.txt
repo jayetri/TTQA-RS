@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Egyptian submissions for the Academy Award for Best International Feature Film" and create a summary.
+
+Year ( Ceremony ) | Film title used in nomination | Original title | Director | Result
+1958 ( 31st ) | Cairo Station | باب الحديد | Youssef Chahine | Not Nominated
+
+Text
+Youssef Chahine ( Arabic : يوسف شاهين ; 25 January 1926 - 27 July 2008 ) was an Egyptian film director . He was active in the Egyptian film industry from 1950 until his death . A winner of the Cannes 50th Anniversary Award ( for lifetime achievement ) , Chahine was credited with launching the career of actor Omar Sharif . A well regarded director with critics , he was often present at film festivals during the earlier decades of his work , Chahine gained his largest international audiences as one of the co-directors of 11'901 September 11 ( 2002 ) .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the first Egyptian submission for the Academy Award for Best International Feature Film, "Cairo Station" (original title: باب الحديد) directed by Youssef Chahine, which was not nominated for the 31st Academy Awards in 1958. Youssef Chahine was an Egyptian film director who was active from 1950 until his death in 2008 and was credited with launching the career of actor Omar Sharif. He received the Cannes 50

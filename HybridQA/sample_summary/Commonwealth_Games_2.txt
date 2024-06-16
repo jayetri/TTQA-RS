@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Commonwealth Games" and create a summary.
+
+Sport | Type | Years
+Powerlifting | Core | 2002-present
+
+Text
+Rugby sevens has been played at every Commonwealth Games since its first appearance at the 1998 edition held in Kuala Lumpur , Malaysia . Rugby sevens was an optional sport that was included for 2002 and 2006 ; it was then made a 'Core ' sport by the Commonwealth Games Federation , necessitating its appearance at all future games from the 2010 Games onward . New Zealand dominated the men 's tournament at its inception until 2014 when they lost for the first time at the Games , playing South Africa in the gold medal match . Until the 2014 Games , rugby sevens was a male-only sport at the Commonwealth Games , but a female tournament was added to the programme for the 2018 Commonwealth Games in Australia .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The given table provides information about the years the sport "Powerlifting" has been played at the Commonwealth Games. The text discusses Rugby Sevens, explaining that it has been played since 1998, became a "Core" sport in 2010, and a female tournament was added in 2018.

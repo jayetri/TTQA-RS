@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "2007 NCAA Division I Baseball Tournament" and create a summary.
+
+Conference | School | Record | Berth Type
+Big East | Rutgers | 38-19 | Tournament Champion
+
+Text
+The Charlotte 49ers baseball team is a varsity intercollegiate athletic team of the University of North Carolina at Charlotte in Charlotte , North Carolina , United States . The team is a member of Conference USA , which is part of the National Collegiate Athletic Association 's Division I. Charlotte 's first baseball team was fielded in 1979 . The team plays its home games at Robert and Mariam Hayes Stadium in Charlotte , North Carolina . The 49ers are coached by Robert Woodard .
+The Atlantic 10 Conference ( A-10 ) is a collegiate athletic conference whose schools compete in the National Collegiate Athletic Association 's ( NCAA ) Division I . The A-10 's member schools are located in states mostly on the United States Eastern Seaboard , as well as some in the Midwest - Massachusetts , New York , North Carolina , Pennsylvania , Rhode Island , Virginia , Ohio , and Missouri as well as in the District of Columbia . Although some of its members are state-funded , half of its membership is made up of private , Catholic institutions . Despite the name , there are 14 full-time members , and two affiliate members that participate in women 's field hockey only . The current commissioner is Bernadette McGlade , who began her tenure in 2008 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table provides information about Rutgers University, which has a record of 38-19 and was the tournament champion of the Big East conference in the 2007 NCAA Division I Baseball Tournament. The provided text is about the Charlotte 49ers baseball team and the Atlantic 10 Conference (A-10). The Charlotte 49ers baseball team is part of Conference USA and plays home games at Robert and Mariam Hayes Stadium. The Atlantic 10 Conference consists of 14 full-time members and

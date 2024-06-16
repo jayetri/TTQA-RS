@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of baronies in the Peerage of Great Britain" and create a summary.
+
+Title | Date of Creation | Surname | Current Status | Notes
+Baron Foley | 1 January 1712 | Foley | Extinct 1766 | 
+
+Text
+Baron Foley is a title that has been created twice in the Peerage of Great Britain , both times for members of the same family . The first creation came in 1712 in favour of Thomas Foley , who had earlier represented Stafford in the House of Commons . He was the grandson of the prominent ironmaster Thomas Foley and the nephew of Paul Foley , Speaker of the House of Commons , and Philip Foley . However , this creation became extinct in 1766 on the death of his son , the second Baron . The second creation came in 1776 when the barony was revived for Thomas Foley , the cousin , heir and namesake of the last holder of the 1712 creation , who was created Baron Foley , of Kidderminster in Worcestershire . He was a former Member of Parliament for Droitwich and Herefordshire . He was succeeded by his son , the second Baron . He also represented Droitwich and Herefordshire in Parliament and served as Postmaster General . On his death the title passed to his son , the third Baron . He notably held office as Captain of the Honourable Corps of Gentlemen-at-Arms ( Government Chief Whip in the House of Lords ) in the Whig administration of Lord Grey . He was succeeded by his son , the fourth Baron . He was also a Whig politician and succeeded his father as Captain of the Honourable Corps of Gentlemen-at-Arms in 1833 , a post he held until 1834 , and again from 1835 to 1841 , from 1846 to 1852 , from 1852 to 1858 , from 1859 to 1866 and from 1868 to 1869 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Baron Foley title was created twice in the Peerage of Great Britain. The first creation was in 1712, which became extinct in 1766. The second creation was in 1776 for Thomas Foley, who was a former Member of Parliament. The title has been passed down through several generations, with the holders of the title serving in various political positions such as Postmaster General and Captain of the Honourable Corps of Gentlemen-at-Arms. The most recent holder of the title

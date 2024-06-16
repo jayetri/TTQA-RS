@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "American Champion Two-Year-Old Male Horse" and create a summary.
+
+Year | Horse | Trainer | Owner
+1963 | Raise a Native ( TSD ) | Burley Parke | Louis Wolfson
+
+Text
+Louis Elwood Wolfson ( January 28 , 1912 - December 30 , 2007 ) was a Wall Street financier and one of the first modern corporate raiders , labeled by Time as such in a 1956 article . Louis Wolfson became a self-made millionaire before he was 29 years old . He significantly contributed to the wealth of U.S. and global financial markets by creating the modern hostile tender offer , which laid the technical framework to the LBO . In later years he was a major thoroughbred horse racing participant best known as the owner and breeder of 1978 American Triple Crown winner , Affirmed . In 1967 , he was convicted of selling unregistered shares and obstruction of justice for which he served nine months in a federal prison . The conviction eventually led to the 1969 resignation of Supreme Court Justice Abe Fortas , who first returned a $ 20,000 retainer to a Wolfson foundation .
+Louis Elwood Wolfson ( January 28 , 1912 - December 30 , 2007 ) was a Wall Street financier and one of the first modern corporate raiders , labeled by Time as such in a 1956 article . Louis Wolfson became a self-made millionaire before he was 29 years old . He significantly contributed to the wealth of U.S. and global financial markets by creating the modern hostile tender offer , which laid the technical framework to the LBO . In later years he was a major thoroughbred horse racing participant best known as the owner and breeder of 1978 American Triple Crown winner , Affirmed . In 1967 , he was convicted of selling unregistered shares and obstruction of justice for which he served nine months in a federal prison . The conviction eventually led to the 1969 resignation of Supreme Court Justice Abe Fortas , who first returned a $ 20,000 retainer to a Wolfson foundation .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the American Champion Two-Year-Old Male Horse, Raise a Native (TSD), for the year 1963.  The horse was trained by Burley Parke and owned by Louis Wolfson. Wolfson was a self-made millionaire, a Wall Street financier, and a corporate raider.  He was a major thoroughbred horse racing participant and bred Affirmed, the 1978 American Triple Crown winner. Wolfson was convicted of selling unregistered shares and obstruction of

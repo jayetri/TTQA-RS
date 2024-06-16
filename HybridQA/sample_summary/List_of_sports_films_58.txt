@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of sports films" and create a summary.
+
+Title | Year | Genre | Notes
+Second Serve | 1986 | Biographical | A television film with Vanessa Redgrave as transgender tennis pro Renée Richards
+
+Text
+Second Serve is a 1986 American made-for-television biographical film starring Vanessa Redgrave as retired eye surgeon , professional tennis player , and transgender woman Renée Richards . The film is based on her 1983 autobiography Second Serve : The Renée Richards Story that was written with John Ames . The script is by Stephanie Liss and Gavin Lambert and the film was directed by Anthony Page . Second Serve aired on CBS on May 13 , 1986 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The film "Second Serve" is a biographical film released in 1986. It is based on the autobiography of Renée Richards, a transgender woman who was an eye surgeon and a professional tennis player. The film stars Vanessa Redgrave and was directed by Anthony Page. It aired on CBS on May 13, 1986.

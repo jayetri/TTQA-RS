@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Javelin throw" and create a summary.
+
+Rank | Mark | Athlete | Date | Place
+7 | 92.60 m ( 303 ft 9 ⁄ 2 in ) | Raymond Hecht ( GER ) | 21 July 1995 | Oslo
+
+Text
+Raymond Hecht ( born 11 November 1968 ) is a German track and field athlete who competed in the javelin throw . His personal best throw is 92.60 m , achieved in 1995 . This places him seventh on the all-time rankings . During his career , Hecht set five German records . His best result in international competition was a bronze medal at the 1998 European Championships . At a club level , he represented SC Magdeburg in former East Germany . In 2015 , he won the M45 division of the World Masters Championships , representing France .
+Raymond Hecht ( born 11 November 1968 ) is a German track and field athlete who competed in the javelin throw . His personal best throw is 92.60 m , achieved in 1995 . This places him seventh on the all-time rankings . During his career , Hecht set five German records . His best result in international competition was a bronze medal at the 1998 European Championships . At a club level , he represented SC Magdeburg in former East Germany . In 2015 , he won the M45 division of the World Masters Championships , representing France .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Raymond Hecht, a German track and field athlete, holds the 7th all-time ranking in javelin throw with a personal best of 92.60m achieved on July 21, 1995, in Oslo. He set five German records and won a bronze medal at the 1998 European Championships. At the club level, he represented SC Magdeburg and later won the M45 division of the World Masters Championships in 2015, representing France.

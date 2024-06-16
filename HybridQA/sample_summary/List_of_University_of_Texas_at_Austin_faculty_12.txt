@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of University of Texas at Austin faculty" and create a summary.
+
+Name | Department | Service | Notability | Alumnus
+Karen Uhlenbeck | Mathematics | 1987-2014 | Recipient of the 2019 Abel Prize ; held Sid W. Richardson Foundation Regents Chair in her time at the University of Texas at Austin ; in 2000 , won the National Medal of Science | No
+
+Text
+Karen Keskulla Uhlenbeck ( born August 24 , 1942 ) is an American mathematician and a founder of modern geometric analysis . She is a professor emeritus of mathematics at the University of Texas at Austin , where she held the Sid W. Richardson Foundation Regents Chair . She is currently a Distinguished Visiting Professor at the Institute for Advanced Study and a visiting senior research scholar at Princeton University . Uhlenbeck won the 2019 Abel Prize for her pioneering achievements in geometric partial differential equations , gauge theory , and integrable systems , and for the fundamental impact of her work on analysis , geometry and mathematical physics . She is the first woman to win the prize since its inception in 2003 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Karen Uhlenbeck is a renowned American mathematician and a professor emeritus of mathematics at the University of Texas at Austin. She served from 1987 to 2014. She won the 2019 Abel Prize for her pioneering achievements in geometric partial differential equations, gauge theory, and integrable systems. She also received the National Medal of Science in 2000 and held the Sid W. Richardson Foundation Regents Chair while at the University of Texas at Austin. She is currently a D

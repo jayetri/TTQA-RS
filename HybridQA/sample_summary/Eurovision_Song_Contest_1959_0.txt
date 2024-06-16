@@ -1,0 +1,26 @@
+Prompt:
+
+
+Read the table and text regarding "Eurovision Song Contest 1959" and create a summary.
+
+Voting order | Country | Spokespersons | Commentator ( s ) | Broadcaster ( s )
+01 | Belgium | Bert Leysen | Nic Bal Paule Herreman | NIR , INR
+02 | United Kingdom | Pete Murray | Tom Sloan Pete Murray | BBC Television Service BBC Light Programme
+03 | Austria | Karl Bruck | Elena Gerhard | ORF
+04 | Switzerland | Boris Acquadro | Theodor Haller | TV DRS , TSR
+05 | Sweden | Roland Eiworth | Jan Gabrielsson | Sveriges Radio-TV , SR P1
+06 | Germany | Hans-Joachim Rauschenbach | Elena Gerhard | Deutsches Fernsehen
+07 | Netherlands | Siebe van der Zee | Piet te Nuyl | NTS
+08 | Monaco | TBC | Claude Darget | Télé Monte Carlo
+09 | Italy | Enzo Tortora | Renato Tagliani | Programma Nazionale
+10 | Denmark | Svend Pedersen | Sejr Volmer-Sørensen | DR TV
+11 | France | Marianne Lecène | Claude Darget | RTF
+- | Luxembourg ( non-participating country ) | - | Claude Darget | Télé-Luxembourg
+
+Text
+France was represented by Jean Philippe , with the song 'Oui , oui , oui , oui , at the 1959 Eurovision Song Contest , which took place on 11 March in Cannes following André Claveau 's victory for France the previous year . It is known that broadcaster RTF held a national final to choose the entry , possibly in late 1958 , but no further details are currently available .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the order and details of the voting countries in the Eurovision Song Contest 1959. France was represented by Jean Philippe with the song 'Oui, oui, oui, oui' at the contest, which took place on 11 March in Cannes after France's victory in the previous year. The country's broadcaster, RTF, held a national final to choose the entry in late 1958.

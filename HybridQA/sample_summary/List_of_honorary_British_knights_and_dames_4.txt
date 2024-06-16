@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "List of honorary British knights and dames" and create a summary.
+
+Name | Nationality | Honour | Year | Category | notes
+Hermann Hauser | Austria | KBE | 2015 | Business | 
+
+Text
+Austria ( /ˈɒstriə/ ( listen ) , /ˈɔːs-/ ; German : Österreich [ ˈøːstɐʁaɪ̯ç ] ( listen ) ) , officially the Republic of Austria ( German : Republik Österreich , listen ( help·info ) ) , is a landlocked East Alpine country in the southern part of Central Europe . It is composed of nine federated states ( Bundesländer ) , one of which is Vienna , Austria 's capital and its largest city . It is bordered by Germany to the northwest , Czech Republic to the north , Slovakia to the northeast , Hungary to the east , Slovenia and Italy to the south , and Switzerland and Liechtenstein to the west . Austria occupies an area of 83,879 km2 ( 32,386 sq mi ) and has a population of nearly 9 million people . While German is the country 's official language , many Austrians communicate informally in a variety of Bavarian dialects . Austria initially emerged as a margraviate around 976 and developed into a duchy and archduchy . In the 16th century , Austria started serving as the heart of the Habsburg Monarchy and the junior branch of the House of Habsburg - one of the most influential royal dynasties in history . As an archduchy , it was a major component and administrative centre of the Holy Roman Empire . Early in the 19th century , Austria established its own empire , which became a great power and the leading force of the German Confederation but pursued its own course independently of the other German states . Following the Austro-Prussian War and the compromise with Hungary , the Dual Monarchy was established . Austria was involved in World War I under Emperor Franz Joseph following the assassination of Archduke Ferdinand , the presumptive successor to the Austro-Hungarian throne . After the defeat and the dissolution of the Monarchy , the Republic of German-Austria was proclaimed with the intent of the union with Germany , which eventually failed because of the Allied Powers and the state remained unrecognized .
+Hermann Maria Hauser , KBE , FRS , FREng , FInstP , CPhys ( born 1948 ) is an Austrian-born entrepreneur who is primarily associated with the Cambridge technology community in England .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Hermann Hauser, an Austrian-born entrepreneur, was granted an honorary British knighthood (KBE) in 2015 for his contribution to the business category. The text provides information about Austria, a landlocked country in Central Europe, and Hermann Hauser, who is linked to the Cambridge technology community in England.

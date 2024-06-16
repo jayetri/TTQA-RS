@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of triathletes" and create a summary.
+
+Name | Country | Olympics
+Emma Moffatt | Australia | 2008 ( DNF ) 2012
+
+Text
+Emma Moffatt ( born 7 September 1984 ) is an Australian professional triathlete . She won a bronze medal at the 2008 Summer Olympics in Beijing , and won the gold at the ITU Triathlon World Championships in 2009 and in 2010 . She was born in Moree , New South Wales , and was raised in the northern New South Wales town of Woolgoolga . From a young age , she participated in such sports as cross country , athletics , and surf lifesaving . In her early teens , Emma began successfully participating in triathlon . Each of her three siblings and parents also competed in triathlon , while her elder sister Nicole was a champion Ironwoman in surf lifesaving . She is an Australian Institute of Sport scholarship holder . She has been named Triathlon Australia 's athlete of the year twice , in 2007 and 2012 . In 2009 , she was the Australian Institute of Sport 's athlete of the year . Moffatt was selected by the Australian Olympic Committee to compete in the London 2012 Olympics . The event was held in and around Hyde Park , with the swim being held in the Serpentine . However , she did not finish the event after a heavy fall during the cycling stage .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Emma Moffatt is an Australian professional triathlete born on 7 September 1984. She won bronze in the 2008 Summer Olympics in Beijing despite being listed as DNF (did not finish) in the table, as well as back-to-back gold medals at the ITU Triathlon World Championships in 2009 and 2010. Raised in Woolgoolga, NSW, she was active in multiple sports from a young age, with a family background in triathlon. A

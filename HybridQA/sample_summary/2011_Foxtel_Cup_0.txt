@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "2011 Foxtel Cup" and create a summary.
+
+Club | Nickname | Location | Qualified as
+Greater Western Sydney Giants | Giants | Blacktown , NSW | Australian Football League Expansion club
+
+Text
+The Morningside Australian Football Club , also known as the Morningside Panthers , is an Australian rules football club based at Jack Esplen Oval in the suburb of Hawthorne in Brisbane . The club consists of Masters , Amateurs , Women 's , Junior and Senior football sections . Its senior team competed in the North East Australian Football League ( NEAFL ) competition in 2011-14 and now is a member club of the Queensland Australian Football League . Its junior sides compete in the AFL Brisbane Juniors ( AFLBJ ) competition . The club also caters for young girls and boys by running Auskick skills clinics , which are held at the beginning of the season and do not involve competitive games . Morningside Football Club has operated successfully as a football club in Brisbane for over 50 years and is one of the most widely recognised Queensland based AFL clubs within Australia . It developed from the Hawthorne Juniors club which was founded in 1931 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the 2011 Foxtel Cup participant, the Greater Western Sydney Giants, which is an Australian Football League Expansion club located in Blacktown, NSW. The text discusses the Morningside Australian Football Club, a Brisbane-based club with various sections, including Masters, Amateurs, Women's, Junior, and Senior teams, which have competed in different leagues and competitions, including the North East Australian Football League (NEAFL) and Queensland Australian Football League.

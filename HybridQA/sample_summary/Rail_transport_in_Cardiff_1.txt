@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Rail transport in Cardiff" and create a summary.
+
+Destination | Time from Central | Operator
+Aberdare | 63 mins | Transport for Wales
+
+Text
+Aberdare ( /ˌæbərˈdɛər/ ab-ər-DAIR ; Welsh : Aberdâr ) is a town in the Cynon Valley area of Rhondda Cynon Taf , Wales , at the confluence of the Rivers Dare ( Dâr ) and Cynon . Aberdare has a population of 14,462 ( mid-2017 estimate ) . Aberdare is 4 miles ( 6 km ) south-west of Merthyr Tydfil , 20 miles ( 32 km ) north-west of Cardiff and 22 miles ( 35 km ) east-north-east of Swansea . During the 19th century it became a thriving industrial settlement , which was also notable for the vitality of its cultural life and as an important publishing centre .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table and text describe Aberdare, a town in Wales. The table provides the travel time from Cardiff Central to Aberdare, which is 63 minutes by Transport for Wales. The text provides additional information about Aberdare, including its location, population, and history as an industrial and cultural hub.

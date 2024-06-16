@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "2009 Faroe Islands Premier League" and create a summary.
+
+Team | City | Stadium | Capacity | Manager
+ÍF | Fuglafjørður | í Fløtugerði | 3,000 | Jón Simonsen
+
+Text
+Ítróttarfelag Fuglafjarðar , abbreviated to ÍF , is a Faroese football club based in Fuglafjørður . They play their home games at Í Fløtugerði . The 1979 Faroe Islands Premier League title is ÍF 's sole to date . It has also won the 1. deild ( 2nd tier ) 4 times .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Ítróttarfelag Fuglafjarðar (ÍF) is a Faroese football club based in Fuglafjørður, playing at Í Fløtugerði stadium with a capacity of 3,000, managed by Jón Simonsen. The club has won a single Premier League title in 1979 and four 1. deild (2nd tier) titles.

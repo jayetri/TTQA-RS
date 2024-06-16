@@ -1,0 +1,20 @@
+Prompt:
+
+
+Read the table and text regarding "Asian Club Championship and AFC Champions League records and statistics" and create a summary.
+
+City | Winners | Runners-up | Winning clubs | Runners-up
+Bangkok | 2 | Runners-up                        1
+Runners-up    BEC Tero Sasana ( 1 )
+Name: 0, dtype: object | Thai Farmers Bank ( 2 ) | Runners-up                        1
+Runners-up    BEC Tero Sasana ( 1 )
+Name: 0, dtype: object
+
+Text
+Police Tero Football Club ( Thai : สโมสรฟุตบอลโปลิศ เทโร ) , formerly known as BEC Tero Sasana , is a Thai professional football club based in Bangkok . The club finished runners-up in the inaugural AFC Champions League competition in 2003 . BEC Tero Sasana merged with Police United in the 2017 season and changed its official name to Police Tero Football Club in the 2018 season .
+Bangkok [ a ] is the capital and most populous city of Thailand . It is known in Thai as Krung Thep Maha Nakhon [ b ] or simply Krung Thep . [ c ] The city occupies 1,568.7 square kilometres ( 605.7 sq mi ) in the Chao Phraya River delta in central Thailand and has a population of over eight million , 12.6 percent of the country 's population . Over fourteen million people ( 22.2 percent ) lived within the surrounding Bangkok Metropolitan Region at the 2010 census , making Bangkok the nation 's primate city , dwarfing Thailand 's other urban centres in both size and importance to the national economy . Bangkok traces its roots to a small trading post during the Ayutthaya Kingdom in the 15th century , which eventually grew and became the site of two capital cities : Thonburi in 1768 and Rattanakosin in 1782 . Bangkok was at the heart of the modernization of Siam , later renamed Thailand , during the late-19th century , as the country faced pressures from the West . The city was at the centre of Thailand 's political struggles throughout the 20th century , as the country abolished absolute monarchy , adopted constitutional rule , and underwent numerous coups and several uprisings . The city grew rapidly during the 1960s through the 1980s and now exerts a significant impact on Thailand 's politics , economy , education , media and modern society . [ citation needed ] The Asian investment boom in the 1980s and 1990s led many multinational corporations to locate their regional headquarters in Bangkok . The city is now a regional force in finance and business . It is an international hub for transport and health care , and has emerged as a centre for the arts , fashion , and entertainment . The city is known for its street life and cultural landmarks , as well as its red-light districts .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the city Bangkok has 2 winners and 1 runners-up in the Asian Club Championship and AFC Champions League. The runners-up team is BEC Tero Sasana. BEC Tero Sasana merged with Police United in the 2017 season and changed its official name to Police Tero Football Club in the 2018 season. The text provides general information about Bangkok, its history, population, and impact on Thailand's politics, economy, and modern society.

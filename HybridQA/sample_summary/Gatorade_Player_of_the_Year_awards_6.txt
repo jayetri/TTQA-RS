@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Gatorade Player of the Year awards" and create a summary.
+
+Year | Winner | Hometown | College
+2012 | Molly Seidel | Hartland , WI | Notre Dame
+
+Text
+Hartland is a village in Waukesha County , Wisconsin , along the Bark River , and is a suburb of Milwaukee . The population was 9,110 at the 2010 census .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays information about the 2012 Gatorade Player of the Year award, which was won by Molly Seidel from Hartland, Wisconsin. Hartland is a village in Wisconsin with a population of 9,110 as of 2010. Molly attended Notre Dame college.

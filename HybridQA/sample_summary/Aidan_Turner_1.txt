@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Aidan Turner" and create a summary.
+
+Year | Title | Role | Notes
+2015 | And Then There Were None | Philip Lombard | TV mini series
+
+Text
+And Then There Were None is a 2015 mystery thriller television serial that was first broadcast on BBC One from 26 to 28 December 2015 . The three-part programme was adapted by Sarah Phelps and directed by Craig Viveiros and is based on Agatha Christie 's novel of the same name . The series features an ensemble cast , including Douglas Booth , Charles Dance , Maeve Dermody , Burn Gorman , Anna Maxwell Martin , Sam Neill , Miranda Richardson , Toby Stephens , Noah Taylor and Aidan Turner . The programme follows a group of strangers who are invited to a secluded island where they are murdered one by one for their past crimes . The serial , debuting to 6 million viewers , received critical acclaim with many praising the writing , performances , and cinematography . It also scored high ratings .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows Aidan Turner's appearance in the 2015 TV mini-series "And Then There Were None" as Philip Lombard. The text explains that "And Then There Were None" is a BBC One three-part mystery thriller based on Agatha Christie's novel. It features an ensemble cast, including Aidan Turner, and follows a group of strangers being murdered on a secluded island for their past crimes. The show received critical acclaim and high ratings.

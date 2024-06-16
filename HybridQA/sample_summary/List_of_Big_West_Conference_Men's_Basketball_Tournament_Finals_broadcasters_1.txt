@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Big West Conference Men's Basketball Tournament" and create a summary.
+
+Year | Winner | Score | Opponent | MVP | Venue
+1992 | New Mexico State | 74-73 | Pacific | Sam Crawford , New Mexico State | Long Beach Arena ( Long Beach , California )
+
+Text
+The 1992 Big West Conference Men 's Basketball Tournament was held March 13-15 at the Long Beach Arena in Long Beach , California . New Mexico State defeated Pacific in the final , 74-73 , capturing their first Big West title . Three-time defending champions UNLV did not participate in this year 's tournament due to NCAA sanctions . The Aggies subsequently received an automatic bid to the 1992 NCAA Tournament .
+Sam Crawford ( born April 18 , 1970 ) is an American former professional basketball player . An agile and diminutive point guard at 5 ft 8 in tall , he attended Moorpark community college for two years before transferring to a Division I program , New Mexico State . In 1992-93 he led the NCAA in assists with a 9.1 average , was awarded the Frances Pomeroy Naismith Award for the best college player under 6 ft and was an AP Honorable Mention . He is the all-time assists leader at New Mexico State with 592 . After his senior year of college he went undrafted in the 1993 NBA Draft and had a short professional career in the CBA . He also appeared in two movies : Blue Chips and Forget Paris .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 1992 Big West Conference Men's Basketball Tournament took place from March 13 to 15, 1992, at the Long Beach Arena in Long Beach, California. New Mexico State won their first Big West title by defeating Pacific with a score of 74-73. The tournament's Most Valuable Player was Sam Crawford from New Mexico State. With this win, New Mexico State secured an automatic bid to the 1992 NCAA Tournament. Sam Crawford, the point guard, led

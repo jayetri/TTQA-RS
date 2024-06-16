@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Italian films of 1980" and create a summary.
+
+Title | Director | Cast | Genre
+Day of the Cobra | Enzo G. Castellari | Franco Nero , Sybil Danning | Crime
+
+Text
+Enzo Girolami Castellari ( born 29 July 1938 ) is an Italian director , screenwriter and actor .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows a list of one Italian film from 1980, which is "Day of the Cobra", directed by Enzo G. Castellari, starring Franco Nero and Sybil Danning, and belonging to the crime genre. The text provides information about Enzo G. Castellari, a renowned Italian director, screenwriter, and actor born on 29 July 1938.

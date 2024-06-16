@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "List of Argentine films of 2001" and create a summary.
+
+Title | Director | Actors | Genre | Comments
+Animalada | Sergio Bizzio | Carlos Roffé | Black comedy | A wealthy man falls in love with a sheep
+
+Text
+Animalada ( English : Animal ) is a 2001 Argentine black comedy film directed and written by Sergio Bizzio .
+Animalada ( English : Animal ) is a 2001 Argentine black comedy film directed and written by Sergio Bizzio .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Animalada is a 2001 Argentine black comedy film directed and written by Sergio Bizzio, starring Carlos Roffé, in which a wealthy man falls in love with a sheep.

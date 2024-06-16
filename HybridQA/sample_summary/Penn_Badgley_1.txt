@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Penn Badgley" and create a summary.
+
+Year | Title | Role | Notes
+2015 | The Slap | Jamie | 2 episodes
+
+Text
+The Slap is an American family drama television miniseries , which aired on NBC from February 12 to April 2 , 2015 . It is an adaptation of the Australian series The Slap , which in turn was based on Christos Tsiolkas 's novel The Slap . Each of the show 's eight installments told the story of the aftermath of a birthday party from the perspective of a different character . Jon Robin Baitz wrote the teleplay for the series and Lisa Cholodenko directed the pilot episode .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the actor Penn Badgley's role as Jamie in the TV miniseries "The Slap" in 2015, which aired on NBC for two months, with each episode focusing on a different character's perspective following a birthday party incident.

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "SJPF Segunda Liga Player of the Month" and create a summary.
+
+Month | Year | Nationality | Player | Team | Position
+January | 2009.1 2009 | Brazil | Cássio Vargas | União de Leiria | FW
+
+Text
+Carlos Alexandre de Souza Silva ( born 1 August 1986 ) , commonly known as Carlão , is a Brazilian professional footballer who plays as a striker .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows that Cássio Vargas, a Brazilian footballer, was the SJPF Segunda Liga Player of the Month for January 2009. The text describes Carlos Alexandre de Souza Silva, also known as Carlão, a Brazilian striker born on August 1, 1986.

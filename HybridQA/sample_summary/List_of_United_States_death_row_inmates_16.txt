@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "List of death row inmates in the United States" and create a summary.
+
+Name | Description of crime | Time on death row
+Anthony Kirkland | Between 2006 and 2009 , Kirkland strangled , raped , and burned the bodies of four females | 9 years , 312 days
+
+Text
+Donna Marie Roberts ( born May 22 , 1944 ) , an American convicted of being an accomplice to murder , is the only woman on death row in the State of Ohio .
+Donna Marie Roberts ( born May 22 , 1944 ) , an American convicted of being an accomplice to murder , is the only woman on death row in the State of Ohio .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists one death row inmate, Anthony Kirkland, who was involved in the murder of four females between 2006 and 2009. The text mentions Donna Marie Roberts, the only woman on death row in Ohio, convicted of being an accomplice to murder, but no table information is provided for her.

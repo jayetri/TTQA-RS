@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Asian Cricket Council" and create a summary.
+
+No | Country | Association | ICC Membership Status | ICC Membership | ACC Membership
+13 | Saudi Arabia | Saudi Cricket Centre | Associate | 2003 | 2003
+
+Text
+The Saudi Arabia national cricket team is the team that represents the country of Saudi Arabia in international cricket . The team is organised by the Saudi Cricket Centre , which became an affiliate member of the International Cricket Council ( ICC ) in 2003 and associate member in 2016 . Saudi Arabia made its international debut at the 2004 ACC Trophy in Malaysia , and has since played regularly in Asian Cricket Council ( ACC ) tournaments . After finishing second in the 2014 ACC Elite League , the team qualified for the World Cricket League for the first time . Saudi Arabia was due to compete in the 2015 Division Six event , but members of the team were denied visas by the host country , forcing the team to withdraw . In April 2018 , the ICC decided to grant full Twenty20 International ( T20I ) status to all its members . Therefore , all Twenty20 matches played between Saudi Arabia and other ICC members after 1 January 2019 will be a full T20I . Saudi Arabia made its Twenty20 International debut on 20 January 2019 , losing to Bahrain by 41 runs in the 2019 ACC Western Region T20 at Al Emarat Cricket Stadium , Muscat , Oman .
+Saudi Cricket Centre is the official governing body of the sport of cricket in Saudi Arabia . Its current headquarters is in Jeddah , Saudi Arabia . It is Saudi Arabia 's representative at the International Cricket Council , and has been a member of the Council since 2003 . It is also a member of the Asian Cricket Council . Saudi Arabia became 39th Associate Member of International Cricket Council in June 2016 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Saudi Cricket Centre is the governing body of cricket in Saudi Arabia, which became an affiliate member of the ICC in 2003 and an associate member in 2016. The Saudi Arabian national cricket team made its international debut in 2004 and has played in various ACC tournaments. After granting full T20I status to its members, the team made its T20I debut in 2019. The team is a member of the Asian Cricket Council and has participated in various tournaments, including

@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of FIS Cross-Country World Cup champions" and create a summary.
+
+Season | Winner | Runner-up | Third
+2006-07 | Virpi Kuitunen | Petra Majdič | Natalya Matveyeva
+
+Text
+The 2010-11 FIS Cross-Country World Cup was a multi-race tournament over the season for cross-country skiers . It was the 30th official World Cup season in cross-country skiing for men and ladies . The season began on 20 November 2010 in Gällivare , Sweden and ended on 20 March 2011 in Falun , Sweden . The World Cup was organised by the FIS who also run world cups and championships in ski jumping , snowboarding and alpine skiing amongst others .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the winners of the 2006-07 FIS Cross-Country World Cup, with Virpi Kuitunen as the winner. The accompanying text describes the 2010-11 FIS Cross-Country World Cup, stating that it was the 30th official season and took place between November 2010 and March 2011 in Sweden.

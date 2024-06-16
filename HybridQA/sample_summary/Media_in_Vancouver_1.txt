@@ -1,0 +1,12 @@
+Prompt:
+
+
+Read the table and text regarding "Media in Vancouver" and create a summary.
+
+Frequency | Call sign | Branding | Format | Owner
+FM 90.9 | CBUX-FM | Ici Musique | Public music | Canadian Broadcasting Corporation
+
+Summarize the given table and text. 
+Summary:
+
+Summary: There is one radio station in Vancouver, CBUX-FM, which operates at a frequency of 90.9 FM. It is owned by the Canadian Broadcasting Corporation and offers a public music format under the branding "Ici Musique".

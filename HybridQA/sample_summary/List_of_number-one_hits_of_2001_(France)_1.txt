@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of number-one singles of 2001 (France)" and create a summary.
+
+Pos | Artist | Title | Sales*
+2 | Jean-Jacques Goldman | Chansons pour les pieds | 1,636,200
+
+Text
+Yannick Noah ( French pronunciation : ​ [ janik noa ] ; born 18 May 1960 ) is a former professional tennis player and singer from France . He won the French Open in 1983 , and is currently the captain of both France 's Davis Cup and Fed Cup team . During his career , which spanned almost two decades , Noah captured a total of 23 singles titles and 16 doubles titles , reaching a career-high singles ranking of world No . 3 in July 1986 and attaining the World No . 1 doubles ranking the following month . Since his retirement from the game , Noah has remained in the public eye as a popular music performer and as the co-founder , with his mother , of a charity organization for underprivileged children . Noah is also the father of NBA player Joakim Noah .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the number one single in France for 2001. The second ranked single is 'Chansons pour les pieds' by Jean-Jacques Goldman with 1,636,200 sales.

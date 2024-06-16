@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "1997 Spanish Grand Prix" and create a summary.
+
+Pos | No | Driver | Constructor | Time | Gap
+7 | 5 | Michael Schumacher | Ferrari | 1:18.313 | +1.788
+
+Text
+Williams Grand Prix Engineering Limited , currently racing in Formula One as ROKiT Williams Racing , is a British Formula One motor racing team and constructor . It was founded by team owner Sir Frank Williams and automotive engineer Sir Patrick Head . It is still run by Williams . The team was formed in 1977 after Frank Williams 's two earlier unsuccessful F1 operations : Frank Williams Racing Cars ( 1969 to 1975 ) and Wolf-Williams Racing ( 1976 ) . All of Williams F1 chassis are called FW then a number , the FW being the initials of team owner , Frank Williams . The team 's first race was the 1977 Spanish Grand Prix , where the new team ran a March chassis for Patrick Nève . Williams started manufacturing its own cars the following year , and Switzerland 's Clay Regazzoni won Williams 's first race at the 1979 British Grand Prix . At the 1997 British Grand Prix , Canadian Jacques Villeneuve scored the team 's 100th race victory , making Williams one of only four teams in Formula One , alongside Ferrari , fellow British team McLaren , and Mercedes to win 100 races . Williams won nine Constructors ' Championships between 1980 and 1997 . This stood as a record until Ferrari surpassed it in 2000 . Drivers for Williams have included Australia 's Alan Jones ; Finland 's Keke Rosberg ; Britain 's Nigel Mansell , Damon Hill and Jenson Button ; France 's Alain Prost ; Brazil 's Nelson Piquet and Ayrton Senna ; and Canada 's Jacques Villeneuve . Each of these drivers , with the exception of Senna and Button , have captured one Drivers ' title with the team .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The only relevant information from the table is that Michael Schumacher finished 7th in the 1997 Spanish Grand Prix with a time of 1:18.313. The text provides background information on Williams Grand Prix Engineering Limited, a British Formula One team founded by Sir Frank Williams and Sir Patrick Head in 1977. The team has won 9 Constructors' Championships between 1980 and 1997, and its drivers have captured multiple Drivers' titles. However, the text

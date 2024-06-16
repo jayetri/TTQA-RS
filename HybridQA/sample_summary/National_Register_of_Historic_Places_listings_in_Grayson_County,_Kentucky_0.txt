@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "National Register of Historic Places listings in Grayson County, Kentucky" and create a summary.
+
+ | Name on the Register | Date listed | Location | City or town
+1 | The Cedars | May 17 , 1976 ( # 76000889 ) | East of Leitchfield on Kentucky Route 1214 37°28′28″N 86°15′26″W / 37.474444°N 86.257222°W / 37.474444 ; -86.257222 ( The Cedars ) | Leitchfield
+
+Text
+The Cedars , on Grayson Springs Road in Grayson County , Kentucky east of Leitchfield , was built in c.1789 and 1847 . It was listed on the National Register of Historic Places in 1976 . The main block of the brick house , Greek Revival in style , was built by Benjamin Lone Rogers in 1847 . It has also been known as the Benjamin Lone Rogers House .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Cedars, a Greek Revival-style brick house, was built in approximately 1789 and 1847 in Grayson County, Kentucky. It was included in the National Register of Historic Places in 1976. The main block was built by Benjamin Lone Rogers in 1847. It is also known as the Benjamin Lone Rogers House and is located east of Leitchfield on Kentucky Route 1214 or Grayson Springs Road.

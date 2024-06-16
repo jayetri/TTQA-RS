@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Media in Waterloo Region" and create a summary.
+
+Frequency | Call sign | Branding | Format | Owner | City of license
+FM 93.7 | CJTW-FM | Faith FM 93.7 | Christian radio | Sound of Faith Broadcasting | Kitchener
+
+Text
+CJTW-FM is a Canadian radio station , broadcasting at 93.7 FM in Kitchener , Ontario . The station , owned by Sound of Faith Broadcasting Inc. , airs a Christian music and talk programming format branded as Faith FM 93.7 . Various Christian artists are played , game shows , programs by various speakers/pastors . Faith FM is safe for the whole family or a safe spot on the dial . The station was granted a broadcasting license by the CRTC in 2003 , and began broadcasting on February 28 , 2004 . On April 20 , 2005 , the CRTC denied Sound of Faith Broadcasting 's application to change CJTW-FM 's frequency from 94.3 MHz to 106.7 MHz . The licensee also proposed to change the authorized contours by increasing the effective radiated power from 50 watts to 1,585 watts , and the antenna height from 55 to 58 meters . On April 10 , 2006 , Sound of Faith was denied to increase CJTW-FM 's power from 50 watts to 141 watts ( average ) / 250 watts ( maximum ) and increase in antenna height ( at the same location ) from 54 to 58 metres . On February 27 , 2015 , Sound of Faith submitted an application for a new Christian music radio station in Kitchener that would replace CJTW-FM 94.3 , which would operate at 93.7 MHz with an effective radiated power of 420 watts ( non-directional antenna with an effective height of antenna above average terrain of 58 metres ) . Sound of Faith expressed that a new license and frequency is necessary , as they wanted to increase its power and coverage area , but are unable to do so at 94.3 , due to a similar low-powered FM station in Woodstock also broadcasting at 94.3 , CJFH-FM , as well as potential first-adjacent interference issues with Toronto 's CBC Radio 2 outlet , CBL-FM 94.1 . In addition , the Rogers Cable system had since included CJTW-FM on its audio line-up in Kitchener , but as they have picked the station up directly from the airwaves from its master antenna between Kitchener and Woodstock , it often received interference between CJTW-FM and CJFH-FM . The CRTC approved Sound of Faith 's application to operate a new FM station at 93.7 MHz , to replace CJTW-FM 94.3 MHz on September 17 , 2015 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: CJTW-FM is a Christian radio station that broadcasts at 93.7 FM in Kitchener, Ontario. The station is owned by Sound of Faith Broadcasting Inc. and airs Christian music and talk programming. It was granted a broadcasting license in 2003 and began broadcasting in 2004. Over the years, the station has faced challenges and setbacks related to its frequency and power, but in 2015, the CRTC approved its application to operate at 93.7 MHz.

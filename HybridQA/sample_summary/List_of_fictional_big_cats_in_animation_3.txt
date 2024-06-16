@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of fictional big cats in animation" and create a summary.
+
+Name | Work | Notes
+Tigger | The House at Pooh Corner | Tigger is a fictional tiger character originally introduced in A . A. Milne 's book The House at Pooh Corner
+
+Text
+Tigger is a fictional tiger character originally introduced in The House at Pooh Corner , the sequel to Winnie-the-Pooh by A . A. Milne . Like other Pooh characters , Tigger is based on one of Christopher Robin Milne 's stuffed toy animals . Tigger appears in the Disney cartoon versions of Winnie the Pooh and has also appeared in his own film . He is known for his distinctive orange and black stripes , large eyes , a long chin , a springy tail , and his love of bouncing . As he says himself , Bouncing is what Tiggers do best . Tigger never refers to himself as a tiger , but as a Tigger . Although he often refers to himself in the third person plural ( e.g . Tiggers do n't like honey ! ) , he maintains that he is the only one .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The provided table and text are about Tigger, a fictional big cat in animation from the book "The House at Pooh Corner" by A.A. Milne. Tigger is a tiger character who appears in Disney cartoons of Winnie-the-Pooh and has his own film. He is known for his distinctive appearance and love of bouncing. Tigger refers to himself as a Tigger, not a tiger, and claims to be the only one of his kind.

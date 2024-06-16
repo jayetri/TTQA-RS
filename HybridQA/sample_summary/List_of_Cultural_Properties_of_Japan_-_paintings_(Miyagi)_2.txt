@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Cultural Properties of Japan - paintings (Miyagi)" and create a summary.
+
+Property | Municipality | Ownership | Comments | Ref
+Byōbu with Blossom Viewing at Kasumigaoka 躑躅ヶ岡花見図屏風 Kasumigaoka hanami zu byōbu | Sendai | Sendai City Museum |  | [ 22 ]
+
+Text
+Byōbu ( 屏風 , wind wall ) are Japanese folding screens made from several joined panels , bearing decorative painting and calligraphy , used to separate interiors and enclose private spaces , among other uses .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays information about "List of Cultural Properties of Japan - paintings (Miyagi)". There is only one property listed, which is the Byōbu with Blossom Viewing at Kasumigaoka ( 躑躅ヶ岡花見図屏風 Kasumigaoka hanami zu byōbu ) located in Sendai and owned by the Sendai City Museum. This byōbu is a traditional Japanese folding screen, used for interior decoration, separation of spaces, and

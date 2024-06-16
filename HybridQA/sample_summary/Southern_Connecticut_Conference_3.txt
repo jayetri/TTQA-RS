@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Southern Connecticut Conference" and create a summary.
+
+High School | School Mascot | Location | School Colors
+Mercy High School | Tigers | Middletown , Connecticut | Blue & Gold
+
+Text
+Mercy High School is a private , Roman Catholic , all-girls high school in Middletown , Connecticut located within the Roman Catholic Diocese of Norwich . Their brother school is Xavier High School ( Connecticut ) .
+Mercy High School is a private , Roman Catholic , all-girls high school in Middletown , Connecticut located within the Roman Catholic Diocese of Norwich . Their brother school is Xavier High School ( Connecticut ) .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Mercy High School is a private Roman Catholic all-girls high school located in Middletown, Connecticut and is affiliated with the Roman Catholic Diocese of Norwich. The school's mascot is the Tigers and its colors are blue and gold. It has a brother school, Xavier High School in Connecticut.

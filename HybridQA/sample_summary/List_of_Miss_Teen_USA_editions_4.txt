@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Miss Teen USA" and create a summary.
+
+Year | 2nd runner-up | State Represented | Hometown | Age
+2000 | Kristen Johnson | Kentucky | Slaughters | 18
+
+Text
+The Miss Kentucky Teen USA competition is the pageant that selects the representative for the state of Kentucky in the Miss Teen USA pageant . Mattie Barker of Louisville was crowned Miss Kentucky Teen USA 2020 on February 1 , 2020 at The Center for Rural Development in Somerset . She will represent Kentucky for the title of Miss Teen USA 2020 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the results of the 2000 Miss Teen USA pageant with Kristen Johnson from Kentucky being the 2nd runner-up at the age of 18 from Slaughters. The text is about the Miss Kentucky Teen USA competition that chooses the representative for Kentucky in the Miss Teen USA pageant and mentions that Mattie Barker was crowned Miss Kentucky Teen USA 2020 and will represent Kentucky in the Miss Teen USA 2020 pageant.

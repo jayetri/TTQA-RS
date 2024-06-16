@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Brigham Young University alumni" and create a summary.
+
+Name | Class year ( s ) | Degree ( s ) | Notability
+Brett Helquist | 1993 | BFA | Illustrator best known for his work on A Series of Unfortunate Events
+
+Text
+Brett L. Helquist ( born in 1966 ) is an American illustrator best known for his work in the children 's books A Series of Unfortunate Events . As such , his illustrations for that series have appeared in multiple media , including the books , the audio book covers , and the calendars .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Brett Helquist, born in 1966, is an American illustrator who graduated from Brigham Young University with a BFA degree in 1993. He is best known for his work on the children's book series A Series of Unfortunate Events, with his illustrations appearing in multiple media, including books, audio book covers, and calendars.

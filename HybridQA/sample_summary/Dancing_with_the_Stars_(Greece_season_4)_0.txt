@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Dancing with the Stars (Greek season 4)" and create a summary.
+
+Celebrity | Occupation | Professional partner | Status
+Chrispa | Singer | Vaggelis Holevas Thodoris Panagakos ( Week 7 ) | Eliminated 6th on December 8 , 2013
+
+Text
+Chrispa ( Greek : Χρύσπα , born Chrisanthi-Pagona Pitiropoulou on 7 December 1982 ) is a Greek singer . She has released five studio albums .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Greek singer Chrispa (Chrisanthi-Pagona Pitiropoulou), aged 31, participated in the fourth season of "Dancing with the Stars" and was eliminated sixth on December 8, 2013.

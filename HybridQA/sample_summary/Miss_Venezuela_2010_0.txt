@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Miss Venezuela 2010" and create a summary.
+
+State | Contestant | Age | Height | Hometown
+Nueva Esparta | Melanie Reza Félix | 18 | 180 cm ( 5 ft 11 in ) | Caracas
+
+Text
+Jessica Cristina Barboza Schmidt ( born in Maracaibo , Venezuela on 14 August 1987 ) is a Venezuelan model and beauty pageant titleholder who won the titles of Miss Earth Venezuela 2009 and Miss International Venezuela 2010 .
+Maracaibo ( /ˌmærəˈkaɪboʊ/ ; Spanish pronunciation : [ maɾaˈkaiβo ] ( listen ) ) is a city and the municipal seat of Maracaibo Municipality in northwestern Venezuela , on the western shore of the strait that connects Lake Maracaibo to the Gulf of Venezuela . It is the second-largest city in Venezuela , after the national capital , Caracas , and the capital of the state of Zulia . The population of the city is approximately 2,658,355 with the metropolitan area estimated at 5,278,448 as of 2010 [ update ] . Maracaibo is nicknamed The Beloved Land of the Sun ( Spanish : La Tierra del Sol Amada ) . Maracaibo is considered the economic center of the western part of Venezuela , owing to the petroleum industry that developed in the shores of Lake Maracaibo . It is sometimes known as The First City of Venezuela , for being the first city in Venezuela to adopt various types of public services , including electricity , as well as for being located adjacent to shores of Lake Maracaibo , where the name of Venezuela allegedly originates . Early indigenous settlements around the area were of Arawak and Carib origin . Maracaibos founding date is disputed . There were failed attempts to found the city - in 1529 , by Captain Ambrosio Ehinger , and in 1569 , by Captain Alonso Pacheco . Founded in 1574 as Nueva Zamora de la Laguna de Maracaibo by Captain Captain Pedro Maldonado , the city became a transshipment point for inland settlements after Gibraltar , at the head of the lake , had been destroyed by pirates in 1669 . It was not until the first decades of the 17th century that the first town was settled . Petroleum was discovered in 1917 , leading to a large increase in population from migration .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays information about a contestant, Melanie Reza Félix, representing the state of Nueva Esparta in Miss Venezuela 2010. She is 18 years old, 5 ft 11 in tall, and from Caracas. The text is not about Melanie but about Jessica Cristina Barboza Schmidt, a Venezuelan model who won titles of Miss Earth Venezuela 2009 and Miss International Venezuela 2010. Additionally, the text provides background information about Maracaibo, a city in

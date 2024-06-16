@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "2013 Montreal Impact season" and create a summary.
+
+No | Pos | Name | MS
+1 | GK | Perkins | 10
+
+Text
+Troy Perkins ( born July 29 , 1981 ) is a retired American soccer player . During his career , he played for clubs in the United States , Canada , and Norway . The 2006 Major League Soccer Goalkeeper of the Year award winner earned seven caps with the United States national team .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows information about the 2013 Montreal Impact season with a single entry for the goalkeeper position held by Troy Perkins, who appeared in 10 matches. Perkins is a retired American soccer player who won the 2006 MLS Goalkeeper of the Year award and earned seven caps with the US national team, having played for clubs in the US, Canada, and Norway.

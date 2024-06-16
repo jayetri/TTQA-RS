@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Samuthirakani" and create a summary.
+
+Year | Film | Language | Notes
+2016 | Appa | Tamil | 
+
+Text
+Appa ( English : Father ) is a 2016 Indian Tamil-language independent drama film written and directed by Samuthirakani and is produced by Sasikumar who also plays a guest appearance . The film is a spin-off to the 2012 film Saattai and features Samuthirakani and Thambi Ramaiah reprising their roles from the previous film , while Namo Narayanan , Vignesh and Nasath play supporting roles . Featuring music composed by Ilaiyaraaja , the film began production in late 2015 and continued till March 2016 . The film was released on 1 July 2016 . The film was remade in Malayalam as Aakashamittayi ( 2017 ) with Jayaram playing the main lead .
+Appa ( English : Father ) is a 2016 Indian Tamil-language independent drama film written and directed by Samuthirakani and is produced by Sasikumar who also plays a guest appearance . The film is a spin-off to the 2012 film Saattai and features Samuthirakani and Thambi Ramaiah reprising their roles from the previous film , while Namo Narayanan , Vignesh and Nasath play supporting roles . Featuring music composed by Ilaiyaraaja , the film began production in late 2015 and continued till March 2016 . The film was released on 1 July 2016 . The film was remade in Malayalam as Aakashamittayi ( 2017 ) with Jayaram playing the main lead .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Samuthirakani is the writer and director of the 2016 Tamil-language independent drama film Appa, which is a spin-off of the 2012 film Saattai. The film features Samuthirakani and Thambi Ramaiah reprising their roles from the previous film, along with supporting actors Namo Narayanan, Vignesh, and Nasath. The music is composed by Ilaiyaraaja, and the film was released on July 1

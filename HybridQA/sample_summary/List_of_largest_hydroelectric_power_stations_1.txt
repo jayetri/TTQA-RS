@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "List of largest hydroelectric power stations" and create a summary.
+
+Name | Country | River | Expected capacity ( MW ) | Expected completion | Location
+Tocoma | Venezuela | Caroní | 2,320 | ? ? ( on hold ) | 27°33′13″N 94°15′31″E / 27.55361°N 94.25861°E / 27.55361 ; 94.25861 ( Tocoma Dam )
+
+Text
+The Caroní River is the second most important river of Venezuela , the second in flow , and one of the longest , 952 kilometres ( 592 mi ) from the Tepui Kukenan , where it originates with the same name Kukenan , up to its confluence with the River Orinoco to which it belongs . The name Caroni is applied starting from the confluence of the Kukenan with the Yuruani , at 182 kilometres ( 113 mi ) from the source of the Kukenan and 770 kilometres ( 480 mi ) from its discharge in the Orinoco . The meeting takes place in the south of Venezuela , in Bolivar State , being the most important tributary of the Orinoco , mostly because of the high discharge rate . The higher basin of the Caroni is situated in the Gran Sabana ( Canaima National Park ) close to the border with Brazil .
+The Caroní River is the second most important river of Venezuela , the second in flow , and one of the longest , 952 kilometres ( 592 mi ) from the Tepui Kukenan , where it originates with the same name Kukenan , up to its confluence with the River Orinoco to which it belongs . The name Caroni is applied starting from the confluence of the Kukenan with the Yuruani , at 182 kilometres ( 113 mi ) from the source of the Kukenan and 770 kilometres ( 480 mi ) from its discharge in the Orinoco . The meeting takes place in the south of Venezuela , in Bolivar State , being the most important tributary of the Orinoco , mostly because of the high discharge rate . The higher basin of the Caroni is situated in the Gran Sabana ( Canaima National Park ) close to the border with Brazil .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Tocoma hydroelectric power station in Venezuela has an expected capacity of 2,320 MW. It is located on the Caroní River, which is the second most important river in Venezuela, stretching 952 km in length from its origin in the Tepui Kukenan to its confluence with the River Orinoco.

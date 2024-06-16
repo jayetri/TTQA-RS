@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "2012 Allsvenskan" and create a summary.
+
+Team | Head coach | Captain | Kit manufacturer | Shirt sponsor
+Gefle IF | Per Olsson | Daniel Bernhardsson | Umbro | Sandvik
+
+Text
+Per Pelle Olsson ( born 1 August 1963 ) is a Swedish football manager in charge of Sandvikens IF . He started out playing for his hometown club Skutskärs IF . During his injury-filled playing career he also represented Gefle IF , Malmö FF , Halmstads BK and the Sweden national under-21 football team . In his managerial career he is influenced by the managers who he previously played for like Roy Hodgson , Stuart Baxter and Benny Lennartsson . Before the start of the 2012 Allsvenskan season he was named the best manager in the league by newspaper Aftonbladet due to his ability to build a low-budget team that is greater than its individual parts .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: Per Olsson, (born August 1, 1963), is a Swedish football manager who currently manages Gefle IF, as indicated in the table, but the text states he manages Sandvikens IF. According to the text, he is influenced by several managers he played for, including Roy Hodgson, Stuart Baxter, and Benny Lennartsson. Prior to the 2012 Allsvenskan season, Olsson was named the best manager in the league by Afton

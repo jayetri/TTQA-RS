@@ -1,0 +1,12 @@
+Prompt:
+
+
+Read the table and text regarding "2011 UCI Women's Road World Cup" and create a summary.
+
+ | Date | Race | Country | Winner | Team
+# 7 | 29 July | Open de Suède Vårgårda TTT | Sweden | Ellen van Dijk ( NED ) Charlotte Becker ( GER ) Amber Neben ( USA ) Judith Arndt ( GER ) | HTC-Highroad Women
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The 2011 UCI Women's Road World Cup was held from March to August. The seventh race, Open de Suède Vårgårda TTT, took place on July 29 in Sweden. The team HTC-Highroad Women won the race, with riders Ellen van Dijk from the Netherlands, Charlotte Becker and Judith Arndt from Germany, and Amber Neben from the United States.

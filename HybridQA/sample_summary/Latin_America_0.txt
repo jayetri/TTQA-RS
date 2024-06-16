@@ -1,0 +1,12 @@
+Prompt:
+
+
+Read the table and text regarding "Latin America" and create a summary.
+
+City | Country | 2017 population | 2014 GDP ( PPP , $ million , USD ) | 2014 GDP per capita , ( USD )
+Rio de Janeiro | Brazil | 14,440,345 | $ 176,630 | $ 14,176
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table displays information about Rio de Janeiro city in Brazil, Latin America. Rio de Janeiro has a population of 14,440,345 as of 2017. The city's Gross Domestic Product (GDP) in 2014, measured in Purchasing Power Parity (PPP) terms in millions of US Dollars, was $176,630 million. The GDP per capita for 2014 was $14,176 in USD.

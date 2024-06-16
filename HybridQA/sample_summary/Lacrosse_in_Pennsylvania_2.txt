@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Lacrosse in Pennsylvania" and create a summary.
+
+College Team | Year | Record | Comments
+Temple Owls | 1988 | 19-0 | Won the 1988 Women 's NCAA Division I tournament going undefeated , defeating Penn State 15-7 , led by National Lacrosse Hall of Famer Amanda O'Leary . O'Leary also won NCAA Player of the Year
+
+Text
+The annual NCAA Division I Women 's Lacrosse Championship tournament has determined the top women 's lacrosse team in the NCAA Division I since 1982 . University of Maryland is the champion , having defeated Boston College in the 2019 NCAA Division I Women 's Lacrosse Championship final .
+The Penn Quakers women 's lacrosse team is a NCAA Division I college lacrosse team representing the University of Pennsylvania as part of the Ivy League . They play their home games at Franklin Field in Philadelphia , Pennsylvania .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The given information describes the achievements of lacrosse teams in Pennsylvania. The table highlights Temple Owls' 1988 women's NCAA Division I tournament win, led by Amanda O'Leary. The text discusses the NCAA Division I Women's Lacrosse Championship tournament and mentions the Penn Quakers women's team, which is part of the Ivy League and plays at Franklin Field in Philadelphia.

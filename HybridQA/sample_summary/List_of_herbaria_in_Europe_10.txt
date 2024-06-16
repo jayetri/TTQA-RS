@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of herbaria in Europe" and create a summary.
+
+Name | No . Specimens | Abbr | Country | City
+Universitat de Barcelona | 300,000 | BCN | Spain | Barcelona
+
+Text
+The University of Barcelona ( Catalan : Universitat de Barcelona , UB ; IPA : [ uniβəɾsiˈtad də βəɾsəˈlonə ] ; Spanish : Universidad de Barcelona ) is a public university located in the city of Barcelona , Catalonia in Spain . With 73 undergraduate programs , 273 graduate programs and 48 doctorate programs to over 63,000 students , UB is considered to be the best university in Spain in the QS World University Rankings of 2018 , which ranked the university 156th overall in the world . In the 2016-2017 ranking of University Ranking by Academic Performance , UB is considered the best university in Spain and 45th university in the world . Also , according to the yearly ranking made by US News , it is the 81st-best university in the world , and the best university in Spain .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists the University of Barcelona herbarium, which contains around 300,000 specimens and is located in Barcelona, Spain. The university is a public institution that ranks highly globally and nationally, offering various undergraduate, graduate, and doctorate programs to over 63,000 students.

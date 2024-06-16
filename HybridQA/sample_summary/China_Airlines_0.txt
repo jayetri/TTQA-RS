@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "China Airlines" and create a summary.
+
+Company | Type | Principal activities | Incorporated in | Group 's equity shareholding
+Tigerair Taiwan | Subsidiary | Low-cost carrier | Taiwan | 100%
+
+Text
+Tigerair Taiwan ( Chinese : 臺灣虎航 ; pinyin : Táiwān Hǔháng ) is a low-cost carrier ( LCC ) based at Taoyuan International Airport . The airline has a fleet of ten aircraft as of March 2017 . It was formed as a joint venture between China Airlines Group and Budget Aviation Holdings . Prior to 2016 , China Airlines held 80 percent of the share while Budget Aviation Holdings and Mandarin Airlines each held 10 percent . In 2017 , as Tigerair Singapore merged into Scoot , CAPA reported that China Airlines had purchased Budget Aviation Holdings ' 10% stake , leaving China Airlines and its subsidiary Mandarin Airlines as joint owners of the airline .
+Taiwan ( Chinese : 臺灣 ; pinyin : Táiwān ) , [ II ] officially the Republic of China ( ROC ) , [ I ] is a state in East Asia . Neighbouring states include the People 's Republic of China ( PRC ) to the north-west , Japan to the north-east , and the Philippines to the south . The island of Taiwan has an area of 35,808 square kilometres ( 13,826 sq mi ) , with mountain ranges dominating the eastern two-thirds and plains in the western third , where its highly urbanised population is concentrated . Taipei is the capital and largest metropolitan area . Other major cities include Kaohsiung , Taichung , Tainan and Taoyuan . With 23.7 million inhabitants , Taiwan is among the most densely populated states , and is the most populous state and largest economy that is not a member of the United Nations ( UN ) . Taiwanese indigenous peoples settled the island of Taiwan around 6,000 years ago . In the 17th century , Dutch rule opened the island to mass Han immigration . After the brief Kingdom of Tungning in parts of the southern and western areas of the island , the island was annexed in 1683 by the Qing dynasty of China , and ceded to the Empire of Japan in 1895 . Following the surrender of Japan in 1945 , the Republic of China , which had overthrown and succeeded the Qing in 1911 , took control of Taiwan on behalf of the World War II Allies . The resumption of the Chinese Civil War led to the loss of the mainland to the Communist Party of China and the flight of the ROC government to Taiwan in 1949 . Although the ROC government continued to claim to be the legitimate representative of China , since 1950 its effective jurisdiction has been limited to Taiwan and numerous smaller islands .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows that Tigerair Taiwan, a low-cost carrier, is a subsidiary of China Airlines Group with 100% equity shareholding. The airline operates from Taoyuan International Airport and has a fleet of ten aircraft. China Airlines purchased Budget Aviation Holdings' 10% stake in 2017, becoming the sole owner of Tigerair Taiwan. Taiwan is an island state in East Asia with a population of 23.7 million, located near the People's Republic of China, Japan, and

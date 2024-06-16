@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of black superheroes" and create a summary.
+
+Name | Alter Ego ( s ) | First Appearance | Year
+Cobra Bubbles |  | Lilo & Stitch | 2002
+
+Text
+Lilo & Stitch is a 2002 American animated adventure science fiction comedy-drama film produced by Walt Disney Feature Animation and released by Walt Disney Pictures . Disney 's 42nd animated feature film , it was written and directed by Dean DeBlois and Chris Sanders ( who is the voice of Stitch ) , and features the voices of Daveigh Chase , Tia Carrere , David Ogden Stiers , Kevin McDonald , Ving Rhames , Jason Scott Lee , and Kevin Michael Richardson . It was the second of three Disney animated features ( the others being Mulan and Brother Bear ) produced primarily at the Florida animation studio located at Disney 's Hollywood Studios ( known as Disney-MGM Studios during production ) in Walt Disney World near Orlando , Florida . It was released on June 21 , 2002 , to positive reviews and was nominated for the 2002 Academy Award for Best Animated Feature . That Academy Award was won by Studio Ghibli 's 2001 film Spirited Away , which was also distributed in the United States by Walt Disney Pictures , and also starred Chase and Stiers in the English version . The film 's story revolves around two eccentric and mischievous individuals : a young Hawaiian girl named Lilo Pelekai , who is raised by her older sister Nani after their parents died in a car accident , and a blue extraterrestrial animal-like creature named Experiment 626 , who gets adopted by Lilo as her dog and is given the name Stitch . Stitch , who is genetically engineered by his scientist creator to cause chaos and destruction , initially uses Lilo to avoid being captured by an intergalactic federation , but the two individuals develop a close bond through the Hawaiian concept of ʻohana , or extended family . This bond causes Stitch to reconsider , and later defy , his intended destructive purpose in order to keep his family together . The success of the film spawned a franchise . A direct-to-video sequel called Stitch ! The Movie was released on August 26 , 2003 . This was followed by a television series , Lilo & Stitch : The Series , which ran from September 20 , 2003 , to July 29 , 2006 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists Cobra Bubbles as a black superhero with no alter ego, first appearing in the 2002 film Lilo & Stitch. The rest of the text provides background information on the film Lilo & Stitch, its production, release, reviews, awards, and subsequent franchise.

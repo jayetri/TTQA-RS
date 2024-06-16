@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "Minnesota Vikings draft history" and create a summary.
+
+Round | Pick # | Overall | Name | Position | College
+1 | 24 | 24 | Leo Hayden | Running back | Ohio State
+
+Text
+Jeff Ralph Wright ( born June 13 , 1949 ) is a former American football player . He played safety for the Minnesota Vikings for the National Football League ( NFL ) from 1971 to 1977 , appearing in three Super Bowls . He finished his NFL career with 12 interceptions and 9 fumbles recovered in 82 regular season games . After graduating from Edina High School , Wright attended the University of Minnesota , where he was to the 1970 All-Big Ten Conference football team . He was drafted by his hometown team in 15th round of the 1971 NFL Draft .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table shows the 24th overall pick in the 1st round of the NFL draft as Leo Hayden, running back from Ohio State. The text discusses Jeff Ralph Wright, a former Vikings player who played safety from 1971-1977, appearing in three Super Bowls. He was picked in the 15th round of the 1971 draft.

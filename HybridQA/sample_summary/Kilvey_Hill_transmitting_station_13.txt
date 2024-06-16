@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Kilvey Hill transmitting station" and create a summary.
+
+Frequency | kW | Service | Description
+91.7 MHz | 0.925 | BBC Radio 3 | Classical , jazz , world music and the arts
+
+Text
+Classic FM ( stylised as Classic fM ) is one of the United Kingdom 's three Independent National Radio stations . The station broadcasts classical music . Classic FM was the first national classical music station to have been launched since the opening of BBC Radio 3 , 25 years earlier , in September 1967 , and 46 years since the opening of Radio 3 's predecessor , The Third Programme , in September 1946 .
+Classic FM ( stylised as Classic fM ) is one of the United Kingdom 's three Independent National Radio stations . The station broadcasts classical music . Classic FM was the first national classical music station to have been launched since the opening of BBC Radio 3 , 25 years earlier , in September 1967 , and 46 years since the opening of Radio 3 's predecessor , The Third Programme , in September 1946 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table and text are describing the Kilvey Hill transmitting station, which broadcasts BBC Radio 3 on 91.7 MHz with a power of 0.925 kW. Additionally, the text talks about Classic FM, a UK radio station that broadcasts classical music, which was launched 25 years after BBC Radio 3 and 46 years after The Third Programme.

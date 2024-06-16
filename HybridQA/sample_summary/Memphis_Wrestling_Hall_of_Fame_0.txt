@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Memphis Wrestling Hall of Fame" and create a summary.
+
+# | Year | Ring name ( Real name ) | Inducted for | Notes
+1 | 1994 | Tommy Gilbert | Wrestling , Refereeing , and Promoting | Won the NWA Mid-America Heavyweight Championship ( 1 time ) , NWA Southern Junior Heavyweight Championship ( 6 times ) , NWA Southern Tag Team Championship ( Mid-America version ) ( 11 times ) , NWA Tennessee Tag Team Championship ( 4 times ) , and NWA Six-Man Tag Team Championship ( 2 times )
+
+Text
+The NWA Southern Junior Heavyweight Championship is a professional wrestling title for lighter wrestlers , board-controlled by the National Wrestling Alliance since December 1949 . It originally was used by various promotions across the Southeastern United States , most prevalently in NWA Mid-America based Tennessee . In August 1974 , it was renamed the NWA Southern Heavyweight Championship ( Memphis version ) . The title was revived by the NWA in December 1999 , and is used in the NWA Mid-South promotion , based in Humboldt , Tennessee .
+Roscoe Monroe Brumbaugh ( born Rosco Monroe Merrick ; December 18 , 1928 - November 3 , 2006 ) better known by his ring name Sputnik Monroe , was an American professional wrestler . He was a headliner in many territories , and was best known in Memphis , Tennessee , where he and Billy Wicks set an attendance record that lasted until the Monday Night Wars boom period .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Memphis Wrestling Hall of Fame was established in 1994, inducting Tommy Gilbert, a wrestler, referee, and promoter, who won several championships including NWA Mid-America Heavyweight, NWA Southern Junior Heavyweight, and NWA Southern Tag Team championships. The text also provides details about the NWA Southern Junior Heavyweight Championship, a professional wrestling title, and Roscoe Monroe Brumbaugh, also known as Sputnik Monroe, a notable American professional wrestler who headlined

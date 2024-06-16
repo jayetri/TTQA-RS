@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of people from the London Borough of Southwark" and create a summary.
+
+Name | Notability | District
+Henry Thrale | Anchor Brewery heir , Member of Parliament ( 1765-80 ) , Sheriff of the City of London | Southwark
+
+Text
+Southwark ( /ˈsʌðək/ SUDH-ək ) is a district of Central London and is the north-west of the London Borough of Southwark . Centred 1 1⁄2 miles ( 2.4 km ) east of Charing Cross , it fronts the River Thames and the City of London to the north . It was at the lowest bridging point of the Thames in Roman Britain , providing a crossing from Londinium , and for centuries had the only Thames bridge in the area , until a bridge was built upstream more than 10 miles ( 16 km ) to the west . [ n 1 ] It was a 1295-enfranchised ( nationally represented ) borough in the county of Surrey , apparently created a burh in 886 , containing various parishes by the high medieval period , lightly succumbing to City attempts to constrain its free trade and entertainment . Its entertainment district , in its heyday at the time of Shakespare 's Globe Theatre ( which stood 1599-1642 ) has revived in the form of the Southbank which overspills imperceptibly into the ancient boundaries of Lambeth and commences at the post-1997 reinvention of the original theatre , Shakespeare 's Globe , incorporating other smaller theatre spaces , an exhibition about Shakespeare 's life and work and which neighbours Vinopolis and the London Dungeon . After the 18th-century decline of Southwark 's small wharves , the borough rapidly grew in population and saw the growth of great docks , printing/paper , railways , goods yards , small artisan and other often low-wage industries and Southwark was among many such inner districts to see slum clearance and replacement largely with social housing during the late 19th and early 20th centuries . It is now at an advanced stage of regeneration and has the City Hall offices of the Greater London Authority . At its heart is the area known as Borough , which has an eclectic covered and semi-covered market and numerous food and drink venues as well as the skyscraper The Shard . Another landmark is Southwark Cathedral , a priory then parish church , created a cathedral in 1905 , noted for its Merbecke Choir . The area has three main tube stations : Borough , Southwark nearby and one close to the river which is combined with a major railway station above , London Bridge .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists a single entry: Henry Thrale, a heir to the Anchor Brewery, a Member of Parliament (1765-80), and a Sheriff of the City of London, who is from the Southwark district.

@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "United Kingdom general election records" and create a summary.
+
+Candidates | Constituency | Election | Incumbent
+11 | Hackney South and Shoreditch | 2015 | Meg Hillier
+
+Text
+Hackney South and Shoreditch is a constituency [ n 1 ] represented in the House of Commons of the UK Parliament since 2005 by Meg Hillier of the Labour Party and of the Co-operative Party . [ n 2 ]
+Hackney South and Shoreditch is a constituency [ n 1 ] represented in the House of Commons of the UK Parliament since 2005 by Meg Hillier of the Labour Party and of the Co-operative Party . [ n 2 ]
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The summary is related to United Kingdom general election records. In the Hackney South and Shoreditch constituency, there were 11 candidates in the 2015 general election, where the incumbent was Meg Hillier of the Labour Party and the Co-operative Party, who has been representing the constituency since 2005.

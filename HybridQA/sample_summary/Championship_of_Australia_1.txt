@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "Championship of Australia" and create a summary.
+
+Club | Titles | Years won
+Hawthorn | 1 | 1971
+
+Text
+The 1970 Championship of Australia was the 14th edition of the Championship of Australia , an ANFC-organised national club Australian rules football match between the champion clubs from the VFL and the SANFL .
+The Carlton Football Club , nicknamed the Blues , is an Australian rules football club based in Melbourne , Victoria . Founded in 1864 in Carlton , an inner suburb of Melbourne , the club competes in the Australian Football League ( formerly the Victorian Football League ) , and was one of the competition 's eight founding member clubs in 1896 . The club 's headquarters and training facilities are located in Carlton at Princes Park , its traditional home ground , and it currently plays its home matches at either Docklands Stadium ( currently known as Marvel Stadium ) or the Melbourne Cricket Ground . Carlton has historically been one of the AFL 's most successful clubs , having won sixteen senior VFL/AFL premierships , equal with Essendon as the most of any club ; prior to this , it won six senior premierships , including two in the Victorian Football Association . The club has also fielded a team in the AFL Women 's league since its establishment in 2017 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The Championship of Australia was a national club Australian rules football match between the champion clubs from the VFL and the SANFL. The table shows that Hawthorn won the championship once in 1971. The text presents information about the Carlton Football Club, which is an Australian rules football club based in Melbourne, Victoria, and has won 16 senior VFL/AFL premierships and 6 senior premierships prior to that. The club competes in the Australian Football League and has also field

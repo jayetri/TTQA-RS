@@ -1,0 +1,15 @@
+Prompt:
+
+
+Read the table and text regarding "List of Washington Redskins players" and create a summary.
+
+# | Name | Pos | College | GP | Seasons
+30 | Trung Canidate | RB | Arizona | 11 | 2003
+
+Text
+The University of Arkansas ( U of A , UArk , or UA ) is a public land-grant , research university in Fayetteville , Arkansas . It is the flagship campus of the University of Arkansas System and the largest , best-known university in the state . Founded as Arkansas Industrial University in 1871 , its present name was adopted in 1899 and classes were first held on January 22 , 1872 . It is noted for its strong architecture , agriculture ( particularly animal science and poultry science ) , business , communication disorders , creative writing , history , law , and Middle Eastern studies programs . Enrollment for the fall semester of 2018 was 27,778 . The university campus consists of 378 buildings spread across 512 acres ( 2.07 km2 ) of land in Fayetteville , Arkansas . Some well known architecture on campus includes Old Main , the first permanent academic building erected . Academic programs are in excess of 200 . The ratio of students to faculty is approximately 19:1 . The university also received a combined total of $ 103.2 million in research awards for the 2017 fiscal year . UA 's athletic teams , the Arkansas Razorbacks , compete in NCAA Division I as members of the Southeastern Conference ( SEC ) with eight men 's teams and eleven women 's teams in thirteen sports . The University is known for its traditions , including Calling the Hogs at sports events , and Senior Walk , more than 4 miles ( 6.4 km ) of campus sidewalk etched with the names of all UA graduates since 1871 .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: The table lists a single Washington Redskins player, Trung Canidate, a running back who played 11 games in the 2003 season and attended the University of Arizona. The accompanying text appears to be unrelated to the table, providing information about the University of Arkansas, including its history, academic programs, faculty-to-student ratio, research awards, athletic teams, and traditions.

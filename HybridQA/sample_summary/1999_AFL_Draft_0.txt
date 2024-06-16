@@ -1,0 +1,16 @@
+Prompt:
+
+
+Read the table and text regarding "1999 AFL draft" and create a summary.
+
+Player | Original club | Traded to | Traded for
+Michael Mansfield | Geelong | Carlton | draft pick # 31
+
+Text
+Michael Mansfield ( born 8 August 1971 ) is a former Australian rules footballer who played for the Geelong Football Club and the Carlton Football Club in the Australian Football League ( AFL ) . A left footed half back flanker , Mansfield was recruited from St Joseph 's and debuted for Geelong in 1990 . He played 181 games for the Cats before moving to Carlton in 1999 where he brought up his 200th game of AFL . During his time with Geelong , Mansfield was twice named an All-Australian , in 1994 and 1995 . Mansfield is now a stockbroker in Melbourne .
+Michael Mansfield ( born 8 August 1971 ) is a former Australian rules footballer who played for the Geelong Football Club and the Carlton Football Club in the Australian Football League ( AFL ) . A left footed half back flanker , Mansfield was recruited from St Joseph 's and debuted for Geelong in 1990 . He played 181 games for the Cats before moving to Carlton in 1999 where he brought up his 200th game of AFL . During his time with Geelong , Mansfield was twice named an All-Australian , in 1994 and 1995 . Mansfield is now a stockbroker in Melbourne .
+
+Summarize the given table and text. 
+Summary:
+
+Summary: In the 1999 AFL draft, Michael Mansfield, a former Australian rules footballer, was traded from Geelong to Carlton in exchange for draft pick #31. He played 181 games for Geelong before moving to Carlton and bringing up his 200th game in AFL. During his time with Geelong, he was twice named an All-Australian in 1994 and 1995. Currently, he works as a stockbroker in Melbourne.
