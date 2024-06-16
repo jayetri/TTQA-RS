@@ -3,12 +3,12 @@
 ## HybridQA:
 
 ### We obtain the raw data from:
-    HybridQA: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
-    WikiTables: [WikiTables](https://github.com/wenhuchen/WikiTables-WithLinks)
+HybridQA: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
+WikiTables: [WikiTables](https://github.com/wenhuchen/WikiTables-WithLinks)
 
 ### Get traced data from retriever:
-    For HybridQA, we used the text retriever from HybridQA: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
-    We used the table retriever from S3HQA: [S3HQA GitHub](https://github.com/lfy79001/S3HQA/tree/main)
+For HybridQA, we used the text retriever from HybridQA: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
+We used the table retriever from S3HQA: [S3HQA GitHub](https://github.com/lfy79001/S3HQA/tree/main)
 
 ### Run Summary, Subanswers, and Entity Types:
 
@@ -46,11 +46,11 @@ The F1 Score is a harmonic mean of precision and recall, providing a balanced me
 ## OTTQA:
    
 ### We obtain the raw data from:
-    OTTQA: [OTTQA GitHub](https://github.com/wenhuchen/OTT-QA)
+OTTQA: [OTTQA GitHub](https://github.com/wenhuchen/OTT-QA)
     
 ### Experiment setup:
-    We only used the dev set for the experiment.
-    We used Hybrider as the retriever: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
+We only used the dev set for the experiment.
+We used Hybrider as the retriever: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
 
 ### Run Summary, Subanswers, and Entity Types:
 
