@@ -1,5 +1,9 @@
 # TTQA-RS- A break-down prompting approach for Multi-hop Table-Text Question Answering with Reasoning and Summarization
 
+## Chain-of-Thought
+All CoT examples are in the examples folder ( HybridQA/examples and OTTQA/examples ), including 1-4 shot of: CoT, Standard Prompting, Full Model with Summary, and Full Model without Summary.
+We did not introduce more shot prompting because llama2, llama3, and gpt4 all have token limits. When the token exceeds 10,000, LLM will not give any response, which affects the accuracy. Therefore, we only include 0-4 shot examples.
+
 ## HybridQA:
 
 ### We obtain the raw data from:
@@ -13,7 +17,7 @@ We used the table retriever from S3HQA: [S3HQA GitHub](https://github.com/lfy790
 ### Run Summary, Subanswers, and Entity Types:
 
 Generating Summary:
-    We used a 0-shot LLAMA-3 70B model to generate summaries. 100 examples are available in the repository.
+    We used a 0-shot LLAMA-3 70B model to generate summaries. 100 examples are contained in HybridQA/sample_summaries folder.
 
 Decomposing Questions:
     We used a 2-shot LLAMA-3 70B model to decompose questions. Pre-made decomposed questions are provided in HybridQA/question_dev.json and HybridQA/question_test.json.
@@ -55,7 +59,7 @@ We used Hybrider as the retriever: [HybridQA GitHub](https://github.com/wenhuche
 ### Run Summary, Subanswers, and Entity Types:
 
 Generating Summary:
-    We used a 0-shot LLAMA-3 70B model to generate summaries. 100 examples are available in the repository.
+    We used a 0-shot LLAMA-3 70B model to generate summaries. 100 examples are contained in OTTQA/sample_summary folder.
 
 Decomposing Questions:
     We used a 2-shot LLAMA-3 70B model to decompose questions. Pre-made decomposed questions are provided in OTTQA/question_dev.json.
