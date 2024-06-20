@@ -2,7 +2,6 @@
 
 ## Chain-of-Thought
 All CoT examples are in the examples folder ( HybridQA/examples and OTTQA/examples ), including 1-4 shot of: CoT, Standard Prompting, Full Model with Summary, and Full Model without Summary.
-We did not introduce more shot prompting because llama2, llama3, and gpt4 all have token limits. When the token exceeds 10,000, LLM will not give any response, which affects the accuracy. Therefore, we only include 0-4 shot examples.
 
 ## HybridQA:
 
