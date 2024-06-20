@@ -69,7 +69,7 @@ Identifying Entity Types:
 ### Run Full Model or Full Model without Summary:
 
 Applicability:
-    This process applies to both the development (dev) and test sets.
+    This process applies to the development (dev) set.
 
 Generating Subanswers:
     First, load the model to generate subanswers for the subquestions, and save the results to the outputs folder. During this process, entity types and summaries are included to achieve better results for the subquestions.
