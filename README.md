@@ -1,5 +1,5 @@
 # TTQA-RS- A break-down prompting approach for Multi-hop Table-Text Question Answering with Reasoning and Summarization
-This repository contains the code for - https://arxiv.org/abs/2406.14732v1 
+This repository contains the code for - [TTQA-RS- A break-down prompting approach for Multi-hop Table-Text Question Answering with Reasoning and Summarization](https://arxiv.org/abs/2406.14732v1) 
 ## Chain-of-Thought
 All CoT examples are in the examples folder ( HybridQA/examples and OTTQA/examples ), including 1-4 shot of: CoT, Standard Prompting, Full Model with Summary, and Full Model without Summary.
 
