@@ -1,0 +1,7 @@
+Row to text: Error: Unable to generate description. Error: Unable to generate description. Error: Unable to generate description.
+
+Text: Snobs is an Australian children 's television series that aired from 29 September to 11 November 2003 on the Nine Network . The series is set in Eden Beach , a fictional suburb of Sydney in its northern beaches district ; and follows the story of a community of travellers known as The Ferals who decide to set up camp in the suburb , despite protest and anger from residents .
+
+The Nine Network ( commonly known as Channel Nine or simply Nine ) is a major Australian commercial free-to-air television network , that is a division of Nine Entertainment Co. with headquarters in Willoughby , a suburb located on the North Shore of Sydney , Australia . The Nine Network is one of five main free-to-air commercial networks in Australia . As of 2019 , the Nine Network is the highest-rating television network in Australia , ahead of the Seven Network , Network 10 , ABC , and SBS . Since 2017 , the network 's slogan has been We Are the One .
+
+Summary: The Australian children's television series Snobs aired on the Nine Network from September to November 2003. The series is set in a fictional suburb of Sydney and follows the story of a community of travellers known as The Ferals. The Nine Network is a major Australian commercial television network that is one of the highest-rating networks in the country.  (Note: I removed the extra information about the Nine Network as it was not relevant to the original text)

@@ -1,0 +1,5 @@
+Row to text: The Anglesea Bridge is a bridge located on Donnybrook Road and Stillorgan Road, which is part of the R138 road in Ireland. A list of bridges and roads in Clonskeagh, Dublin, Ireland. A bridge in Ringsend, Dublin, Ireland, opened in 1812, connecting Ringsend Road and Bridge Street to the R802 road.
+
+Text: The R138 road is a regional road in Ireland . It commences at the south end of O'Connell Bridge in Dublin city centre . It proceeds along D'Olier Street , College Street ( and in the opposite direction , Westmoreland Street ) .
+
+Summary: The Anglesea Bridge is a bridge in Ireland, located on Donnybrook Road and Stillorgan Road, which is part of the R138 road. The R138 road is a regional road in Ireland that starts at O'Connell Bridge in Dublin city centre and proceeds along D'Olier Street and College Street.

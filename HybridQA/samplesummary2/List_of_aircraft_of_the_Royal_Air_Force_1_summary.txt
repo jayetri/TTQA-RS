@@ -1,0 +1,7 @@
+Row to text: Error: Unable to generate description. Error: Unable to generate description. Error: Unable to generate description.
+
+Text: The Avro 641 Commodore was a British single-engine five-seat cabin biplane built by Avro in the mid-1930s for private use . A total of only six were built , including the prototype .
+
+Cranfield Airport ( ICAO : EGTC ) is an airfield just outside the village of Cranfield , in Bedfordshire , England . It is 7 NM ( 13 km ; 8.1 mi ) south-west of Bedford and 5.5 NM ( 10.2 km ; 6.3 mi ) east of Milton Keynes . It was originally a World War II aerodrome , RAF Cranfield . It is now used for business aviation , private flights , and for research and development activities .
+
+Summary: The Avro 641 Commodore was a British biplane built in the 1930s for private use, with only six built. Cranfield Airport, originally a World War II aerodrome, is now used for business aviation, private flights, and research activities.

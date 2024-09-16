@@ -1,0 +1,5 @@
+Row to text: The 2005 film 'Two for the Money' features Alexandria in a role. A 2001 film titled Happy Campers, in which Pixel played a role. The film "Blow" was released in the year 2001 and starred Older Kristina.
+
+Text: Two for the Money is a 2005 American sports-drama film directed by D. J. Caruso and starring Al Pacino , Matthew McConaughey , Rene Russo , Armand Assante , and Carly Pope . The film is about the world of sports gambling . It was released on October 7 , 2005 .
+
+Summary: The film "Two for the Money" was released in 2005 and stars Al Pacino and Matthew McConaughey. It is a sports-drama film about the world of sports gambling.

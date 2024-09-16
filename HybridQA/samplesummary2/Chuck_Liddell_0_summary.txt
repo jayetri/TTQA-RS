@@ -1,0 +1,5 @@
+Row to text: A 2007 film titled The Death and Life of Bobby Z, where Maddog plays the role of Maddog. A 1981 film, The Postman Always Rings Twice, where Boy Scout is the role of the actor. A movie titled "How High" released in the year 2001, where the actor played the role of "Tough Guy".
+
+Text: The Death and Life of Bobby Z , also known as Bobby Z and Let 's Kill Bobby Z , is a 2007 American-German action film , directed by John Herzfeld , and starring Paul Walker , Laurence Fishburne , Olivia Wilde and Joaquim de Almeida . The film received an R rating by the MPAA for violence , some drug use , language and brief nudity . Don Winslow , who wrote the novel on which the film is based , acknowledged that the screen adaption was not successful .
+
+Summary: The film "The Death and Life of Bobby Z" is a 2007 American-German action film directed by John Herzfeld and starring Paul Walker, Laurence Fishburne, Olivia Wilde, and Joaquim de Almeida. The film received an R rating for violence, drug use, language, and brief nudity. The novel on which the film is based was written by Don Winslow, who acknowledged that the screen adaptation was not successful.

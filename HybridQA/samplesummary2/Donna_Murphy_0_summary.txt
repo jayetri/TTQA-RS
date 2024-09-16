@@ -1,0 +1,5 @@
+Row to text: A 1995 film titled Jade, starring Karen Heller. The 1998 film 'October 22' starring Carole. A movie titled "Star Trek : Insurrection" released in the year 1998, where Anij played a role.
+
+Text: Jade is a 1995 American erotic thriller film written by Joe Eszterhas , produced by Robert Evans , directed by William Friedkin , and starring David Caruso , Linda Fiorentino , Chazz Palminteri , Richard Crenna , and Michael Biehn . The original music score was composed by James Horner based on a song composed by Loreena McKennitt . The film was marketed with the tagline Some fantasies go too far .
+
+Summary: The film Jade is an American erotic thriller released in 1995, directed by William Friedkin and starring David Caruso and Linda Fiorentino.

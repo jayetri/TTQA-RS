@@ -1,0 +1,7 @@
+Row to text: The Austrian athlete Miriam-Stefanie Kastlunger won a gold medal in the Girls'Singles event of the Luge sport at the 2012 Winter Youth Olympics on 16 January. The 2012 Winter Youth Olympics luge event, Mixed Team Relay, was won by Miriam-Stefanie Kastlunger, Armin Frauscher, Thomas Steu, and Lorenz Koller on 17 Jan. Error: Unable to generate description.
+
+Text: Miriam-Stefanie Kastlunger ( 2 March 1994 , Innsbruck ) is an Austrian luger . She represented Austria at the 2014 Winter Olympics in Sochi in women 's and team relay competitions . In the women 's singles , she finished 17th . In the team relay , together with Wolfgang Kindl ( men 's single ) and Andreas Linger / Wolfgang Linger ( double ) , she became 7th . Kastlunger was both women 's and team relay champion in luge at the 2012 Winter Youth Olympics which took place in Innsbruck .
+
+Luge at the 2012 Winter Youth Olympics took place at the Olympic Sliding Centre Innsbruck venue in Innsbruck , Austria .
+
+Summary: Miriam-Stefanie Kastlunger is an Austrian luger who won gold medals in the Girls' Singles and Mixed Team Relay events at the 2012 Winter Youth Olympics. She also competed in the 2014 Winter Olympics in Sochi, finishing 17th in the women's singles and 7th in the team relay. Kastlunger was born on March 2, 1994, in Innsbruck, Austria. (Note: I corrected the summary to reflect that she won gold medals at the 2012 Winter Youth Olympics, not just the Mixed Team Relay event.))

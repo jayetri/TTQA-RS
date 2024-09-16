@@ -1,0 +1,5 @@
+Row to text: The gymnast Sylvio Kroll from Germany ranked sixth with a total score of 9.637. The gymnast Ralf Büchner from Germany has a total score of 9.787. The gymnast Li Chunyang from China has a total score of 9.787.
+
+Text: Sylvio Kroll ( born 29 April 1965 in Lübben ) is a German former gymnast who competed in the 1988 Summer Olympics and in the 1992 Summer Olympics . In October 1986 , he was awarded a Star of People 's Friendship in gold ( second class ) for his sporting success .
+
+Summary: Sylvio Kroll is a German gymnast who competed in the 1988 and 1992 Summer Olympics. He was awarded a Star of People's Friendship in gold for his sporting success.

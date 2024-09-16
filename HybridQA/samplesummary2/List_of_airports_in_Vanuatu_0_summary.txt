@@ -1,0 +1,9 @@
+Row to text: Craig Cove Airport is an airport in Craig Cove, Ambrym, Malampa Province, Vanuatu. Norsup Airport is an airport in Norsup, Malekoula, Malampa Province, Vanuatu, with the ICAO airport code NVSP and IATA airport code NUS, serving Norsup Airport. Lamap Airport, located in Lamap, Malekula, is an airport in Malampa Province, Vanuatu, with the ICAO code NVSL and IATA code LPM.
+
+Text: Ambrym is a volcanic island in Malampa Province in the archipelago of Vanuatu . Volcanic activity on the island includes lava lakes in two craters near the summit .
+
+Malampa is one of the six provinces of Vanuatu , located in the center of the country . It consists of three main islands : Malakula , Ambrym and Paama , and takes its name from the first syllable of their names . It includes a number of other islands - the small islands of Uripiv , Norsup , Rano , Wala , Atchin and Vao off the coast of Malakula , and the volcanic island of Lopevi ( currently uninhabited ) . Also included are the Maskelynes Islands and some more small islands along the south coast of Malakula .
+
+Craig Cove Airport is an airport in Craig Cove on Ambrym Island in Vanuatu ( IATA : CCV , ICAO : NVSF ) .
+
+Summary: Craig Cove Airport is located on Ambrym Island in Vanuatu, and there are also airports in Norsup and Lamap in the Malampa Province. The Malampa Province is located in the center of Vanuatu and consists of three main islands: Malakula, Ambrym, and Paama. The province also includes several smaller islands. ## Step 1: Identify the main topic of the text
