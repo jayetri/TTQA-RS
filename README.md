@@ -10,8 +10,12 @@ HybridQA: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
 WikiTables: [WikiTables](https://github.com/wenhuchen/WikiTables-WithLinks)
 
 ### Get traced data from retriever:
-For HybridQA, we used the text retriever from HybridQA: [HybridQA GitHub](https://github.com/wenhuchen/HybridQA/tree/master)
-We used the table retriever from S3HQA: [S3HQA GitHub](https://github.com/lfy79001/S3HQA/tree/main)
+
+Inside HybridQA/Retriever
+    First convert table row to summary using bart.
+    Then generate key node for each row and wiki-link in training set.
+    Fine-tuning retriever on pretrained DPR. Batch size: 16, epoch: 8.
+    Compute text similarities based on pretrained DPR and row scores.
 
 ### Run Summary, Subanswers, and Entity Types:
 
