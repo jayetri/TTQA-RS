@@ -37,8 +37,8 @@ Generating Subanswers:
 Answering Main Questions:
     Use the subanswers, along with the entity types from the main questions and the summaries(summary can be commented out for no-summary version) , to help answer the main questions.
 
-### Chain-of-Thought Version:
-All CoT examples are in the examples folder ( HybridQA/examples and OTTQA/examples ), including 1-4 shot of: CoT, Standard Prompting, Full Model with Summary, and Full Model without Summary.
+### Examples:
+All prompting examples are in the examples folder ( HybridQA/examples and OTTQA/examples ), including 1-4 shot of: CoT, Standard Prompting, Full Model with Summary, and Full Model without Summary.
 
 ### Evaluation Method:
 
